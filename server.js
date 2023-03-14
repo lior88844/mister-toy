@@ -16,7 +16,6 @@ app.use(express.static('public'))
 // LIST
 app.get('/api/toy', (req, res) => {
   const criteria = req.query
-
   toyService
     .query(criteria)
     .then(toys => res.send(toys))

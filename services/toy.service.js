@@ -12,35 +12,29 @@ module.exports = {
 
 function query(criteria) {
   const { filterBy, sortBy } = criteria
-  console.log(filterBy, sortBy);
+
   let filteredToys = Toys
   let filter = {
     name: filterBy?.name || '',
-    isOnlyInStock: filterBy?.inStock === 'false' ? false : true || false,
+    inStock: filterBy?.inStock === 'false' ? false : true || false,
     labels: filterBy?.labels || [],
-    sortBy: filterBy?.sortBy || 'created',
     page: filterBy?.page || 0,
   }
-
   let regex = new RegExp(filter.name, 'i')
   filteredToys = filteredToys.filter(
     toy =>
       regex.test(toy.name) &&
-      (!filter.isOnlyInStock || toy.inStock === filter.isOnlyInStock) &&
+      (!filter.inStock || toy.inStock === filter.inStock) &&
       (!filter.labels.length || filter.labels.some(label => toy.labels.includes(label)))
   )
-
+  console.log(filteredToys.forEach(toy => console.log(toy.inStock === filter.inStock)));
+  // console.log(filteredToys);
   if (filter.page) {
     const startIdx = filter.page * PAGE_SIZE
     filteredToys = filteredToys.slice(startIdx, startIdx + PAGE_SIZE)
   }
 
-  if (filter === 'name') {
-    filteredToys = filteredToys.sort((a, b) => a.name.localeCompare(b.name))
-  } else {
-    filteredToys = filteredToys.sort((a, b) => b[criteria.sortBy] - a[criteria.sortBy])
-  }
-
+  if (!sortBy?.by && !sortBy?.desc) return Promise.resolve(filteredToys)
   sortBy.by === 'name'
     ? filteredToys.sort((toy1, toy2) => toy1[sortBy.by].localeCompare(toy2[sortBy.by]))
     : filteredToys.sort((toy1, toy2) => { return (toy1[sortBy.by] - toy2[sortBy.by]) * sortBy.desc })
