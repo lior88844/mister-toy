@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "Lp8t3",
+    "name": "CowBoy",
+    "price": 20,
+    "labels": ["Box game", "Doll", "Puzzle", "Outdoor"],
+    "createdAt": 0,
+    "inStock": true
+  },
+  {
+    "_id": "Llkjf",
+    "name": "Ball",
+    "price": 30,
+    "labels": ["Outdoor", "Box game", "Baby"],
+    "createdAt": 0,
+    "inStock": true
+  }
+]
