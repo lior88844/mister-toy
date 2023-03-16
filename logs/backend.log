@@ -1,0 +1,902 @@
+16.3.2023, 17:20:03 - INFO - {"filterBy":{"name":"cowbo","inStock":"true","labels":["Box game","Art"],"pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:20:03 - DEBUG - Getting Toys 
+16.3.2023, 17:20:03 - INFO - {"name":"cowbo","inStock":"true","labels":["Box game","Art"]} 
+16.3.2023, 17:20:03 - INFO - {"name":"cowbo","inStock":"true","labels":["Box game","Art"]} 
+16.3.2023, 17:20:17 - INFO - {"filterBy":{"name":"","inStock":"true","labels":["Box game","Art"],"pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:20:17 - INFO - {"name":"","inStock":"true","labels":["Box game","Art"]} 
+16.3.2023, 17:20:17 - DEBUG - Getting Toys 
+16.3.2023, 17:20:17 - INFO - {"name":"","inStock":"true","labels":["Box game","Art"]} 
+16.3.2023, 17:20:18 - INFO - {"filterBy":{"name":"b","inStock":"true","labels":["Box game","Art"],"pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:20:18 - INFO - {"name":"b","inStock":"true","labels":["Box game","Art"]} 
+16.3.2023, 17:20:18 - DEBUG - Getting Toys 
+16.3.2023, 17:20:18 - INFO - {"name":"b","inStock":"true","labels":["Box game","Art"]} 
+16.3.2023, 17:20:18 - INFO - {"filterBy":{"name":"ba","inStock":"true","labels":["Box game","Art"],"pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:20:18 - INFO - {"name":"ba","inStock":"true","labels":["Box game","Art"]} 
+16.3.2023, 17:20:18 - DEBUG - Getting Toys 
+16.3.2023, 17:20:18 - INFO - {"name":"ba","inStock":"true","labels":["Box game","Art"]} 
+16.3.2023, 17:20:19 - INFO - {"filterBy":{"name":"bal","inStock":"true","labels":["Box game","Art"],"pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:20:19 - INFO - {"name":"bal","inStock":"true","labels":["Box game","Art"]} 
+16.3.2023, 17:20:19 - INFO - {"name":"bal","inStock":"true","labels":["Box game","Art"]} 
+16.3.2023, 17:20:19 - DEBUG - Getting Toys 
+16.3.2023, 17:20:19 - INFO - {"filterBy":{"name":"ba","inStock":"true","labels":["Box game","Art"],"pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:20:19 - INFO - {"name":"ba","inStock":"true","labels":["Box game","Art"]} 
+16.3.2023, 17:20:19 - DEBUG - Getting Toys 
+16.3.2023, 17:20:19 - INFO - {"name":"ba","inStock":"true","labels":["Box game","Art"]} 
+16.3.2023, 17:20:19 - INFO - {"filterBy":{"name":"b","inStock":"true","labels":["Box game","Art"],"pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:20:19 - INFO - {"name":"b","inStock":"true","labels":["Box game","Art"]} 
+16.3.2023, 17:20:19 - DEBUG - Getting Toys 
+16.3.2023, 17:20:19 - INFO - {"name":"b","inStock":"true","labels":["Box game","Art"]} 
+16.3.2023, 17:20:20 - INFO - {"filterBy":{"name":"","inStock":"true","labels":["Box game","Art"],"pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:20:20 - DEBUG - Getting Toys 
+16.3.2023, 17:20:20 - INFO - {"name":"","inStock":"true","labels":["Box game","Art"]} 
+16.3.2023, 17:20:20 - INFO - {"name":"","inStock":"true","labels":["Box game","Art"]} 
+16.3.2023, 17:20:39 - INFO - App listening on port 3039! 
+16.3.2023, 17:21:38 - INFO - App listening on port 3039! 
+16.3.2023, 17:21:47 - INFO - App listening on port 3039! 
+16.3.2023, 17:21:49 - INFO - {"filterBy":{"name":"","inStock":"false","labels":["Box game","Art"],"pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:21:49 - DEBUG - Getting Toys 
+16.3.2023, 17:21:49 - INFO - {"name":"","inStock":"false","labels":["Box game","Art"]} 
+16.3.2023, 17:21:50 - INFO - {"filterBy":{"name":"","inStock":"true","labels":["Box game","Art"],"pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:21:50 - DEBUG - Getting Toys 
+16.3.2023, 17:21:50 - INFO - {"name":"","inStock":"true","labels":["Box game","Art"]} 
+16.3.2023, 17:21:59 - INFO - {"filterBy":{"name":"","inStock":"false","labels":["Box game","Art"],"pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:21:59 - DEBUG - Getting Toys 
+16.3.2023, 17:21:59 - INFO - {"name":"","inStock":"false","labels":["Box game","Art"]} 
+16.3.2023, 17:21:59 - INFO - {"filterBy":{"name":"","inStock":"true","labels":["Box game","Art"],"pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:21:59 - INFO - {"name":"","inStock":"true","labels":["Box game","Art"]} 
+16.3.2023, 17:21:59 - DEBUG - Getting Toys 
+16.3.2023, 17:22:01 - INFO - {"filterBy":{"name":"","inStock":"false","labels":["Box game","Art"],"pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:22:01 - DEBUG - Getting Toys 
+16.3.2023, 17:22:01 - INFO - {"name":"","inStock":"false","labels":["Box game","Art"]} 
+16.3.2023, 17:22:08 - INFO - {"filterBy":{"name":"","inStock":"true","labels":["Box game","Art"],"pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:22:08 - DEBUG - Getting Toys 
+16.3.2023, 17:22:08 - INFO - {"name":"","inStock":"true","labels":["Box game","Art"]} 
+16.3.2023, 17:22:32 - INFO - {"filterBy":{"name":"","inStock":"true"},"sortBy":{"by":""}} 
+16.3.2023, 17:22:32 - DEBUG - Getting Toys 
+16.3.2023, 17:22:32 - INFO - {"name":"","inStock":"true","labels":[]} 
+16.3.2023, 17:22:32 - INFO - {"filterBy":{"name":"","inStock":"true"},"sortBy":{"by":""}} 
+16.3.2023, 17:22:32 - INFO - {"name":"","inStock":"true","labels":[]} 
+16.3.2023, 17:22:32 - DEBUG - Getting Toys 
+16.3.2023, 17:22:45 - INFO - App listening on port 3039! 
+16.3.2023, 17:23:01 - INFO - App listening on port 3039! 
+16.3.2023, 17:23:01 - INFO - {"filterBy":{"name":"","inStock":"true","pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:23:01 - DEBUG - Getting Toys 
+16.3.2023, 17:23:01 - INFO - {"name":"","inStock":"true","labels":[]} 
+16.3.2023, 17:23:03 - INFO - {"filterBy":{"name":"","inStock":"false","pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:23:03 - DEBUG - Getting Toys 
+16.3.2023, 17:23:03 - INFO - {"name":"","inStock":"false","labels":[]} 
+16.3.2023, 17:23:04 - INFO - {"filterBy":{"name":"","inStock":"true","pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:23:04 - DEBUG - Getting Toys 
+16.3.2023, 17:23:04 - INFO - {"name":"","inStock":"true","labels":[]} 
+16.3.2023, 17:23:11 - INFO - {"filterBy":{"name":"","inStock":"false","pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:23:11 - DEBUG - Getting Toys 
+16.3.2023, 17:23:11 - INFO - {"name":"","inStock":"false","labels":[]} 
+16.3.2023, 17:23:13 - INFO - {"filterBy":{"name":"","inStock":"true","pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:23:13 - DEBUG - Getting Toys 
+16.3.2023, 17:23:13 - INFO - {"name":"","inStock":"true","labels":[]} 
+16.3.2023, 17:23:18 - INFO - {"filterBy":{"name":"","inStock":"false","pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:23:18 - INFO - {"name":"","inStock":"false","labels":[]} 
+16.3.2023, 17:23:18 - DEBUG - Getting Toys 
+16.3.2023, 17:23:35 - INFO - App listening on port 3039! 
+16.3.2023, 17:23:39 - INFO - {"filterBy":{"name":"","inStock":"true","pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:23:39 - INFO - {"name":"","inStock":"true","labels":[]} 
+16.3.2023, 17:23:39 - INFO - {"name":{"$regex":"","$options":"i"}} 
+16.3.2023, 17:23:39 - DEBUG - Getting Toys 
+16.3.2023, 17:24:18 - INFO - App listening on port 3039! 
+16.3.2023, 17:30:50 - INFO - App listening on port 3039! 
+16.3.2023, 17:30:55 - INFO - {"filterBy":{"name":"","inStock":"false","pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:30:55 - INFO - {"name":"","inStock":"false","labels":[]} 
+16.3.2023, 17:30:55 - ERROR - Failed to get toys | ReferenceError: parseBoolean is not defined 
+16.3.2023, 17:30:55 - DEBUG - Getting Toys 
+16.3.2023, 17:30:55 - ERROR - cannot find toys | ReferenceError: parseBoolean is not defined 
+16.3.2023, 17:32:31 - INFO - App listening on port 3039! 
+16.3.2023, 17:32:56 - INFO - {"filterBy":{"name":"","inStock":"true"},"sortBy":{"by":""}} 
+16.3.2023, 17:32:56 - DEBUG - Getting Toys 
+16.3.2023, 17:32:56 - INFO - {"name":"","inStock":"true","labels":[]} 
+16.3.2023, 17:32:56 - INFO - {"name":{"$regex":"","$options":"i"},"inStock":true} 
+16.3.2023, 17:32:57 - INFO - {"filterBy":{"name":"","inStock":"true"},"sortBy":{"by":""}} 
+16.3.2023, 17:32:57 - DEBUG - Getting Toys 
+16.3.2023, 17:32:57 - INFO - {"name":"","inStock":"true","labels":[]} 
+16.3.2023, 17:32:57 - INFO - {"name":{"$regex":"","$options":"i"},"inStock":true} 
+16.3.2023, 17:33:03 - INFO - {"filterBy":{"name":"","inStock":"false","pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:33:03 - DEBUG - Getting Toys 
+16.3.2023, 17:33:03 - INFO - {"name":"","inStock":"false","labels":[]} 
+16.3.2023, 17:33:03 - INFO - {"name":{"$regex":"","$options":"i"},"inStock":true} 
+16.3.2023, 17:34:06 - INFO - {"filterBy":{"name":"","inStock":"true","pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:34:06 - DEBUG - Getting Toys 
+16.3.2023, 17:34:06 - INFO - {"name":"","inStock":"true","labels":[]} 
+16.3.2023, 17:34:06 - INFO - {"name":{"$regex":"","$options":"i"},"inStock":true} 
+16.3.2023, 17:34:09 - INFO - App listening on port 3039! 
+16.3.2023, 17:34:10 - INFO - {"filterBy":{"name":"","inStock":"false","pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:34:10 - DEBUG - Getting Toys 
+16.3.2023, 17:34:10 - INFO - {"name":"","inStock":"false","labels":[]} 
+16.3.2023, 17:34:10 - INFO - {"name":{"$regex":"","$options":"i"},"inStock":false} 
+16.3.2023, 17:34:14 - INFO - {"filterBy":{"name":"","inStock":"true","pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:34:14 - DEBUG - Getting Toys 
+16.3.2023, 17:34:14 - INFO - {"name":"","inStock":"true","labels":[]} 
+16.3.2023, 17:34:14 - INFO - {"name":{"$regex":"","$options":"i"},"inStock":true} 
+16.3.2023, 17:34:51 - INFO - App listening on port 3039! 
+16.3.2023, 17:34:52 - INFO - {"filterBy":{"name":"","inStock":"true","labels":["On wheels"],"pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:34:52 - DEBUG - Getting Toys 
+16.3.2023, 17:34:52 - INFO - {"name":"","inStock":"true","labels":["On wheels"]} 
+16.3.2023, 17:34:52 - INFO - {"name":{"$regex":"","$options":"i"},"inStock":true,"labels":{"$in":["On wheels"]}} 
+16.3.2023, 17:34:54 - INFO - {"filterBy":{"name":"","inStock":"true","pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:34:54 - DEBUG - Getting Toys 
+16.3.2023, 17:34:54 - INFO - {"name":"","inStock":"true","labels":[]} 
+16.3.2023, 17:34:54 - INFO - {"name":{"$regex":"","$options":"i"},"inStock":true,"labels":{"$in":[]}} 
+16.3.2023, 17:34:56 - INFO - {"filterBy":{"name":"","inStock":"true","labels":["Box game"],"pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:34:56 - DEBUG - Getting Toys 
+16.3.2023, 17:34:56 - INFO - {"name":"","inStock":"true","labels":["Box game"]} 
+16.3.2023, 17:34:56 - INFO - {"name":{"$regex":"","$options":"i"},"inStock":true,"labels":{"$in":["Box game"]}} 
+16.3.2023, 17:34:57 - INFO - {"filterBy":{"name":"","inStock":"true","labels":["Box game","Art"],"pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:34:57 - DEBUG - Getting Toys 
+16.3.2023, 17:34:57 - INFO - {"name":"","inStock":"true","labels":["Box game","Art"]} 
+16.3.2023, 17:34:57 - INFO - {"name":{"$regex":"","$options":"i"},"inStock":true,"labels":{"$in":["Box game","Art"]}} 
+16.3.2023, 17:34:58 - INFO - {"filterBy":{"name":"","inStock":"true","labels":["Box game","Art","On wheels"],"pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:34:58 - INFO - {"name":{"$regex":"","$options":"i"},"inStock":true,"labels":{"$in":["Box game","Art","On wheels"]}} 
+16.3.2023, 17:34:58 - DEBUG - Getting Toys 
+16.3.2023, 17:34:58 - INFO - {"name":"","inStock":"true","labels":["Box game","Art","On wheels"]} 
+16.3.2023, 17:35:00 - INFO - {"filterBy":{"name":"","inStock":"true","labels":["Art","On wheels"],"pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:35:00 - DEBUG - Getting Toys 
+16.3.2023, 17:35:00 - INFO - {"name":"","inStock":"true","labels":["Art","On wheels"]} 
+16.3.2023, 17:35:00 - INFO - {"name":{"$regex":"","$options":"i"},"inStock":true,"labels":{"$in":["Art","On wheels"]}} 
+16.3.2023, 17:35:02 - INFO - {"filterBy":{"name":"","inStock":"true","labels":["On wheels"],"pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:35:02 - DEBUG - Getting Toys 
+16.3.2023, 17:35:02 - INFO - {"name":"","inStock":"true","labels":["On wheels"]} 
+16.3.2023, 17:35:02 - INFO - {"name":{"$regex":"","$options":"i"},"inStock":true,"labels":{"$in":["On wheels"]}} 
+16.3.2023, 17:35:03 - INFO - {"filterBy":{"name":"","inStock":"true","pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:35:03 - INFO - {"name":"","inStock":"true","labels":[]} 
+16.3.2023, 17:35:03 - INFO - {"name":{"$regex":"","$options":"i"},"inStock":true,"labels":{"$in":[]}} 
+16.3.2023, 17:35:03 - DEBUG - Getting Toys 
+16.3.2023, 17:35:27 - INFO - App listening on port 3039! 
+16.3.2023, 17:35:28 - INFO - {"filterBy":{"name":"","inStock":"true"},"sortBy":{"by":""}} 
+16.3.2023, 17:35:28 - DEBUG - Getting Toys 
+16.3.2023, 17:35:28 - INFO - {"name":{"$regex":"","$options":"i"},"inStock":true,"labels":{"$in":[]}} 
+16.3.2023, 17:35:28 - INFO - {"name":"","inStock":"true","labels":[]} 
+16.3.2023, 17:35:29 - INFO - {"filterBy":{"name":"","inStock":"true"},"sortBy":{"by":""}} 
+16.3.2023, 17:35:29 - DEBUG - Getting Toys 
+16.3.2023, 17:35:29 - INFO - {"name":"","inStock":"true","labels":[]} 
+16.3.2023, 17:35:29 - INFO - {"name":{"$regex":"","$options":"i"},"inStock":true,"labels":{"$in":[]}} 
+16.3.2023, 17:35:31 - INFO - {"filterBy":{"name":"","inStock":"true","labels":["On wheels"],"pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:35:31 - INFO - {"name":"","inStock":"true","labels":["On wheels"]} 
+16.3.2023, 17:35:31 - INFO - {"name":{"$regex":"","$options":"i"},"inStock":true,"labels":{"$in":["On wheels"]}} 
+16.3.2023, 17:35:31 - DEBUG - Getting Toys 
+16.3.2023, 17:35:32 - INFO - {"filterBy":{"name":"","inStock":"true","labels":["On wheels","Box game"],"pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:35:32 - DEBUG - Getting Toys 
+16.3.2023, 17:35:32 - INFO - {"name":"","inStock":"true","labels":["On wheels","Box game"]} 
+16.3.2023, 17:35:32 - INFO - {"name":{"$regex":"","$options":"i"},"inStock":true,"labels":{"$in":["On wheels","Box game"]}} 
+16.3.2023, 17:35:33 - INFO - {"filterBy":{"name":"","inStock":"true","labels":["On wheels","Box game","Art"],"pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:35:33 - INFO - {"name":"","inStock":"true","labels":["On wheels","Box game","Art"]} 
+16.3.2023, 17:35:33 - INFO - {"name":{"$regex":"","$options":"i"},"inStock":true,"labels":{"$in":["On wheels","Box game","Art"]}} 
+16.3.2023, 17:35:33 - DEBUG - Getting Toys 
+16.3.2023, 17:35:33 - INFO - {"filterBy":{"name":"","inStock":"true","labels":["On wheels","Box game"],"pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:35:33 - DEBUG - Getting Toys 
+16.3.2023, 17:35:33 - INFO - {"name":"","inStock":"true","labels":["On wheels","Box game"]} 
+16.3.2023, 17:35:33 - INFO - {"name":{"$regex":"","$options":"i"},"inStock":true,"labels":{"$in":["On wheels","Box game"]}} 
+16.3.2023, 17:35:33 - INFO - {"filterBy":{"name":"","inStock":"true","labels":["On wheels","Box game","Doll"],"pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:35:33 - DEBUG - Getting Toys 
+16.3.2023, 17:35:33 - INFO - {"name":"","inStock":"true","labels":["On wheels","Box game","Doll"]} 
+16.3.2023, 17:35:33 - INFO - {"name":{"$regex":"","$options":"i"},"inStock":true,"labels":{"$in":["On wheels","Box game","Doll"]}} 
+16.3.2023, 17:35:34 - INFO - {"filterBy":{"name":"","inStock":"true","labels":["On wheels","Box game","Doll","Baby"],"pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:35:34 - INFO - {"name":"","inStock":"true","labels":["On wheels","Box game","Doll","Baby"]} 
+16.3.2023, 17:35:34 - DEBUG - Getting Toys 
+16.3.2023, 17:35:34 - INFO - {"name":{"$regex":"","$options":"i"},"inStock":true,"labels":{"$in":["On wheels","Box game","Doll","Baby"]}} 
+16.3.2023, 17:35:35 - INFO - {"filterBy":{"name":"","inStock":"true","labels":["On wheels","Box game","Doll","Baby","Art"],"pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:35:35 - DEBUG - Getting Toys 
+16.3.2023, 17:35:35 - INFO - {"name":"","inStock":"true","labels":["On wheels","Box game","Doll","Baby","Art"]} 
+16.3.2023, 17:35:35 - INFO - {"name":{"$regex":"","$options":"i"},"inStock":true,"labels":{"$in":["On wheels","Box game","Doll","Baby","Art"]}} 
+16.3.2023, 17:35:35 - INFO - {"filterBy":{"name":"","inStock":"true","labels":["On wheels","Box game","Doll","Baby","Art","Puzzle"],"pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:35:35 - INFO - {"name":{"$regex":"","$options":"i"},"inStock":true,"labels":{"$in":["On wheels","Box game","Doll","Baby","Art","Puzzle"]}} 
+16.3.2023, 17:35:35 - INFO - {"name":"","inStock":"true","labels":["On wheels","Box game","Doll","Baby","Art","Puzzle"]} 
+16.3.2023, 17:35:35 - DEBUG - Getting Toys 
+16.3.2023, 17:39:04 - INFO - App listening on port 3039! 
+16.3.2023, 17:39:09 - INFO - {"filterBy":{"name":"","inStock":"true","labels":["On wheels","Box game","Doll","Baby","Art"],"pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:39:09 - DEBUG - Getting Toys 
+16.3.2023, 17:39:09 - INFO - {"name":"","inStock":"true","labels":["On wheels","Box game","Doll","Baby","Art"]} 
+16.3.2023, 17:39:09 - INFO - {"name":{"$regex":"","$options":"i"},"inStock":true,"$or":[{"labels":{"$in":["On wheels","Box game","Doll","Baby","Art"]}},{"labels":{"$exists":false}}]} 
+16.3.2023, 17:39:11 - INFO - {"filterBy":{"name":"","inStock":"true","labels":["On wheels","Box game","Doll","Baby"],"pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:39:11 - DEBUG - Getting Toys 
+16.3.2023, 17:39:11 - INFO - {"name":"","inStock":"true","labels":["On wheels","Box game","Doll","Baby"]} 
+16.3.2023, 17:39:11 - INFO - {"name":{"$regex":"","$options":"i"},"inStock":true,"$or":[{"labels":{"$in":["On wheels","Box game","Doll","Baby"]}},{"labels":{"$exists":false}}]} 
+16.3.2023, 17:39:12 - INFO - {"filterBy":{"name":"","inStock":"true","labels":["On wheels","Box game","Doll"],"pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:39:12 - DEBUG - Getting Toys 
+16.3.2023, 17:39:12 - INFO - {"name":"","inStock":"true","labels":["On wheels","Box game","Doll"]} 
+16.3.2023, 17:39:12 - INFO - {"name":{"$regex":"","$options":"i"},"inStock":true,"$or":[{"labels":{"$in":["On wheels","Box game","Doll"]}},{"labels":{"$exists":false}}]} 
+16.3.2023, 17:39:13 - INFO - {"filterBy":{"name":"","inStock":"true","labels":["On wheels","Doll"],"pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:39:13 - DEBUG - Getting Toys 
+16.3.2023, 17:39:13 - INFO - {"name":"","inStock":"true","labels":["On wheels","Doll"]} 
+16.3.2023, 17:39:13 - INFO - {"name":{"$regex":"","$options":"i"},"inStock":true,"$or":[{"labels":{"$in":["On wheels","Doll"]}},{"labels":{"$exists":false}}]} 
+16.3.2023, 17:39:13 - INFO - {"filterBy":{"name":"","inStock":"true","labels":["Doll"],"pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:39:13 - INFO - {"name":{"$regex":"","$options":"i"},"inStock":true,"$or":[{"labels":{"$in":["Doll"]}},{"labels":{"$exists":false}}]} 
+16.3.2023, 17:39:13 - DEBUG - Getting Toys 
+16.3.2023, 17:39:13 - INFO - {"name":"","inStock":"true","labels":["Doll"]} 
+16.3.2023, 17:39:14 - INFO - {"filterBy":{"name":"","inStock":"true","pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:39:14 - INFO - {"name":"","inStock":"true","labels":[]} 
+16.3.2023, 17:39:14 - INFO - {"name":{"$regex":"","$options":"i"},"inStock":true,"$or":[{"labels":{"$in":[]}},{"labels":{"$exists":false}}]} 
+16.3.2023, 17:39:14 - DEBUG - Getting Toys 
+16.3.2023, 17:39:16 - INFO - {"filterBy":{"name":"","inStock":"true"},"sortBy":{"by":""}} 
+16.3.2023, 17:39:16 - INFO - {"name":"","inStock":"true","labels":[]} 
+16.3.2023, 17:39:16 - INFO - {"name":{"$regex":"","$options":"i"},"inStock":true,"$or":[{"labels":{"$in":[]}},{"labels":{"$exists":false}}]} 
+16.3.2023, 17:39:16 - DEBUG - Getting Toys 
+16.3.2023, 17:39:16 - INFO - {"filterBy":{"name":"","inStock":"true"},"sortBy":{"by":""}} 
+16.3.2023, 17:39:16 - DEBUG - Getting Toys 
+16.3.2023, 17:39:16 - INFO - {"name":"","inStock":"true","labels":[]} 
+16.3.2023, 17:39:16 - INFO - {"name":{"$regex":"","$options":"i"},"inStock":true,"$or":[{"labels":{"$in":[]}},{"labels":{"$exists":false}}]} 
+16.3.2023, 17:39:19 - INFO - {"filterBy":{"name":"","inStock":"true","labels":["On wheels"],"pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:39:19 - INFO - {"name":"","inStock":"true","labels":["On wheels"]} 
+16.3.2023, 17:39:19 - INFO - {"name":{"$regex":"","$options":"i"},"inStock":true,"$or":[{"labels":{"$in":["On wheels"]}},{"labels":{"$exists":false}}]} 
+16.3.2023, 17:39:19 - DEBUG - Getting Toys 
+16.3.2023, 17:39:20 - INFO - {"filterBy":{"name":"","inStock":"true","labels":["On wheels","Box game"],"pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:39:20 - DEBUG - Getting Toys 
+16.3.2023, 17:39:20 - INFO - {"name":{"$regex":"","$options":"i"},"inStock":true,"$or":[{"labels":{"$in":["On wheels","Box game"]}},{"labels":{"$exists":false}}]} 
+16.3.2023, 17:39:20 - INFO - {"name":"","inStock":"true","labels":["On wheels","Box game"]} 
+16.3.2023, 17:39:32 - INFO - App listening on port 3039! 
+16.3.2023, 17:40:03 - INFO - App listening on port 3039! 
+16.3.2023, 17:40:12 - INFO - {"filterBy":{"name":"","inStock":"true","labels":["On wheels"],"pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:40:12 - DEBUG - Getting Toys 
+16.3.2023, 17:40:12 - INFO - {"name":"","inStock":"true","labels":["On wheels"]} 
+16.3.2023, 17:40:12 - INFO - {"name":{"$regex":"","$options":"i"},"inStock":true,"labels":{"$in":["On wheels"]}} 
+16.3.2023, 17:40:13 - INFO - {"filterBy":{"name":"","inStock":"true","pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:40:13 - DEBUG - Getting Toys 
+16.3.2023, 17:40:13 - INFO - {"name":"","inStock":"true","labels":[]} 
+16.3.2023, 17:40:13 - INFO - {"name":{"$regex":"","$options":"i"},"inStock":true,"labels":{"$in":[]}} 
+16.3.2023, 17:40:15 - INFO - {"filterBy":{"name":"","inStock":"true","labels":["Box game"],"pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:40:15 - DEBUG - Getting Toys 
+16.3.2023, 17:40:15 - INFO - {"name":"","inStock":"true","labels":["Box game"]} 
+16.3.2023, 17:40:15 - INFO - {"name":{"$regex":"","$options":"i"},"inStock":true,"labels":{"$in":["Box game"]}} 
+16.3.2023, 17:40:16 - DEBUG - Getting Toys 
+16.3.2023, 17:40:16 - INFO - {"name":{"$regex":"","$options":"i"},"inStock":true,"labels":{"$in":["Box game","Baby"]}} 
+16.3.2023, 17:40:16 - INFO - {"name":"","inStock":"true","labels":["Box game","Baby"]} 
+16.3.2023, 17:40:16 - INFO - {"filterBy":{"name":"","inStock":"true","labels":["Box game","Baby"],"pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:40:17 - INFO - {"filterBy":{"name":"","inStock":"true","labels":["Box game","Baby","Art"],"pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:40:17 - DEBUG - Getting Toys 
+16.3.2023, 17:40:17 - INFO - {"name":"","inStock":"true","labels":["Box game","Baby","Art"]} 
+16.3.2023, 17:40:17 - INFO - {"name":{"$regex":"","$options":"i"},"inStock":true,"labels":{"$in":["Box game","Baby","Art"]}} 
+16.3.2023, 17:40:19 - INFO - {"filterBy":{"name":"","inStock":"true","labels":["Box game","Baby","Art","Doll"],"pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:40:19 - DEBUG - Getting Toys 
+16.3.2023, 17:40:19 - INFO - {"name":"","inStock":"true","labels":["Box game","Baby","Art","Doll"]} 
+16.3.2023, 17:40:19 - INFO - {"name":{"$regex":"","$options":"i"},"inStock":true,"labels":{"$in":["Box game","Baby","Art","Doll"]}} 
+16.3.2023, 17:40:19 - INFO - {"filterBy":{"name":"","inStock":"true","labels":["Box game","Baby","Art","Doll","Puzzle"],"pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:40:19 - DEBUG - Getting Toys 
+16.3.2023, 17:40:19 - INFO - {"name":"","inStock":"true","labels":["Box game","Baby","Art","Doll","Puzzle"]} 
+16.3.2023, 17:40:19 - INFO - {"name":{"$regex":"","$options":"i"},"inStock":true,"labels":{"$in":["Box game","Baby","Art","Doll","Puzzle"]}} 
+16.3.2023, 17:40:20 - INFO - {"filterBy":{"name":"","inStock":"true","labels":["Box game","Baby","Art","Doll","Puzzle","Outdoor"],"pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:40:20 - DEBUG - Getting Toys 
+16.3.2023, 17:40:20 - INFO - {"name":"","inStock":"true","labels":["Box game","Baby","Art","Doll","Puzzle","Outdoor"]} 
+16.3.2023, 17:40:20 - INFO - {"name":{"$regex":"","$options":"i"},"inStock":true,"labels":{"$in":["Box game","Baby","Art","Doll","Puzzle","Outdoor"]}} 
+16.3.2023, 17:40:21 - INFO - {"filterBy":{"name":"","inStock":"true","labels":["Box game","Baby","Art","Doll","Puzzle","Outdoor","Battery Powered"],"pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:40:21 - DEBUG - Getting Toys 
+16.3.2023, 17:40:21 - INFO - {"name":"","inStock":"true","labels":["Box game","Baby","Art","Doll","Puzzle","Outdoor","Battery Powered"]} 
+16.3.2023, 17:40:21 - INFO - {"name":{"$regex":"","$options":"i"},"inStock":true,"labels":{"$in":["Box game","Baby","Art","Doll","Puzzle","Outdoor","Battery Powered"]}} 
+16.3.2023, 17:42:11 - INFO - App listening on port 3039! 
+16.3.2023, 17:42:14 - INFO - {"filterBy":{"name":"","inStock":"true"},"sortBy":{"by":""}} 
+16.3.2023, 17:42:14 - INFO - {"name":"","inStock":"true","labels":[]} 
+16.3.2023, 17:42:14 - DEBUG - Getting Toys 
+16.3.2023, 17:42:14 - INFO - {"name":{"$regex":"","$options":"i"},"inStock":true,"labels":{"$in":[]}} 
+16.3.2023, 17:42:14 - INFO - {"filterBy":{"name":"","inStock":"true"},"sortBy":{"by":""}} 
+16.3.2023, 17:42:14 - DEBUG - Getting Toys 
+16.3.2023, 17:42:14 - INFO - {"name":"","inStock":"true","labels":[]} 
+16.3.2023, 17:42:14 - INFO - {"name":{"$regex":"","$options":"i"},"inStock":true,"labels":{"$in":[]}} 
+16.3.2023, 17:42:34 - INFO - App listening on port 3039! 
+16.3.2023, 17:43:01 - INFO - App listening on port 3039! 
+16.3.2023, 17:43:04 - INFO - {"filterBy":{"name":"","inStock":"true"},"sortBy":{"by":""}} 
+16.3.2023, 17:43:04 - DEBUG - Getting Toys 
+16.3.2023, 17:43:04 - INFO - {"name":"","inStock":"true","labels":[]} 
+16.3.2023, 17:43:04 - INFO - {"name":{"$regex":"","$options":"i"},"inStock":true,"labels":{"$in":[]}} 
+16.3.2023, 17:43:04 - INFO - {"filterBy":{"name":"","inStock":"true"},"sortBy":{"by":""}} 
+16.3.2023, 17:43:04 - DEBUG - Getting Toys 
+16.3.2023, 17:43:04 - INFO - {"name":"","inStock":"true","labels":[]} 
+16.3.2023, 17:43:04 - INFO - {"name":{"$regex":"","$options":"i"},"inStock":true,"labels":{"$in":[]}} 
+16.3.2023, 17:43:37 - INFO - App listening on port 3039! 
+16.3.2023, 17:43:39 - INFO - {"filterBy":{"name":"","inStock":"true"},"sortBy":{"by":""}} 
+16.3.2023, 17:43:39 - INFO - {"name":"","inStock":"true","labels":[]} 
+16.3.2023, 17:43:39 - DEBUG - Getting Toys 
+16.3.2023, 17:43:39 - INFO - {"name":{"$regex":"","$options":"i"},"inStock":true} 
+16.3.2023, 17:43:39 - INFO - {"filterBy":{"name":"","inStock":"true"},"sortBy":{"by":""}} 
+16.3.2023, 17:43:39 - DEBUG - Getting Toys 
+16.3.2023, 17:43:39 - INFO - {"name":"","inStock":"true","labels":[]} 
+16.3.2023, 17:43:39 - INFO - {"name":{"$regex":"","$options":"i"},"inStock":true} 
+16.3.2023, 17:44:07 - INFO - App listening on port 3039! 
+16.3.2023, 17:44:13 - INFO - {"filterBy":{"name":"","inStock":"true"},"sortBy":{"by":""}} 
+16.3.2023, 17:44:13 - DEBUG - Getting Toys 
+16.3.2023, 17:44:13 - INFO - {"name":"","inStock":"true","labels":[]} 
+16.3.2023, 17:44:13 - INFO - {"$in":[]} 
+16.3.2023, 17:44:13 - INFO - {"name":{"$regex":"","$options":"i"},"inStock":true} 
+16.3.2023, 17:44:13 - INFO - {"filterBy":{"name":"","inStock":"true"},"sortBy":{"by":""}} 
+16.3.2023, 17:44:13 - INFO - {"$in":[]} 
+16.3.2023, 17:44:13 - INFO - {"name":{"$regex":"","$options":"i"},"inStock":true} 
+16.3.2023, 17:44:13 - DEBUG - Getting Toys 
+16.3.2023, 17:44:13 - INFO - {"name":"","inStock":"true","labels":[]} 
+16.3.2023, 17:44:56 - INFO - App listening on port 3039! 
+16.3.2023, 17:44:59 - INFO - App listening on port 3039! 
+16.3.2023, 17:45:01 - INFO - {"filterBy":{"name":"","inStock":"true"},"sortBy":{"by":""}} 
+16.3.2023, 17:45:01 - DEBUG - Getting Toys 
+16.3.2023, 17:45:01 - INFO - {"name":"","inStock":"true","labels":[]} 
+16.3.2023, 17:45:01 - INFO - {"$in":[]} 
+16.3.2023, 17:45:01 - INFO - {"name":{"$regex":"","$options":"i"},"inStock":true} 
+16.3.2023, 17:45:01 - INFO - {"filterBy":{"name":"","inStock":"true"},"sortBy":{"by":""}} 
+16.3.2023, 17:45:01 - DEBUG - Getting Toys 
+16.3.2023, 17:45:01 - INFO - {"name":"","inStock":"true","labels":[]} 
+16.3.2023, 17:45:01 - INFO - {"$in":[]} 
+16.3.2023, 17:45:01 - INFO - {"name":{"$regex":"","$options":"i"},"inStock":true} 
+16.3.2023, 17:45:20 - INFO - App listening on port 3039! 
+16.3.2023, 17:46:06 - INFO - App listening on port 3039! 
+16.3.2023, 17:46:42 - INFO - App listening on port 3039! 
+16.3.2023, 17:46:44 - INFO - {"filterBy":{"name":"","inStock":"true"},"sortBy":{"by":""}} 
+16.3.2023, 17:46:44 - DEBUG - Getting Toys 
+16.3.2023, 17:46:44 - ERROR - cannot find toys | MongoServerError: $in needs an array 
+16.3.2023, 17:46:44 - ERROR - Failed to get toys | MongoServerError: $in needs an array 
+16.3.2023, 17:46:44 - INFO - {"filterBy":{"name":"","inStock":"true"},"sortBy":{"by":""}} 
+16.3.2023, 17:46:44 - DEBUG - Getting Toys 
+16.3.2023, 17:46:44 - ERROR - cannot find toys | MongoServerError: $in needs an array 
+16.3.2023, 17:46:44 - ERROR - Failed to get toys | MongoServerError: $in needs an array 
+16.3.2023, 17:47:10 - INFO - App listening on port 3039! 
+16.3.2023, 17:47:36 - INFO - App listening on port 3039! 
+16.3.2023, 17:47:40 - DEBUG - Getting Toys 
+16.3.2023, 17:47:40 - INFO - {"filterBy":{"name":"","inStock":"true"},"sortBy":{"by":""}} 
+16.3.2023, 17:47:40 - INFO - {"filterBy":{"name":"","inStock":"true"},"sortBy":{"by":""}} 
+16.3.2023, 17:47:40 - DEBUG - Getting Toys 
+16.3.2023, 17:49:20 - INFO - {"filterBy":{"name":"","inStock":"false","pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:49:20 - DEBUG - Getting Toys 
+16.3.2023, 17:49:21 - INFO - {"filterBy":{"name":"","inStock":"true","pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:49:21 - DEBUG - Getting Toys 
+16.3.2023, 17:49:24 - INFO - {"filterBy":{"name":"","inStock":"false","pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:49:24 - DEBUG - Getting Toys 
+16.3.2023, 17:49:25 - INFO - {"filterBy":{"name":"","inStock":"true","pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:49:25 - DEBUG - Getting Toys 
+16.3.2023, 17:49:27 - INFO - {"filterBy":{"name":"","inStock":"false","pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:49:27 - DEBUG - Getting Toys 
+16.3.2023, 17:49:32 - INFO - {"filterBy":{"name":"","inStock":"true","pageIdx":"0"},"sortBy":{"by":""}} 
+16.3.2023, 17:49:32 - DEBUG - Getting Toys 
+16.3.2023, 17:50:34 - INFO - App listening on port 3039! 
+16.3.2023, 17:50:36 - INFO - App listening on port 3039! 
+16.3.2023, 17:50:47 - INFO - App listening on port 3039! 
+16.3.2023, 17:52:23 - INFO - App listening on port 3039! 
+16.3.2023, 17:57:53 - INFO - App listening on port 3039! 
+16.3.2023, 17:58:18 - INFO - App listening on port 3039! 
+16.3.2023, 17:59:29 - INFO - App listening on port 3039! 
+16.3.2023, 17:59:33 - INFO - {"filterBy":{"name":"","inStock":"true"},"sortBy":{"by":""}} 
+16.3.2023, 17:59:33 - INFO - {"by":"name","desc":-1} 
+16.3.2023, 17:59:33 - DEBUG - Getting Toys 
+16.3.2023, 17:59:33 - ERROR - cannot find toys | TypeError: Cannot read properties of undefined (reading 'by') 
+16.3.2023, 17:59:33 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'by') 
+16.3.2023, 17:59:33 - INFO - {"filterBy":{"name":"","inStock":"true"},"sortBy":{"by":""}} 
+16.3.2023, 17:59:33 - INFO - {"by":"name","desc":-1} 
+16.3.2023, 17:59:33 - DEBUG - Getting Toys 
+16.3.2023, 17:59:33 - ERROR - cannot find toys | TypeError: Cannot read properties of undefined (reading 'by') 
+16.3.2023, 17:59:33 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'by') 
+16.3.2023, 17:59:54 - INFO - App listening on port 3039! 
+16.3.2023, 18:00:02 - INFO - {"filterBy":{"name":"","inStock":"true"},"sortBy":{"by":""}} 
+16.3.2023, 18:00:02 - INFO - {"by":"name","desc":-1} 
+16.3.2023, 18:00:02 - DEBUG - Getting Toys 
+16.3.2023, 18:00:02 - ERROR - cannot find toys | TypeError: Cannot read properties of undefined (reading 'by') 
+16.3.2023, 18:00:02 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'by') 
+16.3.2023, 18:00:02 - INFO - {"filterBy":{"name":"","inStock":"true"},"sortBy":{"by":""}} 
+16.3.2023, 18:00:02 - INFO - {"by":"name","desc":-1} 
+16.3.2023, 18:00:02 - DEBUG - Getting Toys 
+16.3.2023, 18:00:02 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'by') 
+16.3.2023, 18:00:02 - ERROR - cannot find toys | TypeError: Cannot read properties of undefined (reading 'by') 
+16.3.2023, 18:00:18 - INFO - App listening on port 3039! 
+16.3.2023, 18:00:40 - INFO - App listening on port 3039! 
+16.3.2023, 18:00:43 - INFO - {"filterBy":{"name":"","inStock":"true"},"sortBy":{"by":""}} 
+16.3.2023, 18:00:43 - INFO - {"by":"name","desc":-1} 
+16.3.2023, 18:00:43 - DEBUG - Getting Toys 
+16.3.2023, 18:00:43 - ERROR - cannot find toys | ReferenceError: sortCriteria is not defined 
+16.3.2023, 18:00:43 - ERROR - Failed to get toys | ReferenceError: sortCriteria is not defined 
+16.3.2023, 18:00:43 - INFO - {"filterBy":{"name":"","inStock":"true"},"sortBy":{"by":""}} 
+16.3.2023, 18:00:43 - INFO - {"by":"name","desc":-1} 
+16.3.2023, 18:00:43 - DEBUG - Getting Toys 
+16.3.2023, 18:00:43 - ERROR - cannot find toys | ReferenceError: sortCriteria is not defined 
+16.3.2023, 18:00:43 - ERROR - Failed to get toys | ReferenceError: sortCriteria is not defined 
+16.3.2023, 18:01:24 - INFO - App listening on port 3039! 
+16.3.2023, 18:01:26 - INFO - {"filterBy":{"name":"","inStock":"true"},"sortBy":{"by":""}} 
+16.3.2023, 18:01:26 - INFO - {"by":"name","desc":-1} 
+16.3.2023, 18:01:26 - DEBUG - Getting Toys 
+16.3.2023, 18:01:26 - INFO - {"filterBy":{"name":"","inStock":"true"},"sortBy":{"by":""}} 
+16.3.2023, 18:01:26 - INFO - {"by":"name","desc":-1} 
+16.3.2023, 18:01:26 - DEBUG - Getting Toys 
+16.3.2023, 18:01:42 - INFO - {"filterBy":{"name":"","inStock":"true"},"sortBy":{"desc":"-1","by":""}} 
+16.3.2023, 18:01:42 - INFO - {"by":"name","desc":"-1"} 
+16.3.2023, 18:01:42 - DEBUG - Getting Toys 
+16.3.2023, 18:01:44 - INFO - {"filterBy":{"name":"","inStock":"true"},"sortBy":{"desc":"-1","by":"name"}} 
+16.3.2023, 18:01:44 - INFO - {"by":"name","desc":"-1"} 
+16.3.2023, 18:01:44 - DEBUG - Getting Toys 
+16.3.2023, 18:02:18 - INFO - App listening on port 3039! 
+16.3.2023, 18:02:37 - INFO - App listening on port 3039! 
+16.3.2023, 18:02:43 - DEBUG - Getting Toys 
+16.3.2023, 18:02:43 - INFO - {"by":"name","desc":-1} 
+16.3.2023, 18:02:43 - DEBUG - Getting Toys 
+16.3.2023, 18:02:43 - INFO - {"by":"name","desc":-1} 
+16.3.2023, 18:03:05 - DEBUG - Getting Toys 
+16.3.2023, 18:03:05 - INFO - {"by":"name","desc":-1} 
+16.3.2023, 18:03:05 - DEBUG - Getting Toys 
+16.3.2023, 18:03:05 - INFO - {"by":"name","desc":-1} 
+16.3.2023, 18:04:10 - INFO - App listening on port 3039! 
+16.3.2023, 18:04:12 - DEBUG - Getting Toys 
+16.3.2023, 18:04:12 - INFO - {"by":"name","desc":-1} 
+16.3.2023, 18:04:12 - ERROR - cannot find toys | TypeError: Assignment to constant variable. 
+16.3.2023, 18:04:12 - ERROR - Failed to get toys | TypeError: Assignment to constant variable. 
+16.3.2023, 18:04:12 - DEBUG - Getting Toys 
+16.3.2023, 18:04:12 - INFO - {"by":"name","desc":-1} 
+16.3.2023, 18:04:12 - ERROR - cannot find toys | TypeError: Assignment to constant variable. 
+16.3.2023, 18:04:12 - ERROR - Failed to get toys | TypeError: Assignment to constant variable. 
+16.3.2023, 18:04:27 - INFO - App listening on port 3039! 
+16.3.2023, 18:05:45 - INFO - App listening on port 3039! 
+16.3.2023, 18:06:56 - INFO - App listening on port 3039! 
+16.3.2023, 18:07:18 - INFO - App listening on port 3039! 
+16.3.2023, 18:07:23 - DEBUG - Getting Toys 
+16.3.2023, 18:07:23 - INFO - {"by":"name","desc":-1} 
+16.3.2023, 18:07:23 - DEBUG - Getting Toys 
+16.3.2023, 18:07:23 - INFO - {"by":"name","desc":-1} 
+16.3.2023, 18:07:26 - DEBUG - Getting Toys 
+16.3.2023, 18:07:26 - INFO - {"by":"name","desc":"-1"} 
+16.3.2023, 18:07:28 - DEBUG - Getting Toys 
+16.3.2023, 18:07:28 - INFO - {"by":"name","desc":"1"} 
+16.3.2023, 18:07:31 - DEBUG - Getting Toys 
+16.3.2023, 18:07:31 - INFO - {"by":"name","desc":"1"} 
+16.3.2023, 18:07:33 - DEBUG - Getting Toys 
+16.3.2023, 18:07:33 - INFO - {"by":"createdAt","desc":"1"} 
+16.3.2023, 18:07:35 - DEBUG - Getting Toys 
+16.3.2023, 18:07:35 - INFO - {"by":"price","desc":"1"} 
+16.3.2023, 18:08:38 - DEBUG - Getting Toys 
+16.3.2023, 18:08:38 - INFO - {"by":"price","desc":"-1"} 
+16.3.2023, 18:08:39 - DEBUG - Getting Toys 
+16.3.2023, 18:08:39 - INFO - {"by":"price","desc":"1"} 
+16.3.2023, 18:17:04 - ERROR - while finding toy 64131e1a22289c9e32187ada | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+16.3.2023, 18:17:04 - ERROR - Failed to get toy | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+16.3.2023, 18:26:52 - DEBUG - Getting Toys 
+16.3.2023, 18:26:52 - INFO - {"by":"createdAt","desc":"1"} 
+16.3.2023, 18:29:19 - INFO - App listening on port 3039! 
+16.3.2023, 18:29:46 - INFO - {"by":"name","desc":-1} 
+16.3.2023, 18:29:46 - DEBUG - Getting Toys 
+16.3.2023, 18:29:46 - DEBUG - Getting Toys 
+16.3.2023, 18:29:46 - INFO - {"by":"name","desc":-1} 
+16.3.2023, 18:29:46 - ERROR - while finding toy 64131e1a22289c9e32187ada | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+16.3.2023, 18:29:46 - ERROR - Failed to get toy | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+16.3.2023, 18:30:04 - DEBUG - Getting Toys 
+16.3.2023, 18:30:04 - INFO - {"by":"name","desc":-1} 
+16.3.2023, 18:30:04 - DEBUG - Getting Toys 
+16.3.2023, 18:30:04 - INFO - {"by":"name","desc":-1} 
+16.3.2023, 18:30:05 - ERROR - Failed to get toy | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+16.3.2023, 18:30:05 - ERROR - while finding toy 64131e1a22289c9e32187ada | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+16.3.2023, 18:33:01 - DEBUG - Getting Toys 
+16.3.2023, 18:33:01 - INFO - {"by":"name","desc":-1} 
+16.3.2023, 18:33:01 - DEBUG - Getting Toys 
+16.3.2023, 18:33:01 - INFO - {"by":"name","desc":-1} 
+16.3.2023, 18:33:01 - ERROR - while finding toy 64131e1a22289c9e32187ada | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+16.3.2023, 18:33:01 - ERROR - Failed to get toy | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+16.3.2023, 18:33:12 - ERROR - while finding toy undefined | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+16.3.2023, 18:33:12 - ERROR - Failed to get toy | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+16.3.2023, 18:33:15 - DEBUG - Getting Toys 
+16.3.2023, 18:33:15 - INFO - {"by":"name","desc":-1} 
+16.3.2023, 18:33:15 - DEBUG - Getting Toys 
+16.3.2023, 18:33:15 - INFO - {"by":"name","desc":-1} 
+16.3.2023, 18:34:42 - ERROR - while finding toy 64131e1a22289c9e32187ad6 | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+16.3.2023, 18:34:42 - ERROR - Failed to get toy | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+16.3.2023, 18:36:24 - INFO - App listening on port 3039! 
+16.3.2023, 18:36:40 - INFO - App listening on port 3039! 
+16.3.2023, 18:36:42 - DEBUG - Getting Toys 
+16.3.2023, 18:36:42 - INFO - {"by":"name","desc":-1} 
+16.3.2023, 18:36:43 - DEBUG - Getting Toys 
+16.3.2023, 18:36:43 - INFO - {"by":"name","desc":-1} 
+16.3.2023, 18:36:52 - ERROR - while finding toy undefined | BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+16.3.2023, 18:36:52 - ERROR - Failed to get toy | BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+16.3.2023, 18:40:14 - DEBUG - Getting Toys 
+16.3.2023, 18:40:14 - INFO - {"by":"name","desc":-1} 
+16.3.2023, 18:40:14 - DEBUG - Getting Toys 
+16.3.2023, 18:40:14 - INFO - {"by":"name","desc":-1} 
+16.3.2023, 18:40:24 - DEBUG - Getting Toys 
+16.3.2023, 18:40:24 - INFO - {"by":"price","desc":"1"} 
+16.3.2023, 18:40:27 - DEBUG - Getting Toys 
+16.3.2023, 18:40:27 - INFO - {"by":"createdAt","desc":"1"} 
+16.3.2023, 18:40:29 - DEBUG - Getting Toys 
+16.3.2023, 18:40:29 - INFO - {"by":"name","desc":"1"} 
+16.3.2023, 18:40:32 - DEBUG - Getting Toys 
+16.3.2023, 18:40:32 - INFO - {"by":"createdAt","desc":"1"} 
+16.3.2023, 18:40:36 - DEBUG - Getting Toys 
+16.3.2023, 18:40:36 - INFO - {"by":"price","desc":"1"} 
+16.3.2023, 18:45:20 - INFO - App listening on port 3039! 
+16.3.2023, 18:45:22 - DEBUG - Getting Toys 
+16.3.2023, 18:45:22 - INFO - {"by":"name","desc":"1"} 
+16.3.2023, 18:45:26 - DEBUG - Getting Toys 
+16.3.2023, 18:45:26 - INFO - {"by":"created_time","desc":"1"} 
+16.3.2023, 18:45:29 - DEBUG - Getting Toys 
+16.3.2023, 18:45:29 - INFO - {"by":"name","desc":"1"} 
+16.3.2023, 18:45:31 - DEBUG - Getting Toys 
+16.3.2023, 18:45:31 - INFO - {"by":"created_time","desc":"1"} 
+16.3.2023, 18:45:33 - DEBUG - Getting Toys 
+16.3.2023, 18:45:33 - INFO - {"by":"name","desc":"1"} 
+16.3.2023, 18:46:04 - INFO - App listening on port 3039! 
+16.3.2023, 18:46:06 - DEBUG - Getting Toys 
+16.3.2023, 18:46:06 - INFO - {"by":"created_time","desc":"1"} 
+16.3.2023, 18:46:13 - DEBUG - Getting Toys 
+16.3.2023, 18:46:13 - INFO - {"by":"name","desc":"1"} 
+16.3.2023, 18:46:26 - DEBUG - Getting Toys 
+16.3.2023, 18:46:26 - INFO - {"by":"created_time","desc":"1"} 
+16.3.2023, 18:46:29 - DEBUG - Getting Toys 
+16.3.2023, 18:46:29 - INFO - {"by":"price","desc":"1"} 
+16.3.2023, 18:46:31 - DEBUG - Getting Toys 
+16.3.2023, 18:46:31 - INFO - {"by":"name","desc":"1"} 
+16.3.2023, 18:46:33 - DEBUG - Getting Toys 
+16.3.2023, 18:46:33 - INFO - {"by":"created_time","desc":"1"} 
+16.3.2023, 18:47:29 - DEBUG - Getting Toys 
+16.3.2023, 18:47:29 - INFO - {"by":"created_time","desc":"-1"} 
+16.3.2023, 18:47:30 - DEBUG - Getting Toys 
+16.3.2023, 18:47:30 - INFO - {"by":"created_time","desc":"1"} 
+16.3.2023, 18:47:32 - DEBUG - Getting Toys 
+16.3.2023, 18:47:32 - INFO - {"by":"created_time","desc":"-1"} 
+16.3.2023, 18:47:33 - DEBUG - Getting Toys 
+16.3.2023, 18:47:33 - INFO - {"by":"created_time","desc":"1"} 
+16.3.2023, 18:48:17 - DEBUG - Getting Toys 
+16.3.2023, 18:48:17 - INFO - {"by":"name","desc":"1"} 
+16.3.2023, 18:48:22 - DEBUG - Getting Toys 
+16.3.2023, 18:48:22 - INFO - {"by":"created_time","desc":"1"} 
+16.3.2023, 18:48:32 - DEBUG - Getting Toys 
+16.3.2023, 18:48:32 - INFO - {"by":"created_time","desc":"-1"} 
+16.3.2023, 18:48:33 - DEBUG - Getting Toys 
+16.3.2023, 18:48:33 - INFO - {"by":"created_time","desc":"1"} 
+16.3.2023, 18:49:44 - INFO - App listening on port 3039! 
+16.3.2023, 18:49:46 - DEBUG - Getting Toys 
+16.3.2023, 18:49:46 - INFO - {"by":"name","desc":"1"} 
+16.3.2023, 18:49:49 - DEBUG - Getting Toys 
+16.3.2023, 18:49:49 - INFO - {"by":"created_time","desc":"1"} 
+16.3.2023, 18:50:14 - INFO - App listening on port 3039! 
+16.3.2023, 18:50:22 - INFO - App listening on port 3039! 
+16.3.2023, 18:50:28 - DEBUG - Getting Toys 
+16.3.2023, 18:50:28 - INFO - {"by":"name","desc":"1"} 
+16.3.2023, 18:50:33 - DEBUG - Getting Toys 
+16.3.2023, 18:50:33 - INFO - {"by":"created_time","desc":"1"} 
+16.3.2023, 18:50:50 - DEBUG - Getting Toys 
+16.3.2023, 18:50:50 - INFO - {"by":"name","desc":"1"} 
+16.3.2023, 18:50:51 - DEBUG - Getting Toys 
+16.3.2023, 18:50:51 - INFO - {"by":"price","desc":"1"} 
+16.3.2023, 18:51:50 - INFO - App listening on port 3039! 
+16.3.2023, 18:51:51 - DEBUG - Getting Toys 
+16.3.2023, 18:51:51 - INFO - {"by":"name","desc":"1"} 
+16.3.2023, 18:51:53 - DEBUG - Getting Toys 
+16.3.2023, 18:51:53 - INFO - {"by":"created_time","desc":"1"} 
+16.3.2023, 18:51:55 - DEBUG - Getting Toys 
+16.3.2023, 18:51:55 - INFO - {"by":"price","desc":"1"} 
+16.3.2023, 18:52:14 - DEBUG - Getting Toys 
+16.3.2023, 18:52:14 - INFO - {"by":"price","desc":"-1"} 
+16.3.2023, 18:52:16 - INFO - App listening on port 3039! 
+16.3.2023, 18:52:16 - DEBUG - Getting Toys 
+16.3.2023, 18:52:16 - INFO - {"by":"price","desc":"-1"} 
+16.3.2023, 18:52:17 - DEBUG - Getting Toys 
+16.3.2023, 18:52:17 - INFO - {"by":"price","desc":"1"} 
+16.3.2023, 18:52:18 - DEBUG - Getting Toys 
+16.3.2023, 18:52:18 - INFO - {"by":"price","desc":"-1"} 
+16.3.2023, 18:52:19 - DEBUG - Getting Toys 
+16.3.2023, 18:52:19 - INFO - {"by":"price","desc":"1"} 
+16.3.2023, 18:52:21 - DEBUG - Getting Toys 
+16.3.2023, 18:52:21 - INFO - {"by":"name","desc":"1"} 
+16.3.2023, 18:52:22 - DEBUG - Getting Toys 
+16.3.2023, 18:52:22 - INFO - {"by":"name","desc":"-1"} 
+16.3.2023, 18:52:23 - DEBUG - Getting Toys 
+16.3.2023, 18:52:23 - INFO - {"by":"name","desc":"1"} 
+16.3.2023, 18:52:23 - DEBUG - Getting Toys 
+16.3.2023, 18:52:23 - INFO - {"by":"name","desc":"-1"} 
+16.3.2023, 18:52:40 - INFO - App listening on port 3039! 
+16.3.2023, 18:52:45 - ERROR - while finding toy undefined | BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+16.3.2023, 18:52:45 - ERROR - Failed to get toy | BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+16.3.2023, 18:53:12 - ERROR - while finding toy undefined | BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+16.3.2023, 18:53:12 - ERROR - Failed to get toy | BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+16.3.2023, 18:53:23 - DEBUG - Getting Toys 
+16.3.2023, 18:53:23 - DEBUG - Getting Toys 
+16.3.2023, 18:53:32 - ERROR - while finding toy undefined | BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+16.3.2023, 18:53:32 - ERROR - Failed to get toy | BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+16.3.2023, 18:53:39 - DEBUG - Getting Toys 
+16.3.2023, 18:53:39 - DEBUG - Getting Toys 
+16.3.2023, 18:53:45 - ERROR - while finding toy undefined | BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+16.3.2023, 18:53:45 - ERROR - Failed to get toy | BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+16.3.2023, 18:56:26 - DEBUG - Getting Toys 
+16.3.2023, 18:56:26 - DEBUG - Getting Toys 
+16.3.2023, 18:56:33 - ERROR - while finding toy undefined | BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+16.3.2023, 18:56:33 - ERROR - Failed to get toy | BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+16.3.2023, 18:58:32 - DEBUG - Getting Toys 
+16.3.2023, 18:58:32 - DEBUG - Getting Toys 
+16.3.2023, 18:58:39 - ERROR - while finding toy undefined | BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+16.3.2023, 18:58:39 - ERROR - Failed to get toy | BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+16.3.2023, 19:01:21 - DEBUG - Getting Toys 
+16.3.2023, 19:01:42 - DEBUG - Getting Toys 
+16.3.2023, 19:01:42 - DEBUG - Getting Toys 
+16.3.2023, 19:01:59 - DEBUG - Getting Toys 
+16.3.2023, 19:05:23 - DEBUG - Getting Toys 
+16.3.2023, 19:05:36 - ERROR - while finding toy undefined | BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+16.3.2023, 19:05:36 - ERROR - Failed to get toy | BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+16.3.2023, 19:07:16 - ERROR - while finding toy undefined | BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+16.3.2023, 19:07:16 - ERROR - Failed to get toy | BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+16.3.2023, 19:07:26 - ERROR - Failed to update toy | ReferenceError: toyId is not defined 
+16.3.2023, 19:07:32 - DEBUG - Getting Toys 
+16.3.2023, 19:12:28 - DEBUG - Getting Toys 
+16.3.2023, 19:12:32 - DEBUG - Getting Toys 
+16.3.2023, 19:12:33 - DEBUG - Getting Toys 
+16.3.2023, 19:13:36 - DEBUG - Getting Toys 
+16.3.2023, 19:13:39 - DEBUG - Getting Toys 
+16.3.2023, 19:13:40 - DEBUG - Getting Toys 
+16.3.2023, 19:15:02 - DEBUG - Getting Toys 
+16.3.2023, 19:15:03 - DEBUG - Getting Toys 
+16.3.2023, 19:15:27 - DEBUG - Getting Toys 
+16.3.2023, 19:15:30 - DEBUG - Getting Toys 
+16.3.2023, 19:15:57 - DEBUG - Getting Toys 
+16.3.2023, 19:19:53 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'name') 
+16.3.2023, 19:26:23 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'name') 
+16.3.2023, 19:27:04 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'name') 
+16.3.2023, 19:29:46 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'name') 
+16.3.2023, 19:30:05 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'name') 
+16.3.2023, 19:33:59 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'name') 
+16.3.2023, 19:34:17 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'name') 
+16.3.2023, 19:34:37 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'name') 
+16.3.2023, 19:36:31 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'name') 
+16.3.2023, 19:36:42 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'name') 
+16.3.2023, 19:39:22 - INFO - App listening on port 3039! 
+16.3.2023, 19:39:44 - INFO - App listening on port 3039! 
+16.3.2023, 19:39:44 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'name') 
+16.3.2023, 19:40:17 - INFO - App listening on port 3039! 
+16.3.2023, 19:40:20 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'name') 
+16.3.2023, 19:40:43 - INFO - App listening on port 3039! 
+16.3.2023, 19:40:49 - DEBUG - Getting Toys 
+16.3.2023, 19:41:03 - DEBUG - Getting Toys 
+16.3.2023, 19:41:12 - DEBUG - Getting Toys 
+16.3.2023, 19:41:15 - DEBUG - Getting Toys 
+16.3.2023, 19:41:25 - DEBUG - Getting Toys 
+16.3.2023, 19:44:58 - INFO - App listening on port 3039! 
+16.3.2023, 19:45:03 - DEBUG - Getting Toys 
+16.3.2023, 19:45:25 - INFO - App listening on port 3039! 
+16.3.2023, 19:45:33 - DEBUG - Getting Toys 
+16.3.2023, 19:45:51 - DEBUG - Getting Toys 
+16.3.2023, 19:46:18 - DEBUG - Getting Toys 
+16.3.2023, 19:46:20 - DEBUG - Getting Toys 
+16.3.2023, 19:46:21 - DEBUG - Getting Toys 
+16.3.2023, 19:48:37 - DEBUG - Getting Toys 
+16.3.2023, 19:49:09 - DEBUG - Getting Toys 
+16.3.2023, 19:50:14 - DEBUG - Getting Toys 
+16.3.2023, 19:53:03 - DEBUG - Getting Toys 
+16.3.2023, 19:53:24 - DEBUG - Getting Toys 
+16.3.2023, 19:55:31 - DEBUG - Getting Toys 
+16.3.2023, 19:57:58 - DEBUG - Getting Toys 
+16.3.2023, 19:58:01 - DEBUG - Getting Toys 
+16.3.2023, 19:58:05 - DEBUG - Getting Toys 
+16.3.2023, 19:58:38 - INFO - App listening on port 3039! 
+16.3.2023, 19:58:41 - DEBUG - Getting Toys 
+16.3.2023, 19:58:46 - DEBUG - Getting Toys 
+16.3.2023, 19:58:56 - INFO - App listening on port 3039! 
+16.3.2023, 19:59:08 - DEBUG - Getting Toys 
+16.3.2023, 19:59:35 - INFO - App listening on port 3039! 
+16.3.2023, 19:59:38 - DEBUG - Getting Toys 
+16.3.2023, 19:59:42 - DEBUG - Getting Toys 
+16.3.2023, 19:59:45 - DEBUG - Getting Toys 
+16.3.2023, 19:59:58 - DEBUG - Getting Toys 
+16.3.2023, 20:00:26 - INFO - App listening on port 3039! 
+16.3.2023, 20:00:27 - DEBUG - Getting Toys 
+16.3.2023, 20:00:41 - INFO - App listening on port 3039! 
+16.3.2023, 20:00:43 - DEBUG - Getting Toys 
+16.3.2023, 20:13:17 - DEBUG - Getting Toys 
+16.3.2023, 20:21:19 - DEBUG - Getting Toys 
+16.3.2023, 20:21:21 - DEBUG - Getting Toys 
+16.3.2023, 20:21:24 - DEBUG - Getting Toys 
+16.3.2023, 20:21:25 - DEBUG - Getting Toys 
+16.3.2023, 20:21:26 - DEBUG - Getting Toys 
+16.3.2023, 20:21:27 - DEBUG - Getting Toys 
+16.3.2023, 20:21:27 - DEBUG - Getting Toys 
+16.3.2023, 20:21:30 - DEBUG - Getting Toys 
+16.3.2023, 20:21:32 - DEBUG - Getting Toys 
+16.3.2023, 20:22:12 - INFO - App listening on port 3039! 
+16.3.2023, 20:22:21 - DEBUG - Getting Toys 
+16.3.2023, 20:24:32 - INFO - App listening on port 3039! 
+16.3.2023, 20:24:36 - DEBUG - Getting Toys 
+16.3.2023, 20:24:48 - DEBUG - Getting Toys 
+16.3.2023, 20:25:02 - INFO - App listening on port 3039! 
+16.3.2023, 20:25:03 - DEBUG - Getting Toys 
+16.3.2023, 20:25:13 - INFO - App listening on port 3039! 
+16.3.2023, 20:25:15 - DEBUG - Getting Toys 
+16.3.2023, 20:25:18 - DEBUG - Getting Toys 
+16.3.2023, 20:25:33 - INFO - App listening on port 3039! 
+16.3.2023, 20:25:33 - DEBUG - Getting Toys 
+16.3.2023, 20:25:39 - INFO - App listening on port 3039! 
+16.3.2023, 20:25:40 - DEBUG - Getting Toys 
+16.3.2023, 20:25:42 - DEBUG - Getting Toys 
+16.3.2023, 20:25:43 - DEBUG - Getting Toys 
+16.3.2023, 20:26:14 - INFO - App listening on port 3039! 
+16.3.2023, 20:26:15 - DEBUG - Getting Toys 
+16.3.2023, 20:26:29 - INFO - App listening on port 3039! 
+16.3.2023, 20:26:32 - DEBUG - Getting Toys 
+16.3.2023, 20:26:35 - DEBUG - Getting Toys 
+16.3.2023, 20:28:50 - DEBUG - Getting Toys 
+16.3.2023, 20:28:53 - DEBUG - Getting Toys 
+16.3.2023, 20:28:56 - DEBUG - Getting Toys 
+16.3.2023, 20:29:03 - DEBUG - Getting Toys 
+16.3.2023, 20:29:05 - DEBUG - Getting Toys 
+16.3.2023, 20:29:08 - DEBUG - Getting Toys 
+16.3.2023, 20:29:08 - DEBUG - Getting Toys 
+16.3.2023, 20:29:10 - DEBUG - Getting Toys 
+16.3.2023, 20:29:11 - DEBUG - Getting Toys 
+16.3.2023, 20:29:12 - DEBUG - Getting Toys 
+16.3.2023, 20:29:12 - DEBUG - Getting Toys 
+16.3.2023, 20:31:05 - INFO - App listening on port 3039! 
+16.3.2023, 20:31:14 - INFO - App listening on port 3039! 
+16.3.2023, 20:31:17 - DEBUG - Getting Toys 
+16.3.2023, 20:31:26 - DEBUG - Getting Toys 
+16.3.2023, 20:31:38 - INFO - App listening on port 3039! 
+16.3.2023, 20:31:40 - DEBUG - Getting Toys 
+16.3.2023, 20:31:42 - DEBUG - Getting Toys 
+16.3.2023, 20:31:51 - INFO - App listening on port 3039! 
+16.3.2023, 20:32:00 - DEBUG - Getting Toys 
+16.3.2023, 20:32:04 - DEBUG - Getting Toys 
+16.3.2023, 20:32:07 - DEBUG - Getting Toys 
+16.3.2023, 20:32:10 - DEBUG - Getting Toys 
+16.3.2023, 20:32:12 - DEBUG - Getting Toys 
+16.3.2023, 20:32:35 - DEBUG - Getting Toys 
+16.3.2023, 20:33:06 - INFO - App listening on port 3039! 
+16.3.2023, 20:33:08 - DEBUG - Getting Toys 
+16.3.2023, 20:33:11 - DEBUG - Getting Toys 
+16.3.2023, 20:33:13 - DEBUG - Getting Toys 
+16.3.2023, 20:34:05 - INFO - App listening on port 3039! 
+16.3.2023, 20:34:08 - DEBUG - Getting Toys 
+16.3.2023, 20:34:11 - DEBUG - Getting Toys 
+16.3.2023, 20:34:12 - DEBUG - Getting Toys 
+16.3.2023, 20:34:22 - INFO - App listening on port 3039! 
+16.3.2023, 20:34:25 - DEBUG - Getting Toys 
+16.3.2023, 20:34:28 - DEBUG - Getting Toys 
+16.3.2023, 20:34:29 - DEBUG - Getting Toys 
+16.3.2023, 20:34:30 - DEBUG - Getting Toys 
+16.3.2023, 20:34:31 - DEBUG - Getting Toys 
+16.3.2023, 20:34:32 - DEBUG - Getting Toys 
+16.3.2023, 20:34:32 - DEBUG - Getting Toys 
+16.3.2023, 20:34:45 - DEBUG - Getting Toys 
+16.3.2023, 20:34:57 - INFO - App listening on port 3039! 
+16.3.2023, 20:34:59 - DEBUG - Getting Toys 
+16.3.2023, 20:35:02 - DEBUG - Getting Toys 
+16.3.2023, 20:35:04 - DEBUG - Getting Toys 
+16.3.2023, 20:35:22 - INFO - App listening on port 3039! 
+16.3.2023, 20:35:28 - DEBUG - Getting Toys 
+16.3.2023, 20:35:31 - DEBUG - Getting Toys 
+16.3.2023, 20:35:33 - DEBUG - Getting Toys 
+16.3.2023, 20:35:57 - INFO - App listening on port 3039! 
+16.3.2023, 20:35:59 - DEBUG - Getting Toys 
+16.3.2023, 20:36:03 - DEBUG - Getting Toys 
+16.3.2023, 20:36:06 - DEBUG - Getting Toys 
+16.3.2023, 20:36:08 - DEBUG - Getting Toys 
+16.3.2023, 20:36:14 - DEBUG - Getting Toys 
+16.3.2023, 20:36:15 - DEBUG - Getting Toys 
+16.3.2023, 20:36:16 - DEBUG - Getting Toys 
+16.3.2023, 20:36:21 - DEBUG - Getting Toys 
+16.3.2023, 20:36:22 - DEBUG - Getting Toys 
+16.3.2023, 20:36:23 - DEBUG - Getting Toys 
+16.3.2023, 20:36:25 - DEBUG - Getting Toys 
+16.3.2023, 20:36:31 - INFO - App listening on port 3039! 
+16.3.2023, 20:36:35 - DEBUG - Getting Toys 
+16.3.2023, 20:36:48 - DEBUG - Getting Toys 
+16.3.2023, 20:37:20 - INFO - App listening on port 3039! 
+16.3.2023, 20:37:40 - INFO - App listening on port 3039! 
+16.3.2023, 20:37:42 - DEBUG - Getting Toys 
+16.3.2023, 20:37:45 - DEBUG - Getting Toys 
+16.3.2023, 20:37:45 - DEBUG - Getting Toys 
+16.3.2023, 20:37:47 - DEBUG - Getting Toys 
+16.3.2023, 20:37:48 - DEBUG - Getting Toys 
+16.3.2023, 20:37:50 - DEBUG - Getting Toys 
+16.3.2023, 20:37:51 - DEBUG - Getting Toys 
+16.3.2023, 20:37:52 - DEBUG - Getting Toys 
+16.3.2023, 20:37:52 - DEBUG - Getting Toys 
+16.3.2023, 20:37:54 - DEBUG - Getting Toys 
+16.3.2023, 20:37:55 - DEBUG - Getting Toys 
+16.3.2023, 20:37:56 - DEBUG - Getting Toys 
+16.3.2023, 20:38:11 - INFO - App listening on port 3039! 
+16.3.2023, 20:38:18 - DEBUG - Getting Toys 
+16.3.2023, 20:38:21 - DEBUG - Getting Toys 
+16.3.2023, 20:38:22 - DEBUG - Getting Toys 
+16.3.2023, 20:38:23 - DEBUG - Getting Toys 
+16.3.2023, 20:38:24 - DEBUG - Getting Toys 
+16.3.2023, 20:38:25 - DEBUG - Getting Toys 
+16.3.2023, 20:38:26 - DEBUG - Getting Toys 
+16.3.2023, 20:38:27 - DEBUG - Getting Toys 
+16.3.2023, 20:38:29 - DEBUG - Getting Toys 
+16.3.2023, 20:38:30 - DEBUG - Getting Toys 
+16.3.2023, 20:38:31 - DEBUG - Getting Toys 
+16.3.2023, 20:38:32 - DEBUG - Getting Toys 
+16.3.2023, 20:40:41 - DEBUG - Getting Toys 
+16.3.2023, 20:41:46 - DEBUG - Getting Toys 
+16.3.2023, 20:43:13 - DEBUG - Getting Toys 
+16.3.2023, 20:44:27 - DEBUG - Getting Toys 
+16.3.2023, 20:44:45 - DEBUG - Getting Toys 
+16.3.2023, 20:46:38 - DEBUG - Getting Toys 
+16.3.2023, 20:47:09 - DEBUG - Getting Toys 
+16.3.2023, 20:47:32 - DEBUG - Getting Toys 
+16.3.2023, 20:50:30 - DEBUG - Getting Toys 
+16.3.2023, 20:51:48 - DEBUG - Getting Toys 
+16.3.2023, 20:52:43 - DEBUG - Getting Toys 
+16.3.2023, 20:52:51 - DEBUG - Getting Toys 
+16.3.2023, 20:53:45 - DEBUG - Getting Toys 
+16.3.2023, 20:56:42 - ERROR - while finding toy undefined | BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+16.3.2023, 20:56:42 - ERROR - Failed to get toy | BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+16.3.2023, 20:59:30 - DEBUG - Getting Toys 
+16.3.2023, 20:59:37 - ERROR - while finding toy undefined | BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+16.3.2023, 20:59:37 - ERROR - Failed to get toy | BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+16.3.2023, 21:00:06 - DEBUG - Getting Toys 
+16.3.2023, 21:02:27 - ERROR - Failed to update toy | ReferenceError: toyId is not defined 
+16.3.2023, 21:04:10 - DEBUG - Getting Toys 
+16.3.2023, 21:04:31 - DEBUG - Getting Toys 
+16.3.2023, 21:05:50 - DEBUG - Getting Toys 
+16.3.2023, 21:05:58 - DEBUG - Getting Toys 
+16.3.2023, 21:06:01 - DEBUG - Getting Toys 
+16.3.2023, 21:06:05 - DEBUG - Getting Toys 
+16.3.2023, 21:06:06 - DEBUG - Getting Toys 
+16.3.2023, 21:06:07 - DEBUG - Getting Toys 
+16.3.2023, 21:06:08 - DEBUG - Getting Toys 
+16.3.2023, 21:06:08 - DEBUG - Getting Toys 
+16.3.2023, 21:06:10 - DEBUG - Getting Toys 
+16.3.2023, 21:06:11 - DEBUG - Getting Toys 
+16.3.2023, 21:06:14 - DEBUG - Getting Toys 
+16.3.2023, 21:06:15 - DEBUG - Getting Toys 
+16.3.2023, 21:06:17 - DEBUG - Getting Toys 
+16.3.2023, 21:06:18 - DEBUG - Getting Toys 
+16.3.2023, 21:06:19 - DEBUG - Getting Toys 
+16.3.2023, 21:06:20 - DEBUG - Getting Toys 
+16.3.2023, 21:06:21 - DEBUG - Getting Toys 
+16.3.2023, 21:06:21 - DEBUG - Getting Toys 
+16.3.2023, 21:06:29 - DEBUG - Getting Toys 
+16.3.2023, 21:06:34 - DEBUG - Getting Toys 
+16.3.2023, 21:06:35 - DEBUG - Getting Toys 
+16.3.2023, 21:06:36 - DEBUG - Getting Toys 
+16.3.2023, 21:06:37 - DEBUG - Getting Toys 
+16.3.2023, 21:06:37 - DEBUG - Getting Toys 
+16.3.2023, 21:10:58 - DEBUG - Getting Toys 
+16.3.2023, 21:12:32 - DEBUG - Getting Toys 
+16.3.2023, 21:13:58 - DEBUG - Getting Toys 
+16.3.2023, 21:16:43 - DEBUG - Getting Toys 
+16.3.2023, 21:19:11 - ERROR - cannot remove toy 64131e1a22289c9e32187ae3 | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+16.3.2023, 21:19:11 - ERROR - Failed to remove toy | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+16.3.2023, 21:19:51 - ERROR - cannot remove toy 64131e1a22289c9e32187ad5 | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+16.3.2023, 21:19:51 - ERROR - Failed to remove toy | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+16.3.2023, 21:21:00 - INFO - App listening on port 3039! 
+16.3.2023, 21:21:04 - ERROR - cannot remove toy 64131e1a22289c9e32187ae0 | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+16.3.2023, 21:21:04 - ERROR - Failed to remove toy | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+16.3.2023, 21:21:07 - ERROR - cannot remove toy 64131e1a22289c9e32187ae0 | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+16.3.2023, 21:21:07 - ERROR - Failed to remove toy | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+16.3.2023, 21:21:09 - ERROR - cannot remove toy 64131e1a22289c9e32187ae0 | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+16.3.2023, 21:21:09 - ERROR - Failed to remove toy | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+16.3.2023, 21:21:11 - ERROR - cannot remove toy 64131e1a22289c9e32187ae0 | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+16.3.2023, 21:21:11 - ERROR - Failed to remove toy | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+16.3.2023, 21:22:02 - INFO - App listening on port 3039! 
+16.3.2023, 21:22:10 - DEBUG - Getting Toys 
+16.3.2023, 21:22:53 - DEBUG - Getting Toys 
+16.3.2023, 21:23:12 - DEBUG - Getting Toys 
+16.3.2023, 21:23:53 - DEBUG - Getting Toys 
+16.3.2023, 21:24:05 - DEBUG - Getting Toys 
+16.3.2023, 21:28:43 - DEBUG - Getting Toys 
+16.3.2023, 21:30:46 - DEBUG - Getting Toys 
+16.3.2023, 21:50:25 - ERROR - Failed to update toy | ReferenceError: toyId is not defined 
+16.3.2023, 21:52:05 - DEBUG - Getting Toys 
+16.3.2023, 21:52:15 - INFO - App listening on port 3039! 
+16.3.2023, 21:52:22 - ERROR - cannot insert toy | MongoServerError: E11000 duplicate key error collection: toy_db.toy index: _id_ dup key: { _id: "" } 
+16.3.2023, 21:52:22 - ERROR - Failed to add toy | MongoServerError: E11000 duplicate key error collection: toy_db.toy index: _id_ dup key: { _id: "" } 
+16.3.2023, 21:54:49 - INFO - App listening on port 3039! 
+16.3.2023, 21:54:59 - INFO - App listening on port 3039! 
+16.3.2023, 21:55:09 - INFO - App listening on port 3039! 
+16.3.2023, 21:55:24 - INFO - App listening on port 3039! 
+16.3.2023, 21:56:32 - INFO - App listening on port 3039! 
+16.3.2023, 21:57:30 - INFO - App listening on port 3039! 
+16.3.2023, 21:57:34 - DEBUG - Getting Toys 
+16.3.2023, 21:57:52 - ERROR - cannot insert toy | MongoServerError: E11000 duplicate key error collection: toy_db.toy index: _id_ dup key: { _id: "" } 
+16.3.2023, 21:57:52 - ERROR - Failed to add toy | MongoServerError: E11000 duplicate key error collection: toy_db.toy index: _id_ dup key: { _id: "" } 
+16.3.2023, 21:58:11 - INFO - App listening on port 3039! 
+16.3.2023, 21:58:51 - DEBUG - Getting Toys 
+16.3.2023, 22:03:14 - ERROR - cannot insert toy | MongoServerError: E11000 duplicate key error collection: toy_db.toy index: _id_ dup key: { _id: "" } 
+16.3.2023, 22:03:14 - ERROR - Failed to add toy | MongoServerError: E11000 duplicate key error collection: toy_db.toy index: _id_ dup key: { _id: "" } 
+16.3.2023, 22:03:25 - DEBUG - Getting Toys 
+16.3.2023, 22:03:48 - ERROR - cannot insert toy | MongoServerError: E11000 duplicate key error collection: toy_db.toy index: _id_ dup key: { _id: "" } 
+16.3.2023, 22:03:48 - ERROR - Failed to add toy | MongoServerError: E11000 duplicate key error collection: toy_db.toy index: _id_ dup key: { _id: "" } 
+16.3.2023, 22:04:19 - DEBUG - Getting Toys 
+16.3.2023, 22:04:24 - DEBUG - Getting Toys 
+16.3.2023, 22:05:51 - DEBUG - Getting Toys 
+16.3.2023, 22:08:09 - DEBUG - Getting Toys 
+16.3.2023, 22:08:33 - ERROR - cannot insert toy | MongoServerError: E11000 duplicate key error collection: toy_db.toy index: _id_ dup key: { _id: "" } 
+16.3.2023, 22:08:33 - ERROR - Failed to add toy | MongoServerError: E11000 duplicate key error collection: toy_db.toy index: _id_ dup key: { _id: "" } 
+16.3.2023, 22:09:52 - INFO - App listening on port 3039! 
+16.3.2023, 22:09:58 - INFO - App listening on port 3039! 
+16.3.2023, 22:10:03 - ERROR - cannot insert toy | MongoServerError: E11000 duplicate key error collection: toy_db.toy index: _id_ dup key: { _id: "" } 
+16.3.2023, 22:10:03 - ERROR - Failed to add toy | MongoServerError: E11000 duplicate key error collection: toy_db.toy index: _id_ dup key: { _id: "" } 
+16.3.2023, 22:12:48 - ERROR - cannot insert toy | MongoServerError: E11000 duplicate key error collection: toy_db.toy index: _id_ dup key: { _id: "" } 
+16.3.2023, 22:12:48 - ERROR - Failed to add toy | MongoServerError: E11000 duplicate key error collection: toy_db.toy index: _id_ dup key: { _id: "" } 
+16.3.2023, 22:14:06 - DEBUG - Getting Toys 
+16.3.2023, 22:17:20 - DEBUG - Getting Toys 

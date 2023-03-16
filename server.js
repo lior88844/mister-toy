@@ -1,67 +1,54 @@
 const express = require('express')
-const toyService = require('./services/toy.service')
+const cookieParser = require('cookie-parser')
+// const toyService = require('./services/toy.service')
 const cors = require('cors')
+const path = require('path')
+
 const app = express()
+const http = require('http').createServer(app)
 
-const port = process.env.PORT || 3038
-const corsOptions = {
-  origin: ['http://localhost:5173', 'http://127.0.0.1:5173'],
-  credentials: true,
-}
-
+// Express App Config
+app.use(cookieParser())
 app.use(express.json())
-app.use(cors(corsOptions))
 app.use(express.static('public'))
 
-// LIST
-app.get('/api/toy', (req, res) => {
-  const criteria = req.query
-  toyService
-    .query(criteria)
-    .then(toys => res.send(toys))
-    .catch(err => res.status(500).send('Cannot get toys'))
-})
-// READ
-app.get('/api/toy/:toyId', (req, res) => {
-  const { toyId } = req.params
+if (process.env.NODE_ENV === 'production') {
+  // Express serve static files on production environment
+  app.use(express.static(path.resolve(__dirname, 'public')))
+} else {
+  // Configuring CORS
+  const corsOptions = {
+    // Make sure origin contains the url your frontend is running on
+    origin:
+      ['http://127.0.0.1:5173',
+        'http://localhost:5173',
+      ],
+    credentials: true
+  }
+  app.use(cors(corsOptions))
+}
 
-  toyService
-    .getById(toyId)
-    .then(toy => res.send(toy))
-    .catch(err => res.status(500).send('Cannot get toy'))
-})
-//DELETE
-app.delete('/api/toy/:toyId', (req, res) => {
-  const { toyId } = req.params
 
-  toyService
-    .remove(toyId)
-    .then(() => res.send('Removed!'))
-    .catch(err => res.status(401).send(err))
-})
-// CREATE
-app.post('/api/toy', (req, res) => {
-  const toy = req.body
-  toyService
-    .save(toy)
-    .then(savedtoy => res.send(savedtoy))
-    .catch(err => res.status(500).send('Cannot save toy'))
-})
+// const authRoutes = require('./api/auth/auth.routes')
+// const userRoutes = require('./api/user/user.routes')
+const toyRoutes = require('./api/toy/toy.routes')
 
-// UPDATE
-app.put('/api/toy/:toyId', (req, res) => {
-  const toy = req.body
-  toyService
-    .save(toy)
-    .then(savedtoy => {
-      console.log(savedtoy)
-      res.send(savedtoy)
-    })
-    .catch(err => res.status(500).send('Cannot save toy'))
+// routes
+// app.use('/api/auth', authRoutes)
+// app.use('/api/user', userRoutes)
+app.use('/api/toy', toyRoutes)
+
+// Make every server-side-route to match the index.html
+// so when requesting http://localhost:3030/index.html/toy/123 it will still respond with
+// our SPA (single page app) (the index.html file) and allow vue-router to take it from there
+app.get('/**', (req, res) => {
+  res.sendFile(path.join(__dirname, 'public', 'index.html'))
 })
 
 
+const logger = require('./services/logger.service')
+const port = process.env.PORT || 3039
 
-app.listen(port, () => {
-  console.log(`App listening on port ${port}!`)
+http.listen(port, () => {
+  logger.info(`App listening on port ${port}!`)
 })

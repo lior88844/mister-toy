@@ -1,18 +1,110 @@
 [
   {
-    "_id": "Lp8t3",
     "name": "CowBoy",
-    "price": 20,
-    "labels": ["Box game", "Doll", "Puzzle", "Outdoor"],
-    "createdAt": 0,
+    "price": 2,
+    "labels": ["Doll", "Outdoor"],
+    "inStock": false
+  },
+  {
+    "name": "Ball",
+    "price": 4,
+    "labels": ["Box game", "Baby"],
     "inStock": true
   },
   {
-    "_id": "Llkjf",
-    "name": "Ball",
-    "price": 30,
-    "labels": ["Outdoor", "Box game", "Baby"],
-    "createdAt": 0,
+    "name": "trampoline",
+    "price": 104,
+    "labels": ["Outdoor"],
+    "inStock": true
+  },
+  {
+    "name": "Barbie",
+    "price": 4,
+    "labels": ["Baby", "Doll"],
+    "inStock": true
+  },
+  {
+    "name": "Bratz",
+    "price": "53",
+    "labels": ["Doll"],
+    "inStock": true
+  },
+  {
+    "name": "Race Car",
+    "price": "77",
+    "labels": ["Outdoor", "On wheels"],
+    "inStock": true
+  },
+  {
+    "name": "Jigsaw Puzzle",
+    "price": "15",
+    "labels": ["Puzzle", "Art"],
+    "inStock": true
+  },
+  {
+    "name": "Robot",
+    "price": "50",
+    "labels": ["Battery Powered", "Outdoor"],
+    "inStock": true
+  },
+  {
+    "name": "Remote Control Car",
+    "price": "25",
+    "labels": ["On wheels", "Battery Powered"],
+    "inStock": true
+  },
+  {
+    "name": "Teddy Bear",
+    "price": "20",
+    "labels": ["Baby", "Doll"],
+    "inStock": false
+  },
+  {
+    "name": "Scooter",
+    "price": "50",
+    "labels": ["On wheels", "Outdoor"],
+    "inStock": true
+  },
+  {
+    "name": "Paint Set",
+    "price": "10",
+    "labels": ["Art", "Baby"],
+    "inStock": true
+  },
+  {
+    "name": "Drum Set",
+    "price": "80",
+    "labels": ["Art", "Baby"],
+    "inStock": true
+  },
+  {
+    "name": "Remote Control Helicopter",
+    "price": "35",
+    "labels": ["Outdoor", "Battery Powered"],
+    "inStock": false
+  },
+  {
+    "name": "Barbie Doll",
+    "price": "30",
+    "labels": ["Doll", "Baby"],
+    "inStock": true
+  },
+  {
+    "name": "Nerf Gun",
+    "price": "40",
+    "labels": ["Outdoor", "Box game"],
+    "inStock": true
+  },
+  {
+    "name": "RC Airplane",
+    "price": "60",
+    "labels": ["Outdoor", "Battery Powered"],
+    "inStock": false
+  },
+  {
+    "name": "Stuffed Animal",
+    "price": "15",
+    "labels": ["Baby", "Doll"],
     "inStock": true
   }
 ]
