@@ -68,7 +68,7 @@ async function removeToy(req, res) {
   }
 }
 
-/*
+
 async function addToyMsg(req, res) {
   const { loggedinUser } = req
   try {
@@ -86,6 +86,7 @@ async function addToyMsg(req, res) {
   }
 }
 
+/*
 async function removeToyMsg(req, res) {
   const { loggedinUser } = req
   try {
@@ -107,6 +108,6 @@ module.exports = {
   addToy,
   updateToy,
   removeToy,
-  // addToyMsg,
+  addToyMsg,
   // removeToyMsg
 }

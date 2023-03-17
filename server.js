@@ -1,6 +1,5 @@
 const express = require('express')
 const cookieParser = require('cookie-parser')
-// const toyService = require('./services/toy.service')
 const cors = require('cors')
 const path = require('path')
 
@@ -20,7 +19,7 @@ if (process.env.NODE_ENV === 'production') {
   const corsOptions = {
     // Make sure origin contains the url your frontend is running on
     origin:
-      ['http://127.0.0.1:5173',
+      ['http://127.0.0.1:',
         'http://localhost:5173',
       ],
     credentials: true
@@ -29,13 +28,13 @@ if (process.env.NODE_ENV === 'production') {
 }
 
 
-// const authRoutes = require('./api/auth/auth.routes')
-// const userRoutes = require('./api/user/user.routes')
+const authRoutes = require('./api/auth/auth.routes')
+const userRoutes = require('./api/user/user.routes')
 const toyRoutes = require('./api/toy/toy.routes')
 
 // routes
-// app.use('/api/auth', authRoutes)
-// app.use('/api/user', userRoutes)
+app.use('/api/auth', authRoutes)
+app.use('/api/user', userRoutes)
 app.use('/api/toy', toyRoutes)
 
 // Make every server-side-route to match the index.html

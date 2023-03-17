@@ -900,3 +900,309 @@
 16.3.2023, 22:12:48 - ERROR - Failed to add toy | MongoServerError: E11000 duplicate key error collection: toy_db.toy index: _id_ dup key: { _id: "" } 
 16.3.2023, 22:14:06 - DEBUG - Getting Toys 
 16.3.2023, 22:17:20 - DEBUG - Getting Toys 
+17.3.2023, 10:36:07 - INFO - App listening on port 3039! 
+17.3.2023, 11:31:46 - INFO - App listening on port 3039! 
+17.3.2023, 11:48:49 - INFO - App listening on port 3039! 
+17.3.2023, 11:56:07 - INFO - App listening on port 3039! 
+17.3.2023, 12:04:40 - DEBUG - Getting Toys 
+17.3.2023, 12:05:34 - DEBUG - Getting Toys 
+17.3.2023, 14:13:08 - DEBUG - Getting Toys 
+17.3.2023, 15:47:46 - DEBUG - Getting Toys 
+17.3.2023, 15:57:41 - DEBUG - Getting Toys 
+17.3.2023, 15:57:41 - DEBUG - Getting Toys 
+17.3.2023, 15:58:39 - DEBUG - Getting Toys 
+17.3.2023, 15:58:39 - DEBUG - Getting Toys 
+17.3.2023, 16:00:56 - DEBUG - Getting Toys 
+17.3.2023, 16:00:56 - DEBUG - Getting Toys 
+17.3.2023, 16:02:24 - DEBUG - Getting Toys 
+17.3.2023, 16:02:24 - DEBUG - Getting Toys 
+17.3.2023, 16:05:33 - DEBUG - Getting Toys 
+17.3.2023, 16:17:21 - DEBUG - Getting Toys 
+17.3.2023, 16:18:50 - DEBUG - Getting Toys 
+17.3.2023, 16:19:42 - DEBUG - Getting Toys 
+17.3.2023, 16:20:40 - DEBUG - Getting Toys 
+17.3.2023, 16:21:16 - DEBUG - Getting Toys 
+17.3.2023, 16:22:32 - DEBUG - Getting Toys 
+17.3.2023, 16:38:32 - DEBUG - Getting Toys 
+17.3.2023, 16:47:44 - DEBUG - Getting Toys 
+17.3.2023, 16:47:44 - DEBUG - Getting Toys 
+17.3.2023, 17:03:19 - DEBUG - Getting Toys 
+17.3.2023, 17:07:49 - DEBUG - Getting Toys 
+17.3.2023, 17:10:30 - DEBUG - Getting Toys 
+17.3.2023, 17:11:38 - DEBUG - Getting Toys 
+17.3.2023, 17:11:39 - DEBUG - Getting Toys 
+17.3.2023, 17:11:58 - DEBUG - Getting Toys 
+17.3.2023, 17:11:58 - DEBUG - Getting Toys 
+17.3.2023, 17:12:51 - DEBUG - Getting Toys 
+17.3.2023, 17:12:51 - DEBUG - Getting Toys 
+17.3.2023, 17:25:41 - INFO - App listening on port 3039! 
+17.3.2023, 17:25:43 - DEBUG - Getting Toys 
+17.3.2023, 17:25:48 - DEBUG - auth.service - signup with username: liorD, fullname: dsfsdf 
+17.3.2023, 17:25:49 - DEBUG - auth.route - new account created: {"username":"liorD","password":"$2b$10$xB4i0s62vbTA51JXxYUcPeajg7xV/JfAgEJC68ByUq2WHhwK.oneG","fullname":"dsfsdf","score":0,"_id":"6414867d18627ac273ae2cd7"} 
+17.3.2023, 17:25:49 - DEBUG - auth.service - login with username: liorD 
+17.3.2023, 17:25:49 - INFO - User login:  | {"_id":"6414867d18627ac273ae2cd7","username":"liorD","fullname":"dsfsdf","score":0} 
+17.3.2023, 17:29:38 - DEBUG - Getting Toys 
+17.3.2023, 17:30:59 - DEBUG - Getting Toys 
+17.3.2023, 17:31:10 - DEBUG - auth.service - signup with username: liorD, fullname: Lior Doron 
+17.3.2023, 17:31:10 - ERROR - cannot insert user | Error: Username taken 
+17.3.2023, 17:31:10 - ERROR - Failed to signup Error: Username taken 
+17.3.2023, 17:31:45 - DEBUG - auth.service - signup with username: edenD, fullname: Eden Derhi 
+17.3.2023, 17:31:45 - DEBUG - auth.route - new account created: {"username":"edenD","password":"$2b$10$lkBZIh8MeD/4LMpHuwaiJOq9Jwf2gXstCyWAKsthnxnPoevwPKNRm","fullname":"Eden Derhi","score":0,"_id":"641487e118627ac273ae2cd8"} 
+17.3.2023, 17:31:45 - DEBUG - auth.service - login with username: edenD 
+17.3.2023, 17:31:46 - INFO - User login:  | {"_id":"641487e118627ac273ae2cd8","username":"edenD","fullname":"Eden Derhi","score":0} 
+17.3.2023, 17:32:24 - DEBUG - Getting Toys 
+17.3.2023, 17:32:33 - DEBUG - auth.service - login with username: liorD 
+17.3.2023, 17:32:33 - INFO - User login:  | {"_id":"6414867d18627ac273ae2cd7","username":"liorD","fullname":"dsfsdf","score":0} 
+17.3.2023, 17:34:34 - INFO - App listening on port 3039! 
+17.3.2023, 17:35:23 - DEBUG - Getting Toys 
+17.3.2023, 17:35:30 - DEBUG - auth.service - login with username: liorD 
+17.3.2023, 17:35:31 - INFO - User login:  | {"_id":"6414867d18627ac273ae2cd7","username":"liorD","fullname":"Lior Doron","score":0} 
+17.3.2023, 17:36:46 - DEBUG - auth.service - signup with username: tamarS, fullname: Tamar Shalem 
+17.3.2023, 17:36:46 - DEBUG - auth.route - new account created: {"username":"tamarS","password":"$2b$10$gI26.Pte92sXFsQvyT2SMuhHUZXtbsWKvgatraODovNWaTS5X9rci","fullname":"Tamar Shalem","score":0,"_id":"6414890eb38a76d3b72c0c60"} 
+17.3.2023, 17:36:46 - DEBUG - auth.service - login with username: tamarS 
+17.3.2023, 17:36:46 - INFO - User login:  | {"_id":"6414890eb38a76d3b72c0c60","username":"tamarS","fullname":"Tamar Shalem","score":0} 
+17.3.2023, 17:38:45 - INFO - App listening on port 3039! 
+17.3.2023, 17:40:39 - INFO - App listening on port 3039! 
+17.3.2023, 17:55:58 - INFO - App listening on port 3039! 
+17.3.2023, 17:58:03 - INFO - App listening on port 3039! 
+17.3.2023, 17:59:52 - INFO - App listening on port 3039! 
+17.3.2023, 18:00:02 - WARN - Tamar Shalemattempted to perform admin action 
+17.3.2023, 18:00:51 - WARN - Tamar Shalemattempted to perform admin action 
+17.3.2023, 18:02:00 - INFO - App listening on port 3039! 
+17.3.2023, 18:02:22 - DEBUG - auth.service - signup with username: Mayad, fullname: Maya Doron 
+17.3.2023, 18:02:22 - DEBUG - auth.route - new account created: {"username":"Mayad","password":"$2b$10$CuPqxXIjd8RJ6JxtYQQF3.T7r3vqHKa83ILnqqT9Txi7/Hex32E.2","fullname":"Maya Doron","score":0,"_id":"64148f0eef82fd74e322b8ba"} 
+17.3.2023, 18:02:22 - DEBUG - auth.service - login with username: Mayad 
+17.3.2023, 18:02:23 - INFO - User login:  | {"_id":"64148f0eef82fd74e322b8ba","username":"Mayad","fullname":"Maya Doron","score":0} 
+17.3.2023, 18:02:36 - INFO - App listening on port 3039! 
+17.3.2023, 18:04:52 - DEBUG - Getting Toys 
+17.3.2023, 18:05:44 - DEBUG - auth.service - signup with username: Mayad, fullname: Maya Doron 
+17.3.2023, 18:05:44 - DEBUG - auth.route - new account created: {"username":"Mayad","password":"$2b$10$Hk7tQ1Ro77E7gdvZOl9LE.0d5PWsvFMw9YdQmGgCJmYMNabQgoufW","fullname":"Maya Doron","score":0,"_id":"64148fd8015ef0dd376e4790"} 
+17.3.2023, 18:05:44 - DEBUG - auth.service - login with username: Mayad 
+17.3.2023, 18:05:44 - INFO - User login:  | {"_id":"64148fd8015ef0dd376e4790","username":"Mayad","fullname":"Maya Doron","score":0} 
+17.3.2023, 18:06:25 - DEBUG - Getting Toys 
+17.3.2023, 18:06:42 - DEBUG - auth.service - signup with username: liorD, fullname: Lior Doron 
+17.3.2023, 18:06:42 - DEBUG - auth.route - new account created: {"username":"liorD","password":"$2b$10$8Jc6DvfS6PbqrilZ4ixu4uZmNWjgVXcts7J2LMLre4jUQ.IEkWqT.","fullname":"Lior Doron","score":0,"_id":"64149012015ef0dd376e4791"} 
+17.3.2023, 18:06:42 - DEBUG - auth.service - login with username: liorD 
+17.3.2023, 18:06:42 - INFO - User login:  | {"_id":"64149012015ef0dd376e4791","username":"liorD","fullname":"Lior Doron","score":0} 
+17.3.2023, 18:07:12 - DEBUG - Getting Toys 
+17.3.2023, 18:07:24 - DEBUG - auth.service - signup with username: edenD, fullname: Eden Derhi 
+17.3.2023, 18:07:24 - DEBUG - auth.route - new account created: {"username":"edenD","password":"$2b$10$MFhbGfPV63jWGUy034SAF.juVnoegmZKDWC.4hieDCLGBgu49ALWu","fullname":"Eden Derhi","score":0,"_id":"6414903c015ef0dd376e4792"} 
+17.3.2023, 18:07:24 - DEBUG - auth.service - login with username: edenD 
+17.3.2023, 18:07:25 - INFO - User login:  | {"_id":"6414903c015ef0dd376e4792","username":"edenD","fullname":"Eden Derhi","score":0} 
+17.3.2023, 18:08:01 - INFO - App listening on port 3039! 
+17.3.2023, 18:08:18 - DEBUG - Getting Toys 
+17.3.2023, 18:08:38 - DEBUG - auth.service - signup with username: liorD, fullname: Lior Doron 
+17.3.2023, 18:08:38 - DEBUG - auth.route - new account created: {"username":"liorD","password":"$2b$10$JQZBsk5jQX3fwQYJHDqPjeZnDCh3/t0m9.gwjUkYcw91XCRnAjDja","fullname":"Lior Doron","score":0,"_id":"641490864276183b5f949e89"} 
+17.3.2023, 18:08:38 - DEBUG - auth.service - login with username: liorD 
+17.3.2023, 18:08:38 - INFO - User login:  | {"_id":"641490864276183b5f949e89","username":"liorD","fullname":"Lior Doron","score":0} 
+17.3.2023, 18:09:06 - DEBUG - auth.service - signup with username: edenD, fullname: Eden Derhi 
+17.3.2023, 18:09:06 - DEBUG - auth.route - new account created: {"username":"edenD","password":"$2b$10$/QY.L0gtK/hqoXoi2bzmHOcBk.Jm88T9GUmeva2B4wwmI.Ml.gujS","fullname":"Eden Derhi","score":0,"_id":"641490a24276183b5f949e8a"} 
+17.3.2023, 18:09:06 - DEBUG - auth.service - login with username: edenD 
+17.3.2023, 18:09:06 - INFO - User login:  | {"_id":"641490a24276183b5f949e8a","username":"edenD","fullname":"Eden Derhi","score":0} 
+17.3.2023, 18:09:17 - DEBUG - auth.service - signup with username: tamarS, fullname: Tamar Shalem 
+17.3.2023, 18:09:17 - DEBUG - auth.route - new account created: {"username":"tamarS","password":"$2b$10$S6n7Pz4og3n3Vpp75fEm0OzDqZQSHHM9lhwqUO0f06PcuYuAszIAG","fullname":"Tamar Shalem","score":0,"_id":"641490ad4276183b5f949e8b"} 
+17.3.2023, 18:09:17 - DEBUG - auth.service - login with username: tamarS 
+17.3.2023, 18:09:17 - INFO - User login:  | {"_id":"641490ad4276183b5f949e8b","username":"tamarS","fullname":"Tamar Shalem","score":0} 
+17.3.2023, 18:09:59 - INFO - App listening on port 3039! 
+17.3.2023, 18:10:02 - INFO - App listening on port 3039! 
+17.3.2023, 18:10:27 - DEBUG - auth.service - signup with username: liorD, fullname: Lior Doron 
+17.3.2023, 18:10:28 - DEBUG - auth.route - new account created: {"username":"liorD","password":"$2b$10$RRydMY9Aao7WcIojX/jk6.vHBYIF8Jdy1aBLyiwJ2eXyUC9xtOGNm","fullname":"Lior Doron","_id":"641490f4959e77328b1888a9"} 
+17.3.2023, 18:10:28 - DEBUG - auth.service - login with username: liorD 
+17.3.2023, 18:10:28 - INFO - User login:  | {"_id":"641490f4959e77328b1888a9","username":"liorD","fullname":"Lior Doron","isAdmin":null} 
+17.3.2023, 18:16:46 - INFO - App listening on port 3039! 
+17.3.2023, 18:17:07 - DEBUG - auth.service - signup with username: liorD, fullname: Lior Doron 
+17.3.2023, 18:17:07 - DEBUG - auth.route - new account created: {"username":"liorD","password":"$2b$10$X3DpAz1CUo8NtP28ePtDLO86xPUp8Xtr.0HIoxNjCzrKMQjMcjKLC","fullname":"Lior Doron","_id":"641492832a9809d60f292ffe"} 
+17.3.2023, 18:17:07 - DEBUG - auth.service - login with username: liorD 
+17.3.2023, 18:17:08 - INFO - User login:  | {"_id":"641492832a9809d60f292ffe","username":"liorD","fullname":"Lior Doron","isAdmin":null} 
+17.3.2023, 18:18:08 - INFO - App listening on port 3039! 
+17.3.2023, 18:18:30 - INFO - App listening on port 3039! 
+17.3.2023, 18:18:54 - DEBUG - auth.service - signup with username: liorD, fullname: Lior Doron 
+17.3.2023, 18:18:54 - DEBUG - auth.route - new account created: {"username":"liorD","password":"$2b$10$XxJPaP3dncOwFs3487gGdeuLl6ssgdzCmVNpsvjkqK8JugPGQboK6","fullname":"Lior Doron","isAdmin":false,"_id":"641492eedd4544806fdd2150"} 
+17.3.2023, 18:18:54 - DEBUG - auth.service - login with username: liorD 
+17.3.2023, 18:18:55 - INFO - User login:  | {"_id":"641492eedd4544806fdd2150","username":"liorD","fullname":"Lior Doron","isAdmin":false} 
+17.3.2023, 18:19:19 - DEBUG - auth.service - signup with username: edenD, fullname: Eden Derhi 
+17.3.2023, 18:19:19 - DEBUG - auth.route - new account created: {"username":"edenD","password":"$2b$10$7c0I5v73wQ/3Up30pNqKXuGkA5DNkm7FMqK2PdDCgk0muzcLxqS0K","fullname":"Eden Derhi","isAdmin":false,"_id":"64149307dd4544806fdd2151"} 
+17.3.2023, 18:19:19 - DEBUG - auth.service - login with username: edenD 
+17.3.2023, 18:19:19 - INFO - User login:  | {"_id":"64149307dd4544806fdd2151","username":"edenD","fullname":"Eden Derhi","isAdmin":false} 
+17.3.2023, 18:19:34 - DEBUG - auth.service - signup with username: tamarS, fullname: Tamar Shalem 
+17.3.2023, 18:19:34 - DEBUG - auth.route - new account created: {"username":"tamarS","password":"$2b$10$U.NVlhl7mc6RZW010klqWOQ9eMhVyU1qDKIdZhwdnM0Tb7zDcXvCK","fullname":"Tamar Shalem","isAdmin":false,"_id":"64149316dd4544806fdd2152"} 
+17.3.2023, 18:19:34 - DEBUG - auth.service - login with username: tamarS 
+17.3.2023, 18:19:34 - INFO - User login:  | {"_id":"64149316dd4544806fdd2152","username":"tamarS","fullname":"Tamar Shalem","isAdmin":false} 
+17.3.2023, 18:20:13 - WARN - Tamar Shalemattempted to perform admin action 
+17.3.2023, 18:20:44 - DEBUG - auth.service - login with username: liorD 
+17.3.2023, 18:20:45 - ERROR - Failed to Login Invalid username or password 
+17.3.2023, 18:20:45 - DEBUG - Getting Toys 
+17.3.2023, 18:20:51 - DEBUG - auth.service - login with username: liorD 
+17.3.2023, 18:20:52 - INFO - User login:  | {"_id":"641492eedd4544806fdd2150","username":"liorD","fullname":"Lior Doron","isAdmin":true} 
+17.3.2023, 18:21:05 - DEBUG - Getting Toys 
+17.3.2023, 18:22:09 - DEBUG - auth.service - login with username: edenD 
+17.3.2023, 18:22:09 - INFO - User login:  | {"_id":"64149307dd4544806fdd2151","username":"edenD","fullname":"Eden Derhi","isAdmin":false} 
+17.3.2023, 18:22:12 - WARN - Eden Derhiattempted to perform admin action 
+17.3.2023, 18:23:04 - DEBUG - Getting Toys 
+17.3.2023, 18:23:05 - DEBUG - Getting Toys 
+17.3.2023, 18:23:37 - DEBUG - Getting Toys 
+17.3.2023, 18:23:37 - DEBUG - Getting Toys 
+17.3.2023, 18:23:42 - DEBUG - auth.service - login with username: liorD 
+17.3.2023, 18:23:42 - ERROR - Failed to Login Invalid username or password 
+17.3.2023, 18:23:43 - DEBUG - Getting Toys 
+17.3.2023, 18:23:49 - DEBUG - auth.service - login with username: liorD 
+17.3.2023, 18:23:49 - INFO - User login:  | {"_id":"641492eedd4544806fdd2150","username":"liorD","fullname":"Lior Doron","isAdmin":true} 
+17.3.2023, 18:24:14 - DEBUG - Getting Toys 
+17.3.2023, 18:24:16 - DEBUG - Getting Toys 
+17.3.2023, 18:24:21 - DEBUG - auth.service - login with username: liorD 
+17.3.2023, 18:24:21 - ERROR - Failed to Login Invalid username or password 
+17.3.2023, 18:24:22 - DEBUG - Getting Toys 
+17.3.2023, 18:24:28 - DEBUG - auth.service - login with username: liorD 
+17.3.2023, 18:24:28 - INFO - User login:  | {"_id":"641492eedd4544806fdd2150","username":"liorD","fullname":"Lior Doron","isAdmin":true} 
+17.3.2023, 18:25:31 - DEBUG - Getting Toys 
+17.3.2023, 18:25:32 - DEBUG - Getting Toys 
+17.3.2023, 18:26:09 - DEBUG - Getting Toys 
+17.3.2023, 18:26:09 - DEBUG - Getting Toys 
+17.3.2023, 18:27:19 - DEBUG - auth.service - login with username: edenD 
+17.3.2023, 18:27:19 - INFO - User login:  | {"_id":"64149307dd4544806fdd2151","username":"edenD","fullname":"Eden Derhi","isAdmin":false} 
+17.3.2023, 18:29:47 - DEBUG - auth.service - login with username: liorD 
+17.3.2023, 18:29:47 - INFO - User login:  | {"_id":"641492eedd4544806fdd2150","username":"liorD","fullname":"Lior Doron","isAdmin":true} 
+17.3.2023, 18:29:51 - DEBUG - Getting Toys 
+17.3.2023, 18:31:04 - DEBUG - Getting Toys 
+17.3.2023, 18:31:57 - DEBUG - Getting Toys 
+17.3.2023, 18:34:46 - DEBUG - Getting Toys 
+17.3.2023, 18:34:46 - DEBUG - Getting Toys 
+17.3.2023, 18:34:56 - DEBUG - Getting Toys 
+17.3.2023, 18:34:57 - DEBUG - Getting Toys 
+17.3.2023, 18:42:09 - DEBUG - Getting Toys 
+17.3.2023, 18:47:01 - DEBUG - Getting Toys 
+17.3.2023, 18:50:02 - DEBUG - Getting Toys 
+17.3.2023, 18:50:13 - DEBUG - Getting Toys 
+17.3.2023, 18:50:38 - DEBUG - Getting Toys 
+17.3.2023, 18:50:42 - DEBUG - Getting Toys 
+17.3.2023, 18:50:43 - DEBUG - Getting Toys 
+17.3.2023, 18:51:28 - DEBUG - Getting Toys 
+17.3.2023, 18:54:57 - DEBUG - Getting Toys 
+17.3.2023, 19:12:15 - DEBUG - Getting Toys 
+17.3.2023, 19:13:47 - DEBUG - Getting Toys 
+17.3.2023, 19:13:50 - DEBUG - Getting Toys 
+17.3.2023, 19:24:26 - DEBUG - Getting Toys 
+17.3.2023, 19:25:42 - DEBUG - Getting Toys 
+17.3.2023, 19:32:08 - DEBUG - Getting Toys 
+17.3.2023, 19:33:22 - DEBUG - Getting Toys 
+17.3.2023, 19:33:23 - DEBUG - Getting Toys 
+17.3.2023, 19:34:04 - DEBUG - Getting Toys 
+17.3.2023, 19:34:05 - DEBUG - Getting Toys 
+17.3.2023, 19:35:06 - DEBUG - Getting Toys 
+17.3.2023, 19:35:06 - DEBUG - Getting Toys 
+17.3.2023, 19:38:39 - DEBUG - Getting Toys 
+17.3.2023, 19:38:39 - DEBUG - Getting Toys 
+17.3.2023, 19:42:50 - DEBUG - Getting Toys 
+17.3.2023, 19:42:51 - DEBUG - Getting Toys 
+17.3.2023, 19:43:05 - DEBUG - Getting Toys 
+17.3.2023, 19:43:06 - DEBUG - Getting Toys 
+17.3.2023, 19:44:48 - DEBUG - Getting Toys 
+17.3.2023, 19:44:49 - DEBUG - Getting Toys 
+17.3.2023, 19:45:44 - DEBUG - Getting Toys 
+17.3.2023, 19:45:44 - DEBUG - Getting Toys 
+17.3.2023, 19:46:33 - DEBUG - Getting Toys 
+17.3.2023, 19:46:34 - DEBUG - Getting Toys 
+17.3.2023, 19:47:21 - DEBUG - Getting Toys 
+17.3.2023, 19:47:21 - DEBUG - Getting Toys 
+17.3.2023, 19:47:47 - DEBUG - Getting Toys 
+17.3.2023, 19:47:47 - DEBUG - Getting Toys 
+17.3.2023, 19:49:06 - DEBUG - Getting Toys 
+17.3.2023, 19:49:06 - DEBUG - Getting Toys 
+17.3.2023, 19:51:11 - INFO - App listening on port 3039! 
+17.3.2023, 19:51:40 - INFO - App listening on port 3039! 
+17.3.2023, 19:52:13 - INFO - App listening on port 3039! 
+17.3.2023, 19:53:14 - DEBUG - Getting Toys 
+17.3.2023, 19:53:14 - DEBUG - Getting Toys 
+17.3.2023, 19:53:34 - DEBUG - Getting Toys 
+17.3.2023, 19:53:34 - DEBUG - Getting Toys 
+17.3.2023, 19:54:35 - INFO - App listening on port 3039! 
+17.3.2023, 19:54:53 - INFO - App listening on port 3039! 
+17.3.2023, 19:55:56 - DEBUG - Getting Toys 
+17.3.2023, 19:55:57 - DEBUG - Getting Toys 
+17.3.2023, 19:56:34 - DEBUG - Getting Toys 
+17.3.2023, 19:56:34 - DEBUG - Getting Toys 
+17.3.2023, 19:57:05 - DEBUG - Getting Toys 
+17.3.2023, 19:57:06 - DEBUG - Getting Toys 
+17.3.2023, 19:57:30 - DEBUG - Getting Toys 
+17.3.2023, 19:57:31 - DEBUG - Getting Toys 
+17.3.2023, 19:57:36 - DEBUG - Getting Toys 
+17.3.2023, 19:57:56 - INFO - App listening on port 3039! 
+17.3.2023, 19:58:08 - INFO - App listening on port 3039! 
+17.3.2023, 19:58:21 - DEBUG - Getting Toys 
+17.3.2023, 19:58:21 - DEBUG - Getting Toys 
+17.3.2023, 19:58:38 - DEBUG - Getting Toys 
+17.3.2023, 19:58:39 - DEBUG - Getting Toys 
+17.3.2023, 19:59:51 - INFO - App listening on port 3039! 
+17.3.2023, 20:01:46 - INFO - App listening on port 3039! 
+17.3.2023, 20:02:05 - INFO - App listening on port 3039! 
+17.3.2023, 20:02:27 - DEBUG - Getting Toys 
+17.3.2023, 20:02:28 - DEBUG - Getting Toys 
+17.3.2023, 20:02:45 - DEBUG - Getting Toys 
+17.3.2023, 20:02:45 - DEBUG - Getting Toys 
+17.3.2023, 20:03:19 - DEBUG - Getting Toys 
+17.3.2023, 20:03:19 - DEBUG - Getting Toys 
+17.3.2023, 20:03:24 - ERROR - cannot add toy msg 64131e1a22289c9e32187ad9 | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+17.3.2023, 20:03:24 - ERROR - Failed to update toy | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+17.3.2023, 20:04:28 - INFO - App listening on port 3039! 
+17.3.2023, 20:04:37 - DEBUG - Getting Toys 
+17.3.2023, 20:05:04 - DEBUG - Getting Toys 
+17.3.2023, 20:05:04 - DEBUG - Getting Toys 
+17.3.2023, 20:06:49 - INFO - App listening on port 3039! 
+17.3.2023, 20:07:09 - INFO - App listening on port 3039! 
+17.3.2023, 20:07:20 - INFO - App listening on port 3039! 
+17.3.2023, 20:07:32 - DEBUG - Getting Toys 
+17.3.2023, 20:07:48 - INFO - App listening on port 3039! 
+17.3.2023, 20:08:26 - INFO - App listening on port 3039! 
+17.3.2023, 20:08:50 - INFO - App listening on port 3039! 
+17.3.2023, 20:08:56 - DEBUG - Getting Toys 
+17.3.2023, 20:10:44 - DEBUG - Getting Toys 
+17.3.2023, 20:11:14 - INFO - App listening on port 3039! 
+17.3.2023, 20:11:26 - INFO - App listening on port 3039! 
+17.3.2023, 20:12:00 - INFO - App listening on port 3039! 
+17.3.2023, 20:13:15 - DEBUG - Getting Toys 
+17.3.2023, 20:13:15 - DEBUG - Getting Toys 
+17.3.2023, 20:14:25 - DEBUG - Getting Toys 
+17.3.2023, 20:14:25 - DEBUG - Getting Toys 
+17.3.2023, 20:14:44 - DEBUG - Getting Toys 
+17.3.2023, 20:14:44 - DEBUG - Getting Toys 
+17.3.2023, 20:14:54 - INFO - App listening on port 3039! 
+17.3.2023, 20:17:16 - INFO - App listening on port 3039! 
+17.3.2023, 20:17:21 - DEBUG - Getting Toys 
+17.3.2023, 20:18:03 - INFO - App listening on port 3039! 
+17.3.2023, 20:23:34 - DEBUG - Getting Toys 
+17.3.2023, 20:23:34 - DEBUG - Getting Toys 
+17.3.2023, 20:24:36 - INFO - App listening on port 3039! 
+17.3.2023, 20:25:35 - DEBUG - Getting Toys 
+17.3.2023, 20:25:35 - DEBUG - Getting Toys 
+17.3.2023, 20:25:56 - DEBUG - Getting Toys 
+17.3.2023, 20:25:56 - DEBUG - Getting Toys 
+17.3.2023, 20:27:29 - INFO - App listening on port 3039! 
+17.3.2023, 20:29:20 - INFO - App listening on port 3039! 
+17.3.2023, 20:36:03 - DEBUG - Getting Toys 
+17.3.2023, 20:42:20 - DEBUG - Getting Toys 
+17.3.2023, 20:46:19 - DEBUG - Getting Toys 
+17.3.2023, 20:53:19 - DEBUG - Getting Toys 
+17.3.2023, 20:53:50 - DEBUG - Getting Toys 
+17.3.2023, 20:56:01 - DEBUG - Getting Toys 
+17.3.2023, 20:56:23 - DEBUG - Getting Toys 
+17.3.2023, 20:57:01 - DEBUG - Getting Toys 
+17.3.2023, 21:00:48 - DEBUG - Getting Toys 
+17.3.2023, 21:05:56 - DEBUG - Getting Toys 
+17.3.2023, 21:15:47 - DEBUG - Getting Toys 
+17.3.2023, 21:17:34 - DEBUG - Getting Toys 
+17.3.2023, 21:20:55 - DEBUG - Getting Toys 
+17.3.2023, 21:20:58 - DEBUG - Getting Toys 
+17.3.2023, 21:21:07 - DEBUG - Getting Toys 
+17.3.2023, 21:22:36 - DEBUG - Getting Toys 
+17.3.2023, 21:24:43 - DEBUG - Getting Toys 
+17.3.2023, 21:31:00 - DEBUG - Getting Toys 
+17.3.2023, 21:36:45 - DEBUG - Getting Toys 
+17.3.2023, 21:40:07 - DEBUG - auth.service - login with username: liorD 
+17.3.2023, 21:40:07 - ERROR - Failed to Login Invalid username or password 
+17.3.2023, 21:40:08 - DEBUG - Getting Toys 
+17.3.2023, 21:40:12 - DEBUG - auth.service - login with username: liorD 
+17.3.2023, 21:40:12 - ERROR - Failed to Login Invalid username or password 
+17.3.2023, 21:40:12 - DEBUG - Getting Toys 
+17.3.2023, 21:40:17 - DEBUG - auth.service - login with username: liorD 
+17.3.2023, 21:40:17 - INFO - User login:  | {"_id":"641492eedd4544806fdd2150","username":"liorD","fullname":"Lior Doron","isAdmin":true} 
+17.3.2023, 21:47:48 - INFO - App listening on port 3039! 
