@@ -1206,3 +1206,1033 @@
 17.3.2023, 21:40:17 - DEBUG - auth.service - login with username: liorD 
 17.3.2023, 21:40:17 - INFO - User login:  | {"_id":"641492eedd4544806fdd2150","username":"liorD","fullname":"Lior Doron","isAdmin":true} 
 17.3.2023, 21:47:48 - INFO - App listening on port 3039! 
+19.3.2023, 14:59:26 - INFO - App listening on port 3039! 
+19.3.2023, 14:59:34 - DEBUG - Getting Toys 
+19.3.2023, 14:59:39 - DEBUG - Getting Toys 
+19.3.2023, 14:59:52 - DEBUG - auth.service - login with username: liorD 
+19.3.2023, 14:59:52 - ERROR - Failed to Login Invalid username or password 
+19.3.2023, 14:59:53 - DEBUG - Getting Toys 
+19.3.2023, 14:59:57 - DEBUG - Getting Toys 
+19.3.2023, 15:00:07 - DEBUG - auth.service - login with username: liorD 
+19.3.2023, 15:00:07 - ERROR - Failed to Login Invalid username or password 
+19.3.2023, 15:00:07 - DEBUG - Getting Toys 
+19.3.2023, 15:00:13 - DEBUG - auth.service - login with username: liorD 
+19.3.2023, 15:00:13 - ERROR - Failed to Login Invalid username or password 
+19.3.2023, 15:00:13 - DEBUG - Getting Toys 
+19.3.2023, 15:01:01 - DEBUG - auth.service - login with username: liorD 
+19.3.2023, 15:01:01 - ERROR - Failed to Login Invalid username or password 
+19.3.2023, 15:01:02 - DEBUG - Getting Toys 
+19.3.2023, 15:01:10 - DEBUG - auth.service - login with username: liorD 
+19.3.2023, 15:01:11 - ERROR - Failed to Login Invalid username or password 
+19.3.2023, 15:01:11 - DEBUG - Getting Toys 
+19.3.2023, 15:05:28 - INFO - App listening on port 3039! 
+19.3.2023, 15:05:48 - INFO - App listening on port 3039! 
+19.3.2023, 15:06:51 - DEBUG - auth.service - login with username: edenD 
+19.3.2023, 15:06:51 - INFO - User login:  | {"_id":"64149307dd4544806fdd2151","username":"edenD","fullname":"Eden Derhi","isAdmin":false} 
+19.3.2023, 15:06:57 - DEBUG - auth.service - login with username: liorD 
+19.3.2023, 15:06:57 - INFO - User login:  | {"_id":"641492eedd4544806fdd2150","username":"liorD","fullname":"Lior Doron","isAdmin":true} 
+19.3.2023, 15:20:12 - DEBUG - Getting Toys 
+19.3.2023, 15:21:35 - DEBUG - Getting Toys 
+19.3.2023, 15:23:07 - DEBUG - Getting Toys 
+19.3.2023, 15:24:04 - DEBUG - Getting Toys 
+19.3.2023, 15:25:09 - DEBUG - Getting Toys 
+19.3.2023, 15:25:50 - DEBUG - Getting Toys 
+19.3.2023, 15:26:53 - DEBUG - Getting Toys 
+19.3.2023, 15:27:28 - DEBUG - Getting Toys 
+19.3.2023, 15:29:18 - DEBUG - Getting Toys 
+19.3.2023, 15:29:32 - DEBUG - Getting Toys 
+19.3.2023, 15:31:33 - DEBUG - Getting Toys 
+19.3.2023, 15:31:43 - DEBUG - auth.service - login with username: liorD 
+19.3.2023, 15:31:43 - INFO - User login:  | {"_id":"641492eedd4544806fdd2150","username":"liorD","fullname":"Lior Doron","isAdmin":true} 
+19.3.2023, 15:33:26 - DEBUG - Getting Toys 
+19.3.2023, 15:33:59 - DEBUG - auth.service - login with username: liorD 
+19.3.2023, 15:33:59 - INFO - User login:  | {"_id":"641492eedd4544806fdd2150","username":"liorD","fullname":"Lior Doron","isAdmin":true} 
+19.3.2023, 15:36:27 - DEBUG - Getting Toys 
+19.3.2023, 15:36:31 - DEBUG - auth.service - login with username: liorD 
+19.3.2023, 15:36:32 - INFO - User login:  | {"_id":"641492eedd4544806fdd2150","username":"liorD","fullname":"Lior Doron","isAdmin":true} 
+19.3.2023, 15:37:23 - DEBUG - Getting Toys 
+19.3.2023, 15:37:26 - DEBUG - auth.service - login with username: liorD 
+19.3.2023, 15:37:26 - INFO - User login:  | {"_id":"641492eedd4544806fdd2150","username":"liorD","fullname":"Lior Doron","isAdmin":true} 
+19.3.2023, 15:38:40 - DEBUG - Getting Toys 
+19.3.2023, 15:38:45 - DEBUG - Getting Toys 
+19.3.2023, 15:38:48 - DEBUG - auth.service - login with username: liorD 
+19.3.2023, 15:38:49 - INFO - User login:  | {"_id":"641492eedd4544806fdd2150","username":"liorD","fullname":"Lior Doron","isAdmin":true} 
+19.3.2023, 15:41:43 - DEBUG - Getting Toys 
+19.3.2023, 15:43:28 - DEBUG - Getting Toys 
+19.3.2023, 15:43:33 - DEBUG - auth.service - login with username: liorD 
+19.3.2023, 15:43:34 - INFO - User login:  | {"_id":"641492eedd4544806fdd2150","username":"liorD","fullname":"Lior Doron","isAdmin":true} 
+19.3.2023, 15:47:55 - DEBUG - Getting Toys 
+19.3.2023, 15:48:14 - DEBUG - Getting Toys 
+19.3.2023, 15:49:45 - DEBUG - Getting Toys 
+19.3.2023, 15:52:26 - DEBUG - Getting Toys 
+19.3.2023, 15:53:13 - DEBUG - Getting Toys 
+19.3.2023, 16:05:32 - DEBUG - Getting Toys 
+19.3.2023, 16:05:55 - DEBUG - Getting Toys 
+19.3.2023, 16:06:33 - DEBUG - Getting Toys 
+19.3.2023, 16:08:05 - DEBUG - Getting Toys 
+19.3.2023, 16:08:53 - DEBUG - Getting Toys 
+19.3.2023, 16:09:08 - DEBUG - Getting Toys 
+19.3.2023, 16:17:56 - DEBUG - Getting Toys 
+19.3.2023, 16:18:03 - DEBUG - auth.service - login with username: liorD 
+19.3.2023, 16:18:03 - INFO - User login:  | {"_id":"641492eedd4544806fdd2150","username":"liorD","fullname":"Lior Doron","isAdmin":true} 
+19.3.2023, 16:19:50 - DEBUG - Getting Toys 
+19.3.2023, 16:26:56 - DEBUG - auth.service - login with username: liorD 
+19.3.2023, 16:26:57 - INFO - User login:  | {"_id":"641492eedd4544806fdd2150","username":"liorD","fullname":"Lior Doron","isAdmin":true} 
+19.3.2023, 16:28:18 - DEBUG - Getting Toys 
+19.3.2023, 16:29:36 - DEBUG - Getting Toys 
+19.3.2023, 16:29:45 - DEBUG - auth.service - login with username: liorD 
+19.3.2023, 16:29:46 - INFO - User login:  | {"_id":"641492eedd4544806fdd2150","username":"liorD","fullname":"Lior Doron","isAdmin":true} 
+19.3.2023, 16:29:56 - DEBUG - Getting Toys 
+19.3.2023, 16:31:24 - DEBUG - auth.service - login with username: liorD 
+19.3.2023, 16:31:24 - INFO - User login:  | {"_id":"641492eedd4544806fdd2150","username":"liorD","fullname":"Lior Doron","isAdmin":true} 
+19.3.2023, 16:31:44 - DEBUG - Getting Toys 
+19.3.2023, 16:33:53 - DEBUG - Getting Toys 
+19.3.2023, 16:33:57 - DEBUG - Getting Toys 
+19.3.2023, 16:34:04 - DEBUG - auth.service - login with username: liorD 
+19.3.2023, 16:34:04 - DEBUG - auth.service - login with username: liorD 
+19.3.2023, 16:34:05 - INFO - User login:  | {"_id":"641492eedd4544806fdd2150","username":"liorD","fullname":"Lior Doron","isAdmin":true} 
+19.3.2023, 16:34:06 - INFO - User login:  | {"_id":"641492eedd4544806fdd2150","username":"liorD","fullname":"Lior Doron","isAdmin":true} 
+19.3.2023, 16:37:43 - INFO - App listening on port 3039! 
+19.3.2023, 16:38:03 - INFO - App listening on port 3039! 
+19.3.2023, 16:38:04 - DEBUG - Getting Toys 
+19.3.2023, 16:38:40 - INFO - App listening on port 3039! 
+19.3.2023, 16:39:27 - INFO - App listening on port 3039! 
+19.3.2023, 16:45:28 - INFO - App listening on port 3039! 
+19.3.2023, 16:45:53 - DEBUG - auth.service - login with username: liorD 
+19.3.2023, 16:45:54 - INFO - User login:  | {"_id":"641492eedd4544806fdd2150","username":"liorD","fullname":"Lior Doron","isAdmin":true} 
+19.3.2023, 17:08:16 - INFO - App listening on port 3030! 
+19.3.2023, 17:08:19 - INFO - App listening on port 3030! 
+19.3.2023, 17:08:24 - DEBUG - Getting Toys 
+19.3.2023, 17:08:35 - INFO - Req was made 
+19.3.2023, 17:16:42 - INFO - App listening on port 3030! 
+19.3.2023, 17:16:43 - DEBUG - Getting Toys 
+19.3.2023, 17:17:17 - DEBUG - auth.service - login with username: liorD 
+19.3.2023, 17:17:17 - INFO - User login:  | {"_id":"641492eedd4544806fdd2150","username":"liorD","fullname":"Lior Doron","isAdmin":true} 
+19.3.2023, 17:23:05 - DEBUG - auth.service - login with username: liorD 
+19.3.2023, 17:23:06 - INFO - User login:  | {"_id":"641492eedd4544806fdd2150","username":"liorD","fullname":"Lior Doron","isAdmin":true} 
+19.3.2023, 17:24:50 - INFO - Req was made 
+19.3.2023, 17:40:23 - INFO - App listening on port 3030! 
+19.3.2023, 17:40:56 - INFO - App listening on port 3030! 
+19.3.2023, 17:41:13 - INFO - App listening on port 3030! 
+19.3.2023, 17:41:15 - INFO - Req was made 
+19.3.2023, 17:41:16 - ERROR - cannot insert review | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+19.3.2023, 17:41:16 - ERROR - Failed to add review | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+19.3.2023, 17:45:49 - INFO - App listening on port 3030! 
+19.3.2023, 17:46:08 - INFO - Req was made 
+19.3.2023, 17:46:08 - ERROR - cannot insert review | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+19.3.2023, 17:46:08 - ERROR - Failed to add review | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+19.3.2023, 17:46:56 - INFO - Req was made 
+19.3.2023, 17:46:57 - ERROR - cannot insert review | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+19.3.2023, 17:46:57 - ERROR - Failed to add review | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+19.3.2023, 17:47:18 - INFO - Req was made 
+19.3.2023, 17:47:18 - ERROR - cannot insert review | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+19.3.2023, 17:47:18 - ERROR - Failed to add review | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+19.3.2023, 17:47:55 - INFO - App listening on port 3030! 
+19.3.2023, 17:48:38 - INFO - App listening on port 3030! 
+19.3.2023, 17:49:17 - INFO - App listening on port 3030! 
+19.3.2023, 17:50:16 - INFO - Req was made 
+19.3.2023, 17:52:05 - INFO - Req was made 
+19.3.2023, 17:53:21 - INFO - Req was made 
+19.3.2023, 17:54:09 - INFO - App listening on port 3030! 
+19.3.2023, 17:55:05 - INFO - Req was made 
+19.3.2023, 17:56:25 - INFO - App listening on port 3030! 
+19.3.2023, 17:57:17 - INFO - App listening on port 3030! 
+19.3.2023, 18:04:21 - DEBUG - Getting Toys 
+19.3.2023, 18:07:40 - DEBUG - Getting Toys 
+19.3.2023, 18:08:26 - DEBUG - Getting Toys 
+19.3.2023, 18:17:55 - DEBUG - Getting Toys 
+19.3.2023, 18:24:15 - DEBUG - Getting Toys 
+19.3.2023, 18:25:01 - DEBUG - Getting Toys 
+19.3.2023, 18:25:32 - DEBUG - Getting Toys 
+19.3.2023, 18:26:39 - DEBUG - Getting Toys 
+19.3.2023, 18:26:44 - DEBUG - auth.service - login with username: liorD 
+19.3.2023, 18:26:44 - INFO - User login:  | {"_id":"641492eedd4544806fdd2150","username":"liorD","fullname":"Lior Doron","isAdmin":true} 
+19.3.2023, 18:26:52 - DEBUG - Getting Toys 
+19.3.2023, 18:27:39 - DEBUG - Getting Toys 
+19.3.2023, 18:28:45 - DEBUG - Getting Toys 
+19.3.2023, 18:29:00 - DEBUG - Getting Toys 
+19.3.2023, 18:29:28 - DEBUG - Getting Toys 
+19.3.2023, 18:31:21 - DEBUG - Getting Toys 
+19.3.2023, 18:34:06 - INFO - Req was made 
+19.3.2023, 18:34:06 - INFO - Req was made 
+19.3.2023, 18:34:24 - INFO - Req was made 
+19.3.2023, 18:34:24 - INFO - Req was made 
+19.3.2023, 18:34:51 - INFO - Req was made 
+19.3.2023, 18:35:05 - DEBUG - Getting Toys 
+19.3.2023, 18:35:05 - INFO - Req was made 
+19.3.2023, 18:35:05 - INFO - Req was made 
+19.3.2023, 18:35:35 - DEBUG - Getting Toys 
+19.3.2023, 18:35:35 - INFO - Req was made 
+19.3.2023, 18:35:35 - INFO - Req was made 
+19.3.2023, 18:35:58 - DEBUG - Getting Toys 
+19.3.2023, 18:35:58 - INFO - Req was made 
+19.3.2023, 18:35:59 - INFO - Req was made 
+19.3.2023, 18:36:30 - DEBUG - Getting Toys 
+19.3.2023, 18:36:30 - INFO - Req was made 
+19.3.2023, 18:36:30 - INFO - Req was made 
+19.3.2023, 18:36:52 - DEBUG - Getting Toys 
+19.3.2023, 18:36:52 - INFO - Req was made 
+19.3.2023, 18:36:52 - INFO - Req was made 
+19.3.2023, 18:37:35 - INFO - Req was made 
+19.3.2023, 18:37:35 - INFO - Req was made 
+19.3.2023, 18:37:57 - INFO - Req was made 
+19.3.2023, 18:37:57 - INFO - Req was made 
+19.3.2023, 18:39:44 - DEBUG - Getting Toys 
+19.3.2023, 18:39:44 - INFO - Req was made 
+19.3.2023, 18:42:27 - DEBUG - Getting Toys 
+19.3.2023, 18:42:27 - INFO - Req was made 
+19.3.2023, 18:42:29 - INFO - Req was made 
+19.3.2023, 18:49:17 - DEBUG - Getting Toys 
+19.3.2023, 18:49:17 - INFO - Req was made 
+19.3.2023, 18:49:35 - DEBUG - Getting Toys 
+19.3.2023, 18:49:35 - INFO - Req was made 
+19.3.2023, 18:51:25 - DEBUG - Getting Toys 
+19.3.2023, 18:51:25 - INFO - Req was made 
+19.3.2023, 18:52:03 - DEBUG - Getting Toys 
+19.3.2023, 18:52:03 - INFO - Req was made 
+19.3.2023, 18:52:23 - DEBUG - Getting Toys 
+19.3.2023, 18:52:23 - INFO - Req was made 
+19.3.2023, 18:53:56 - DEBUG - Getting Toys 
+19.3.2023, 18:53:57 - INFO - Req was made 
+19.3.2023, 18:58:09 - INFO - Req was made 
+19.3.2023, 18:58:59 - INFO - Req was made 
+19.3.2023, 18:59:49 - INFO - Req was made 
+19.3.2023, 19:00:13 - DEBUG - Getting Toys 
+19.3.2023, 19:00:14 - INFO - Req was made 
+19.3.2023, 19:10:05 - DEBUG - Getting Toys 
+19.3.2023, 19:10:05 - INFO - Req was made 
+19.3.2023, 19:10:43 - DEBUG - Getting Toys 
+19.3.2023, 19:10:44 - INFO - Req was made 
+19.3.2023, 19:11:13 - DEBUG - Getting Toys 
+19.3.2023, 19:11:13 - INFO - Req was made 
+19.3.2023, 19:11:48 - DEBUG - Getting Toys 
+19.3.2023, 19:11:48 - INFO - Req was made 
+19.3.2023, 19:13:15 - DEBUG - Getting Toys 
+19.3.2023, 19:13:15 - INFO - Req was made 
+19.3.2023, 19:13:21 - ERROR - while finding toy undefined | BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+19.3.2023, 19:13:21 - ERROR - Failed to get toy | BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+19.3.2023, 19:14:13 - DEBUG - Getting Toys 
+19.3.2023, 19:14:13 - INFO - Req was made 
+19.3.2023, 19:14:17 - ERROR - while finding toy undefined | BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+19.3.2023, 19:14:17 - ERROR - Failed to get toy | BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+19.3.2023, 19:15:20 - DEBUG - Getting Toys 
+19.3.2023, 19:15:21 - INFO - Req was made 
+19.3.2023, 19:15:23 - ERROR - while finding toy undefined | BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+19.3.2023, 19:15:23 - ERROR - Failed to get toy | BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+19.3.2023, 19:16:38 - DEBUG - Getting Toys 
+19.3.2023, 19:16:38 - INFO - Req was made 
+19.3.2023, 19:16:41 - INFO - Req was made 
+19.3.2023, 19:20:45 - DEBUG - Getting Toys 
+19.3.2023, 19:20:45 - INFO - Req was made 
+19.3.2023, 19:23:12 - INFO - Req was made 
+19.3.2023, 19:23:51 - DEBUG - Getting Toys 
+19.3.2023, 19:23:51 - INFO - Req was made 
+19.3.2023, 19:26:44 - DEBUG - Getting Toys 
+19.3.2023, 19:26:44 - INFO - Req was made 
+19.3.2023, 19:26:57 - DEBUG - Getting Toys 
+19.3.2023, 19:26:57 - INFO - Req was made 
+19.3.2023, 19:27:41 - DEBUG - Getting Toys 
+19.3.2023, 19:27:41 - INFO - Req was made 
+19.3.2023, 19:29:08 - INFO - Req was made 
+19.3.2023, 19:31:46 - DEBUG - Getting Toys 
+19.3.2023, 19:31:46 - INFO - Req was made 
+19.3.2023, 19:32:29 - DEBUG - Getting Toys 
+19.3.2023, 19:32:30 - INFO - Req was made 
+19.3.2023, 19:33:22 - DEBUG - Getting Toys 
+19.3.2023, 19:33:22 - INFO - Req was made 
+19.3.2023, 19:33:36 - DEBUG - Getting Toys 
+19.3.2023, 19:33:36 - INFO - Req was made 
+19.3.2023, 19:36:02 - DEBUG - Getting Toys 
+19.3.2023, 19:36:02 - INFO - Req was made 
+19.3.2023, 19:38:28 - INFO - Req was made 
+19.3.2023, 19:39:43 - INFO - Req was made 
+19.3.2023, 19:39:51 - DEBUG - Getting Toys 
+19.3.2023, 19:39:51 - INFO - Req was made 
+19.3.2023, 19:40:11 - DEBUG - Getting Toys 
+19.3.2023, 19:40:11 - INFO - Req was made 
+19.3.2023, 19:40:56 - INFO - Req was made 
+19.3.2023, 19:41:11 - DEBUG - Getting Toys 
+19.3.2023, 19:41:11 - INFO - Req was made 
+19.3.2023, 19:41:13 - INFO - Req was made 
+19.3.2023, 19:41:14 - INFO - Req was made 
+19.3.2023, 19:41:42 - INFO - Req was made 
+19.3.2023, 19:41:45 - INFO - Req was made 
+19.3.2023, 19:41:45 - INFO - Req was made 
+19.3.2023, 19:41:51 - INFO - Req was made 
+19.3.2023, 19:41:51 - INFO - Req was made 
+19.3.2023, 19:42:02 - INFO - Req was made 
+19.3.2023, 19:42:02 - INFO - Req was made 
+19.3.2023, 19:42:29 - DEBUG - Getting Toys 
+19.3.2023, 19:42:29 - INFO - Req was made 
+19.3.2023, 19:42:34 - DEBUG - Getting Toys 
+19.3.2023, 19:42:34 - INFO - Req was made 
+19.3.2023, 19:43:13 - INFO - App listening on port 3030! 
+19.3.2023, 19:43:17 - INFO - Req was made 
+19.3.2023, 19:43:17 - INFO - Req was made 
+19.3.2023, 19:43:24 - INFO - Req was made 
+19.3.2023, 19:43:24 - INFO - Req was made 
+19.3.2023, 19:44:29 - DEBUG - Getting Toys 
+19.3.2023, 19:44:29 - INFO - Req was made 
+19.3.2023, 19:45:01 - DEBUG - Getting Toys 
+19.3.2023, 19:45:02 - INFO - Req was made 
+19.3.2023, 19:45:04 - INFO - Req was made 
+19.3.2023, 19:45:04 - INFO - Req was made 
+19.3.2023, 19:45:27 - DEBUG - Getting Toys 
+19.3.2023, 19:45:28 - INFO - Req was made 
+19.3.2023, 19:45:30 - INFO - Req was made 
+19.3.2023, 19:45:31 - INFO - Req was made 
+19.3.2023, 19:46:14 - DEBUG - Getting Toys 
+19.3.2023, 19:46:14 - INFO - Req was made 
+19.3.2023, 19:46:17 - INFO - Req was made 
+19.3.2023, 19:46:17 - INFO - Req was made 
+19.3.2023, 19:46:30 - INFO - Req was made 
+19.3.2023, 19:46:30 - INFO - Req was made 
+19.3.2023, 19:46:51 - DEBUG - Getting Toys 
+19.3.2023, 19:46:51 - INFO - Req was made 
+19.3.2023, 19:47:00 - DEBUG - Getting Toys 
+19.3.2023, 19:47:00 - INFO - Req was made 
+19.3.2023, 19:50:12 - INFO - Req was made 
+19.3.2023, 19:50:25 - DEBUG - Getting Toys 
+19.3.2023, 19:50:25 - INFO - Req was made 
+19.3.2023, 19:51:21 - INFO - Req was made 
+19.3.2023, 19:51:32 - DEBUG - Getting Toys 
+19.3.2023, 19:51:32 - INFO - Req was made 
+19.3.2023, 19:56:15 - INFO - Req was made 
+19.3.2023, 19:58:57 - INFO - Req was made 
+19.3.2023, 19:59:14 - DEBUG - auth.service - login with username: liorD 
+19.3.2023, 19:59:15 - INFO - User login:  | {"_id":"641492eedd4544806fdd2150","username":"liorD","fullname":"Lior Doron","isAdmin":true} 
+19.3.2023, 20:00:04 - DEBUG - Getting Toys 
+19.3.2023, 20:01:15 - DEBUG - Getting Toys 
+19.3.2023, 20:01:15 - INFO - Req was made 
+19.3.2023, 20:01:20 - DEBUG - auth.service - login with username: liorD 
+19.3.2023, 20:01:21 - INFO - User login:  | {"_id":"641492eedd4544806fdd2150","username":"liorD","fullname":"Lior Doron","isAdmin":true} 
+19.3.2023, 20:02:25 - DEBUG - Getting Toys 
+19.3.2023, 20:02:25 - INFO - Req was made 
+19.3.2023, 20:02:32 - DEBUG - Getting Toys 
+19.3.2023, 20:02:32 - INFO - Req was made 
+19.3.2023, 20:03:38 - INFO - Req was made 
+19.3.2023, 20:03:43 - DEBUG - Getting Toys 
+19.3.2023, 20:03:43 - INFO - Req was made 
+19.3.2023, 20:04:25 - INFO - Req was made 
+19.3.2023, 20:06:09 - DEBUG - Getting Toys 
+19.3.2023, 20:06:09 - INFO - Req was made 
+19.3.2023, 20:06:22 - DEBUG - Getting Toys 
+19.3.2023, 20:06:38 - DEBUG - Getting Toys 
+19.3.2023, 20:06:38 - INFO - Req was made 
+19.3.2023, 20:07:13 - INFO - App listening on port 3030! 
+19.3.2023, 20:07:14 - DEBUG - Getting Toys 
+19.3.2023, 20:07:15 - INFO - Req was made 
+19.3.2023, 20:07:36 - INFO - App listening on port 3030! 
+19.3.2023, 20:07:38 - DEBUG - Getting Toys 
+19.3.2023, 20:07:39 - INFO - Req was made 
+19.3.2023, 20:07:59 - INFO - App listening on port 3030! 
+19.3.2023, 20:08:04 - DEBUG - Getting Toys 
+19.3.2023, 20:08:04 - INFO - Req was made 
+19.3.2023, 20:10:16 - INFO - App listening on port 3030! 
+19.3.2023, 20:10:21 - DEBUG - Getting Toys 
+19.3.2023, 20:10:21 - INFO - Req was made 
+19.3.2023, 20:10:54 - INFO - App listening on port 3030! 
+19.3.2023, 20:12:04 - INFO - App listening on port 3030! 
+19.3.2023, 20:12:10 - DEBUG - Getting Toys 
+19.3.2023, 20:12:10 - INFO - Req was made 
+19.3.2023, 20:12:44 - INFO - Req was made 
+19.3.2023, 20:13:33 - DEBUG - Getting Toys 
+19.3.2023, 20:13:33 - INFO - Req was made 
+19.3.2023, 20:20:22 - DEBUG - Getting Toys 
+19.3.2023, 20:20:22 - INFO - Req was made 
+19.3.2023, 20:26:33 - DEBUG - Getting Toys 
+19.3.2023, 20:26:39 - DEBUG - auth.service - login with username: liorD 
+19.3.2023, 20:26:39 - INFO - User login:  | {"_id":"641492eedd4544806fdd2150","username":"liorD","fullname":"Lior Doron","isAdmin":true} 
+19.3.2023, 20:26:42 - INFO - Req was made 
+19.3.2023, 20:29:11 - INFO - App listening on port 3030! 
+19.3.2023, 20:30:23 - INFO - App listening on port 3030! 
+19.3.2023, 20:30:27 - DEBUG - Getting Toys 
+19.3.2023, 20:30:28 - INFO - Req was made 
+19.3.2023, 20:30:56 - DEBUG - Getting Toys 
+19.3.2023, 20:31:01 - INFO - App listening on port 3030! 
+19.3.2023, 20:31:08 - DEBUG - Getting Toys 
+19.3.2023, 20:31:09 - INFO - Req was made 
+19.3.2023, 20:31:27 - INFO - App listening on port 3030! 
+19.3.2023, 20:31:33 - DEBUG - Getting Toys 
+19.3.2023, 20:31:33 - INFO - Req was made 
+19.3.2023, 20:31:47 - INFO - Req was made 
+19.3.2023, 20:31:57 - INFO - Req was made 
+19.3.2023, 20:32:33 - INFO - App listening on port 3030! 
+19.3.2023, 20:32:33 - DEBUG - Getting Toys 
+19.3.2023, 20:32:33 - INFO - Req was made 
+19.3.2023, 20:32:54 - DEBUG - auth.service - signup with username: liorD, fullname:  
+19.3.2023, 20:32:54 - ERROR - Failed to signup fullname, username and password are required! 
+19.3.2023, 20:32:55 - DEBUG - auth.service - login with username: liorD 
+19.3.2023, 20:32:55 - INFO - User login:  | {"_id":"641492eedd4544806fdd2150","username":"liorD","fullname":"Lior Doron","isAdmin":true} 
+19.3.2023, 20:33:02 - INFO - Req was made 
+19.3.2023, 20:33:23 - INFO - Req was made 
+19.3.2023, 20:34:32 - INFO - App listening on port 3030! 
+19.3.2023, 20:35:17 - DEBUG - Getting Toys 
+19.3.2023, 20:35:21 - INFO - Req was made 
+19.3.2023, 20:35:28 - DEBUG - Getting Toys 
+19.3.2023, 20:35:30 - INFO - Req was made 
+19.3.2023, 20:35:42 - DEBUG - auth.service - login with username: liorD 
+19.3.2023, 20:35:42 - INFO - User login:  | {"_id":"641492eedd4544806fdd2150","username":"liorD","fullname":"Lior Doron","isAdmin":true} 
+19.3.2023, 20:35:45 - INFO - Req was made 
+19.3.2023, 20:40:44 - DEBUG - Getting Toys 
+19.3.2023, 20:40:45 - INFO - Req was made 
+19.3.2023, 20:41:29 - DEBUG - Getting Toys 
+19.3.2023, 20:41:29 - INFO - Req was made 
+19.3.2023, 20:41:54 - DEBUG - Getting Toys 
+19.3.2023, 20:41:54 - INFO - Req was made 
+19.3.2023, 20:42:12 - DEBUG - Getting Toys 
+19.3.2023, 20:42:12 - INFO - Req was made 
+19.3.2023, 20:42:40 - INFO - Req was made 
+19.3.2023, 20:46:52 - DEBUG - Getting Toys 
+19.3.2023, 20:48:29 - DEBUG - Getting Toys 
+19.3.2023, 20:50:24 - DEBUG - Getting Toys 
+19.3.2023, 20:50:34 - DEBUG - Getting Toys 
+19.3.2023, 20:51:07 - DEBUG - Getting Toys 
+19.3.2023, 20:51:07 - INFO - Req was made 
+19.3.2023, 20:51:20 - INFO - Req was made 
+19.3.2023, 20:52:44 - DEBUG - Getting Toys 
+19.3.2023, 20:52:44 - INFO - Req was made 
+19.3.2023, 20:55:10 - DEBUG - Getting Toys 
+19.3.2023, 20:55:10 - INFO - Req was made 
+19.3.2023, 20:56:24 - INFO - Req was made 
+19.3.2023, 20:58:14 - INFO - Req was made 
+19.3.2023, 20:58:15 - INFO - Req was made 
+19.3.2023, 20:58:29 - INFO - Req was made 
+19.3.2023, 20:58:32 - INFO - Req was made 
+19.3.2023, 20:58:33 - INFO - Req was made 
+19.3.2023, 20:58:42 - INFO - Req was made 
+19.3.2023, 20:59:17 - INFO - Req was made 
+19.3.2023, 20:59:44 - INFO - App listening on port 3030! 
+19.3.2023, 20:59:55 - INFO - App listening on port 3030! 
+19.3.2023, 20:59:57 - INFO - Req was made 
+19.3.2023, 20:59:57 - INFO - Req was made 
+19.3.2023, 20:59:57 - INFO - Req was made 
+19.3.2023, 20:59:58 - INFO - Req was made 
+19.3.2023, 20:59:58 - INFO - Req was made 
+19.3.2023, 20:59:59 - INFO - Req was made 
+19.3.2023, 21:00:00 - INFO - Req was made 
+19.3.2023, 21:01:16 - INFO - App listening on port 3030! 
+19.3.2023, 21:01:17 - INFO - Req was made 
+19.3.2023, 21:01:19 - INFO - Req was made 
+19.3.2023, 21:01:20 - INFO - Req was made 
+19.3.2023, 21:01:21 - INFO - Req was made 
+19.3.2023, 21:01:21 - INFO - Req was made 
+19.3.2023, 21:01:21 - INFO - Req was made 
+19.3.2023, 21:01:22 - INFO - Req was made 
+19.3.2023, 21:01:22 - INFO - Req was made 
+19.3.2023, 21:01:22 - INFO - Req was made 
+19.3.2023, 21:01:23 - INFO - Req was made 
+19.3.2023, 21:01:23 - INFO - Req was made 
+19.3.2023, 21:01:23 - INFO - Req was made 
+19.3.2023, 21:02:11 - DEBUG - Getting Toys 
+19.3.2023, 21:02:14 - INFO - Req was made 
+19.3.2023, 21:02:16 - DEBUG - Getting Toys 
+19.3.2023, 21:02:16 - INFO - Req was made 
+19.3.2023, 21:02:20 - DEBUG - auth.service - login with username: liorD 
+19.3.2023, 21:02:21 - INFO - User login:  | {"_id":"641492eedd4544806fdd2150","username":"liorD","fullname":"Lior Doron","isAdmin":true} 
+19.3.2023, 21:02:24 - DEBUG - Getting Toys 
+19.3.2023, 21:02:24 - INFO - Req was made 
+19.3.2023, 21:02:27 - DEBUG - auth.service - login with username: liorD 
+19.3.2023, 21:02:27 - INFO - User login:  | {"_id":"641492eedd4544806fdd2150","username":"liorD","fullname":"Lior Doron","isAdmin":true} 
+19.3.2023, 21:02:38 - INFO - Req was made 
+19.3.2023, 21:03:03 - INFO - Req was made 
+19.3.2023, 21:03:20 - DEBUG - Getting Toys 
+19.3.2023, 21:03:21 - INFO - Req was made 
+19.3.2023, 21:03:29 - DEBUG - Getting Toys 
+19.3.2023, 21:03:29 - INFO - Req was made 
+19.3.2023, 21:04:14 - DEBUG - Getting Toys 
+19.3.2023, 21:04:15 - INFO - Req was made 
+19.3.2023, 21:04:27 - INFO - Req was made 
+19.3.2023, 21:04:27 - INFO - Req was made 
+19.3.2023, 21:05:01 - INFO - Req was made 
+19.3.2023, 21:05:12 - INFO - Req was made 
+19.3.2023, 21:05:12 - INFO - Req was made 
+19.3.2023, 21:06:48 - DEBUG - auth.service - login with username: liorD 
+19.3.2023, 21:06:48 - INFO - User login:  | {"_id":"641492eedd4544806fdd2150","username":"liorD","fullname":"Lior Doron","isAdmin":true} 
+19.3.2023, 21:09:04 - DEBUG - Getting Toys 
+19.3.2023, 21:10:32 - DEBUG - Getting Toys 
+19.3.2023, 21:14:41 - DEBUG - Getting Toys 
+19.3.2023, 21:14:55 - DEBUG - Getting Toys 
+19.3.2023, 21:16:19 - INFO - Req was made 
+19.3.2023, 21:17:47 - INFO - Req was made 
+19.3.2023, 21:18:00 - INFO - Req was made 
+19.3.2023, 21:22:07 - DEBUG - Getting Toys 
+19.3.2023, 21:22:07 - INFO - Req was made 
+19.3.2023, 21:29:31 - DEBUG - auth.service - login with username: liorD 
+19.3.2023, 21:29:31 - INFO - User login:  | {"_id":"641492eedd4544806fdd2150","username":"liorD","fullname":"Lior Doron","isAdmin":true} 
+19.3.2023, 21:30:11 - DEBUG - Getting Toys 
+19.3.2023, 21:31:33 - DEBUG - Getting Toys 
+19.3.2023, 21:33:44 - DEBUG - Getting Toys 
+19.3.2023, 21:34:13 - DEBUG - Getting Toys 
+19.3.2023, 21:36:13 - DEBUG - Getting Toys 
+19.3.2023, 21:40:29 - DEBUG - auth.service - login with username: liorD 
+19.3.2023, 21:40:29 - INFO - User login:  | {"_id":"641492eedd4544806fdd2150","username":"liorD","fullname":"Lior Doron","isAdmin":true} 
+20.3.2023, 8:57:46 - INFO - App listening on port 3030! 
+20.3.2023, 8:57:50 - DEBUG - Getting Toys 
+20.3.2023, 8:57:59 - DEBUG - auth.service - login with username: liorD 
+20.3.2023, 8:58:00 - INFO - User login:  | {"_id":"641492eedd4544806fdd2150","username":"liorD","fullname":"Lior Doron","isAdmin":true} 
+20.3.2023, 8:58:02 - DEBUG - Getting Toys 
+20.3.2023, 8:58:09 - DEBUG - auth.service - login with username: liorD 
+20.3.2023, 8:58:09 - INFO - User login:  | {"_id":"641492eedd4544806fdd2150","username":"liorD","fullname":"Lior Doron","isAdmin":true} 
+20.3.2023, 8:58:59 - DEBUG - Getting Toys 
+20.3.2023, 9:00:19 - DEBUG - auth.service - login with username: liorD 
+20.3.2023, 9:00:20 - INFO - User login:  | {"_id":"641492eedd4544806fdd2150","username":"liorD","fullname":"Lior Doron","isAdmin":true} 
+20.3.2023, 9:00:25 - INFO - Req was made 
+20.3.2023, 9:00:39 - INFO - Req was made 
+20.3.2023, 9:00:40 - INFO - Req was made 
+20.3.2023, 9:00:52 - INFO - Req was made 
+20.3.2023, 10:26:46 - INFO - App listening on port 3030! 
+20.3.2023, 10:26:51 - DEBUG - Getting Toys 
+20.3.2023, 10:26:51 - INFO - Req was made 
+20.3.2023, 10:27:04 - INFO - App listening on port 3030! 
+20.3.2023, 10:27:20 - INFO - App listening on port 3030! 
+20.3.2023, 11:22:51 - INFO - App listening on port 3030! 
+20.3.2023, 11:25:09 - INFO - App listening on port 3030! 
+20.3.2023, 13:51:50 - DEBUG - Getting Toys 
+20.3.2023, 13:51:50 - INFO - Req was made 
+20.3.2023, 14:01:46 - DEBUG - Getting Toys 
+20.3.2023, 14:01:56 - DEBUG - auth.service - login with username: liorD 
+20.3.2023, 14:01:56 - INFO - User login:  | {"_id":"641492eedd4544806fdd2150","username":"liorD","fullname":"Lior Doron","isAdmin":true} 
+20.3.2023, 14:05:58 - INFO - App listening on port 3030! 
+20.3.2023, 14:11:01 - DEBUG - Getting Toys 
+20.3.2023, 14:11:53 - DEBUG - Getting Toys 
+20.3.2023, 14:13:25 - DEBUG - Getting Toys 
+20.3.2023, 14:14:04 - INFO - Req was made 
+20.3.2023, 14:14:17 - DEBUG - auth.service - login with username: liorD 
+20.3.2023, 14:14:17 - INFO - User login:  | {"_id":"641492eedd4544806fdd2150","username":"liorD","fullname":"Lior Doron","isAdmin":true} 
+20.3.2023, 14:14:48 - DEBUG - Getting Toys 
+20.3.2023, 14:14:48 - INFO - Req was made 
+20.3.2023, 14:18:20 - DEBUG - Getting Toys 
+20.3.2023, 14:18:20 - INFO - Req was made 
+20.3.2023, 14:18:58 - DEBUG - Getting Toys 
+20.3.2023, 14:18:58 - INFO - Req was made 
+20.3.2023, 14:23:13 - DEBUG - Getting Toys 
+20.3.2023, 14:23:13 - INFO - Req was made 
+20.3.2023, 14:24:58 - DEBUG - Getting Toys 
+20.3.2023, 14:24:58 - INFO - Req was made 
+20.3.2023, 14:25:37 - DEBUG - Getting Toys 
+20.3.2023, 14:25:37 - INFO - Req was made 
+20.3.2023, 14:26:14 - DEBUG - Getting Toys 
+20.3.2023, 14:26:14 - INFO - Req was made 
+20.3.2023, 14:26:19 - DEBUG - Getting Toys 
+20.3.2023, 14:26:19 - INFO - Req was made 
+20.3.2023, 14:26:24 - DEBUG - auth.service - login with username: liorD 
+20.3.2023, 14:26:25 - INFO - User login:  | {"_id":"641492eedd4544806fdd2150","username":"liorD","fullname":"Lior Doron","isAdmin":true} 
+20.3.2023, 14:26:28 - DEBUG - Getting Toys 
+20.3.2023, 14:26:28 - INFO - Req was made 
+20.3.2023, 14:26:58 - DEBUG - Getting Toys 
+20.3.2023, 14:26:58 - INFO - Req was made 
+20.3.2023, 14:27:33 - DEBUG - Getting Toys 
+20.3.2023, 14:27:33 - INFO - Req was made 
+20.3.2023, 14:27:37 - DEBUG - auth.service - login with username: liorD 
+20.3.2023, 14:27:38 - INFO - User login:  | {"_id":"641492eedd4544806fdd2150","username":"liorD","fullname":"Lior Doron","isAdmin":true} 
+20.3.2023, 14:28:12 - DEBUG - Getting Toys 
+20.3.2023, 14:28:12 - INFO - Req was made 
+20.3.2023, 14:28:18 - DEBUG - auth.service - login with username: liorD 
+20.3.2023, 14:28:19 - INFO - User login:  | {"_id":"641492eedd4544806fdd2150","username":"liorD","fullname":"Lior Doron","isAdmin":true} 
+20.3.2023, 14:28:21 - DEBUG - Getting Toys 
+20.3.2023, 14:28:22 - INFO - Req was made 
+20.3.2023, 14:28:41 - INFO - Req was made 
+20.3.2023, 14:40:40 - DEBUG - Getting Toys 
+20.3.2023, 14:40:40 - INFO - Req was made 
+20.3.2023, 14:42:35 - DEBUG - Getting Toys 
+20.3.2023, 14:42:35 - INFO - Req was made 
+20.3.2023, 14:43:06 - DEBUG - Getting Toys 
+20.3.2023, 14:43:06 - INFO - Req was made 
+20.3.2023, 14:44:25 - DEBUG - Getting Toys 
+20.3.2023, 14:44:25 - INFO - Req was made 
+20.3.2023, 14:44:30 - DEBUG - Getting Toys 
+20.3.2023, 14:44:30 - INFO - Req was made 
+20.3.2023, 14:45:07 - DEBUG - Getting Toys 
+20.3.2023, 14:45:08 - INFO - Req was made 
+20.3.2023, 14:45:55 - DEBUG - Getting Toys 
+20.3.2023, 14:45:55 - INFO - Req was made 
+20.3.2023, 14:48:32 - DEBUG - Getting Toys 
+20.3.2023, 14:48:40 - DEBUG - Getting Toys 
+20.3.2023, 14:48:44 - INFO - Req was made 
+20.3.2023, 14:48:47 - INFO - Req was made 
+20.3.2023, 14:49:00 - INFO - Req was made 
+20.3.2023, 14:49:37 - DEBUG - Getting Toys 
+20.3.2023, 14:49:37 - INFO - Req was made 
+20.3.2023, 14:49:42 - INFO - Req was made 
+20.3.2023, 14:50:01 - DEBUG - Getting Toys 
+20.3.2023, 14:50:05 - INFO - Req was made 
+20.3.2023, 14:50:26 - DEBUG - Getting Toys 
+20.3.2023, 14:50:28 - INFO - Req was made 
+20.3.2023, 14:50:35 - INFO - Req was made 
+20.3.2023, 14:50:48 - DEBUG - Getting Toys 
+20.3.2023, 14:52:26 - INFO - Req was made 
+20.3.2023, 14:53:37 - DEBUG - Getting Toys 
+20.3.2023, 14:53:51 - INFO - Req was made 
+20.3.2023, 14:54:04 - INFO - Req was made 
+20.3.2023, 14:54:05 - INFO - Req was made 
+20.3.2023, 14:56:42 - DEBUG - Getting Toys 
+20.3.2023, 14:56:42 - INFO - Req was made 
+20.3.2023, 14:57:27 - DEBUG - Getting Toys 
+20.3.2023, 14:57:27 - INFO - Req was made 
+20.3.2023, 15:02:16 - DEBUG - Getting Toys 
+20.3.2023, 15:02:16 - INFO - Req was made 
+20.3.2023, 15:07:15 - DEBUG - Getting Toys 
+20.3.2023, 15:07:15 - INFO - Req was made 
+20.3.2023, 15:10:25 - DEBUG - Getting Toys 
+20.3.2023, 15:10:25 - INFO - Req was made 
+20.3.2023, 15:13:18 - DEBUG - Getting Toys 
+20.3.2023, 15:13:19 - INFO - Req was made 
+20.3.2023, 15:14:20 - DEBUG - Getting Toys 
+20.3.2023, 15:14:20 - INFO - Req was made 
+20.3.2023, 15:17:51 - DEBUG - Getting Toys 
+20.3.2023, 15:17:51 - INFO - Req was made 
+20.3.2023, 15:18:12 - DEBUG - Getting Toys 
+20.3.2023, 15:18:12 - INFO - Req was made 
+20.3.2023, 15:22:09 - DEBUG - Getting Toys 
+20.3.2023, 15:22:09 - INFO - Req was made 
+20.3.2023, 15:22:13 - INFO - Req was made 
+20.3.2023, 15:22:32 - DEBUG - Getting Toys 
+20.3.2023, 15:22:38 - INFO - Req was made 
+20.3.2023, 15:22:40 - INFO - Req was made 
+20.3.2023, 15:24:23 - DEBUG - Getting Toys 
+20.3.2023, 15:24:23 - INFO - Req was made 
+20.3.2023, 15:24:59 - DEBUG - Getting Toys 
+20.3.2023, 15:24:59 - INFO - Req was made 
+20.3.2023, 15:25:13 - DEBUG - Getting Toys 
+20.3.2023, 15:25:13 - INFO - Req was made 
+20.3.2023, 15:25:39 - INFO - New connected socket [id: XzgbvHXhxWCszWx1AAAC] 
+20.3.2023, 15:25:39 - INFO - New connected socket [id: 0bQ6gZZBpj0X7xBAAAAD] 
+20.3.2023, 15:25:40 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: 0bQ6gZZBpj0X7xBAAAAD] 
+20.3.2023, 15:25:45 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 15:25:46 - DEBUG - Getting Toys 
+20.3.2023, 15:25:46 - INFO - Req was made 
+20.3.2023, 15:25:46 - INFO - New connected socket [id: 432pXuYwHeENPg1sAAAF] 
+20.3.2023, 15:25:47 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: 432pXuYwHeENPg1sAAAF] 
+20.3.2023, 15:25:51 - INFO - New chat msg from socket [id: 432pXuYwHeENPg1sAAAF], emitting to topic  
+20.3.2023, 15:26:04 - DEBUG - auth.service - login with username: liorD 
+20.3.2023, 15:26:05 - INFO - User login:  | {"_id":"641492eedd4544806fdd2150","username":"liorD","fullname":"Lior Doron","isAdmin":true} 
+20.3.2023, 15:26:12 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 15:26:13 - DEBUG - Getting Toys 
+20.3.2023, 15:26:13 - INFO - Req was made 
+20.3.2023, 15:26:13 - INFO - New connected socket [id: 5o4QKeZfgZvrfTQnAAAH] 
+20.3.2023, 15:26:13 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: 5o4QKeZfgZvrfTQnAAAH] 
+20.3.2023, 15:26:52 - INFO - New chat msg from socket [id: 432pXuYwHeENPg1sAAAF], emitting to topic  
+20.3.2023, 15:27:11 - INFO - New connected socket [id: VmcMBal9WtdxtzYcAAAK] 
+20.3.2023, 15:27:11 - INFO - New connected socket [id: Q-_eLTjZPcN0UQBvAAAL] 
+20.3.2023, 15:27:11 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: Q-_eLTjZPcN0UQBvAAAL] 
+20.3.2023, 15:27:12 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: VmcMBal9WtdxtzYcAAAK] 
+20.3.2023, 15:27:13 - INFO - New chat msg from socket [id: Q-_eLTjZPcN0UQBvAAAL], emitting to topic  
+20.3.2023, 15:28:50 - INFO - New connected socket [id: kpPWlsRV8Z90iq39AAAO] 
+20.3.2023, 15:28:50 - INFO - New connected socket [id: hIhEvwrTkPOBYqzhAAAP] 
+20.3.2023, 15:28:51 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: kpPWlsRV8Z90iq39AAAO] 
+20.3.2023, 15:28:51 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: hIhEvwrTkPOBYqzhAAAP] 
+20.3.2023, 15:29:34 - INFO - New chat msg from socket [id: kpPWlsRV8Z90iq39AAAO], emitting to topic  
+20.3.2023, 15:30:12 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 15:30:12 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 15:30:12 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 15:30:13 - DEBUG - Getting Toys 
+20.3.2023, 15:30:13 - INFO - Req was made 
+20.3.2023, 15:30:13 - INFO - New connected socket [id: na2dxASXVn3s02ZWAAAR] 
+20.3.2023, 15:30:13 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: na2dxASXVn3s02ZWAAAR] 
+20.3.2023, 15:30:27 - INFO - New chat msg from socket [id: na2dxASXVn3s02ZWAAAR], emitting to topic  
+20.3.2023, 15:30:54 - INFO - New chat msg from socket [id: kpPWlsRV8Z90iq39AAAO], emitting to topic  
+20.3.2023, 15:30:56 - INFO - Req was made 
+20.3.2023, 15:31:01 - INFO - Req was made 
+20.3.2023, 15:31:02 - INFO - Req was made 
+20.3.2023, 15:31:04 - INFO - New chat msg from socket [id: kpPWlsRV8Z90iq39AAAO], emitting to topic  
+20.3.2023, 15:31:10 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 15:31:14 - INFO - New connected socket [id: -pyAl-5SOZW5-A5vAAAT] 
+20.3.2023, 15:31:15 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: -pyAl-5SOZW5-A5vAAAT] 
+20.3.2023, 15:31:23 - INFO - Req was made 
+20.3.2023, 15:31:26 - INFO - Req was made 
+20.3.2023, 15:31:33 - INFO - New chat msg from socket [id: kpPWlsRV8Z90iq39AAAO], emitting to topic  
+20.3.2023, 15:47:56 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 15:47:57 - DEBUG - Getting Toys 
+20.3.2023, 15:47:57 - INFO - Req was made 
+20.3.2023, 15:47:57 - INFO - New connected socket [id: OKCIveEZx8YnJsa4AAAV] 
+20.3.2023, 15:47:58 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: OKCIveEZx8YnJsa4AAAV] 
+20.3.2023, 15:48:49 - INFO - New connected socket [id: nIUlStMZYTca_CIZAAAX] 
+20.3.2023, 15:48:49 - INFO - New connected socket [id: RH3BupYBH_j4Bq6jAAAZ] 
+20.3.2023, 15:48:50 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: RH3BupYBH_j4Bq6jAAAZ] 
+20.3.2023, 15:48:50 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: nIUlStMZYTca_CIZAAAX] 
+20.3.2023, 15:48:52 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 15:48:52 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 15:48:53 - DEBUG - Getting Toys 
+20.3.2023, 15:48:53 - INFO - Req was made 
+20.3.2023, 15:48:53 - INFO - New connected socket [id: DWVzfFT7CyWfwrO-AAAb] 
+20.3.2023, 15:48:54 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: DWVzfFT7CyWfwrO-AAAb] 
+20.3.2023, 15:49:09 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 15:49:10 - DEBUG - Getting Toys 
+20.3.2023, 15:49:11 - INFO - Req was made 
+20.3.2023, 15:49:11 - INFO - New connected socket [id: THLcekxgc-xf5uh9AAAd] 
+20.3.2023, 15:49:11 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: THLcekxgc-xf5uh9AAAd] 
+20.3.2023, 15:49:35 - INFO - Req was made 
+20.3.2023, 15:50:21 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 15:50:23 - DEBUG - Getting Toys 
+20.3.2023, 15:50:24 - INFO - New connected socket [id: OK2OPi48sGB_FL5vAAAf] 
+20.3.2023, 15:50:25 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: OK2OPi48sGB_FL5vAAAf] 
+20.3.2023, 15:50:27 - INFO - Req was made 
+20.3.2023, 15:50:29 - INFO - Req was made 
+20.3.2023, 15:50:46 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 15:50:48 - DEBUG - Getting Toys 
+20.3.2023, 15:50:48 - INFO - Req was made 
+20.3.2023, 15:50:48 - INFO - New connected socket [id: Gh0Y7xEnIj4tcS_cAAAh] 
+20.3.2023, 15:50:48 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: Gh0Y7xEnIj4tcS_cAAAh] 
+20.3.2023, 15:51:17 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 15:51:19 - DEBUG - Getting Toys 
+20.3.2023, 15:51:20 - INFO - Req was made 
+20.3.2023, 15:51:20 - INFO - New connected socket [id: fGo2rnnRdjWDhwAfAAAj] 
+20.3.2023, 15:51:20 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: fGo2rnnRdjWDhwAfAAAj] 
+20.3.2023, 15:51:55 - INFO - New connected socket [id: c5DGNhoLOGEAtmNxAAAl] 
+20.3.2023, 15:51:55 - INFO - New connected socket [id: okMcMCNIWVGVTVnXAAAn] 
+20.3.2023, 15:51:56 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: okMcMCNIWVGVTVnXAAAn] 
+20.3.2023, 15:51:56 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: c5DGNhoLOGEAtmNxAAAl] 
+20.3.2023, 15:51:57 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 15:51:57 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 15:51:59 - DEBUG - Getting Toys 
+20.3.2023, 15:51:59 - INFO - Req was made 
+20.3.2023, 15:51:59 - INFO - New connected socket [id: 0IrfiJYLpnm8DUXuAAAp] 
+20.3.2023, 15:52:00 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: 0IrfiJYLpnm8DUXuAAAp] 
+20.3.2023, 15:52:04 - INFO - New chat msg from socket [id: 0IrfiJYLpnm8DUXuAAAp], emitting to topic  
+20.3.2023, 15:52:21 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 15:52:21 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 15:52:21 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 15:52:21 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 15:52:21 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 15:52:23 - DEBUG - Getting Toys 
+20.3.2023, 15:52:23 - INFO - Req was made 
+20.3.2023, 15:52:23 - INFO - New connected socket [id: Sf7wIqRzxSJZ1kj9AAAr] 
+20.3.2023, 15:52:24 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: Sf7wIqRzxSJZ1kj9AAAr] 
+20.3.2023, 15:52:34 - INFO - Req was made 
+20.3.2023, 15:52:38 - INFO - Req was made 
+20.3.2023, 15:52:48 - INFO - New chat msg from socket [id: 0IrfiJYLpnm8DUXuAAAp], emitting to topic  
+20.3.2023, 15:53:24 - INFO - New chat msg from socket [id: 0IrfiJYLpnm8DUXuAAAp], emitting to topic  
+20.3.2023, 15:53:26 - INFO - New chat msg from socket [id: 0IrfiJYLpnm8DUXuAAAp], emitting to topic  
+20.3.2023, 15:53:28 - INFO - New chat msg from socket [id: 0IrfiJYLpnm8DUXuAAAp], emitting to topic  
+20.3.2023, 15:56:08 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 15:56:10 - DEBUG - Getting Toys 
+20.3.2023, 15:56:10 - INFO - Req was made 
+20.3.2023, 15:56:10 - INFO - New connected socket [id: S3WWMphFnY1fP4FWAAAt] 
+20.3.2023, 15:56:12 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: S3WWMphFnY1fP4FWAAAt] 
+20.3.2023, 16:01:38 - INFO - New connected socket [id: 7l1y5adHD1UZ2JGBAAAw] 
+20.3.2023, 16:01:38 - INFO - New connected socket [id: W3tsK4bw9LABmkpZAAAx] 
+20.3.2023, 16:01:38 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: W3tsK4bw9LABmkpZAAAx] 
+20.3.2023, 16:01:38 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: 7l1y5adHD1UZ2JGBAAAw] 
+20.3.2023, 16:02:19 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 16:02:19 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 16:02:20 - DEBUG - Getting Toys 
+20.3.2023, 16:02:20 - INFO - Req was made 
+20.3.2023, 16:02:20 - INFO - New connected socket [id: OoTTTBeoeEGwY_kzAAAz] 
+20.3.2023, 16:02:21 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: OoTTTBeoeEGwY_kzAAAz] 
+20.3.2023, 16:02:49 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 16:02:51 - DEBUG - Getting Toys 
+20.3.2023, 16:02:51 - INFO - Req was made 
+20.3.2023, 16:02:51 - INFO - New connected socket [id: ZaB6_bRPx6nb9FXwAAA1] 
+20.3.2023, 16:02:51 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: ZaB6_bRPx6nb9FXwAAA1] 
+20.3.2023, 16:04:13 - INFO - New connected socket [id: u2guzhSMLVBxViVGAAA3] 
+20.3.2023, 16:04:13 - INFO - New connected socket [id: oRB9d3l08B2rmU6VAAA5] 
+20.3.2023, 16:04:14 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: u2guzhSMLVBxViVGAAA3] 
+20.3.2023, 16:04:14 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: oRB9d3l08B2rmU6VAAA5] 
+20.3.2023, 16:04:28 - INFO - New connected socket [id: Hp9ixwFrHJhh09siAAA7] 
+20.3.2023, 16:04:28 - INFO - New connected socket [id: 4NboY8KjrLgt2uHMAAA9] 
+20.3.2023, 16:04:28 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: Hp9ixwFrHJhh09siAAA7] 
+20.3.2023, 16:04:28 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: 4NboY8KjrLgt2uHMAAA9] 
+20.3.2023, 16:04:37 - INFO - New connected socket [id: h_d7r44kkZ85Gz31AAA_] 
+20.3.2023, 16:04:37 - INFO - New connected socket [id: eExLOPQghnqyNgSNAABB] 
+20.3.2023, 16:04:37 - INFO - New connected socket [id: M-kqGNPKJKcMllxWAABD] 
+20.3.2023, 16:04:37 - INFO - New connected socket [id: ZYZ473vAoUiPsYhKAABF] 
+20.3.2023, 16:04:37 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: h_d7r44kkZ85Gz31AAA_] 
+20.3.2023, 16:04:37 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: eExLOPQghnqyNgSNAABB] 
+20.3.2023, 16:04:38 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: M-kqGNPKJKcMllxWAABD] 
+20.3.2023, 16:04:38 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: ZYZ473vAoUiPsYhKAABF] 
+20.3.2023, 16:06:51 - INFO - App listening on port 3030! 
+20.3.2023, 16:06:52 - INFO - New connected socket [id: zJgzZA-iNOr81WfGAAAB] 
+20.3.2023, 16:06:52 - INFO - New connected socket [id: Y3wH8rOM69jaZSKcAAAD] 
+20.3.2023, 16:06:52 - INFO - New connected socket [id: Cu06khHLJ7kiVbPaAAAF] 
+20.3.2023, 16:06:52 - INFO - New connected socket [id: lYg3Nip47WH-qI2eAAAH] 
+20.3.2023, 16:06:52 - INFO - New connected socket [id: 3gualWctDjtOkq_lAAAJ] 
+20.3.2023, 16:06:53 - INFO - New connected socket [id: V0A9f77d8DSFuIDSAAAL] 
+20.3.2023, 16:06:53 - INFO - New connected socket [id: zt_l68znAKqeDhmVAAAN] 
+20.3.2023, 16:06:54 - INFO - New connected socket [id: iZvg9PPrznmF_iUdAAAP] 
+20.3.2023, 16:06:54 - INFO - New connected socket [id: Wu6cPDAq8BEMN2DJAAAR] 
+20.3.2023, 16:06:55 - INFO - New connected socket [id: KgtjMRcD2ij_VLL8AAAT] 
+20.3.2023, 16:06:55 - INFO - New connected socket [id: -A4Y2dINNp-IHBnDAAAV] 
+20.3.2023, 16:07:06 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 16:07:06 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 16:07:06 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 16:07:06 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 16:07:06 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 16:07:08 - DEBUG - Getting Toys 
+20.3.2023, 16:07:09 - INFO - Req was made 
+20.3.2023, 16:07:09 - INFO - New connected socket [id: xvkZZ1CJ14iRk6L1AAAX] 
+20.3.2023, 16:07:09 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: xvkZZ1CJ14iRk6L1AAAX] 
+20.3.2023, 16:09:34 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 16:09:37 - DEBUG - Getting Toys 
+20.3.2023, 16:09:37 - INFO - Req was made 
+20.3.2023, 16:09:37 - INFO - New connected socket [id: wCZz67Rojc3M8_nyAAAZ] 
+20.3.2023, 16:09:38 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: wCZz67Rojc3M8_nyAAAZ] 
+20.3.2023, 16:17:42 - INFO - App listening on port 3030! 
+20.3.2023, 16:17:43 - INFO - New connected socket [id: yGBuf2dzyD_jGDvxAAAC] 
+20.3.2023, 16:17:43 - INFO - New connected socket [id: lgKXGFMEjoUC6FG6AAAE] 
+20.3.2023, 16:17:43 - INFO - New connected socket [id: CvOIykpo4TGoE7DCAAAF] 
+20.3.2023, 16:17:43 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: yGBuf2dzyD_jGDvxAAAC] 
+20.3.2023, 16:17:44 - INFO - New connected socket [id: cgFHL0sYB_P0KlrMAAAH] 
+20.3.2023, 16:17:45 - INFO - New connected socket [id: pENlvJGQcDaVEhKgAAAJ] 
+20.3.2023, 16:17:45 - INFO - New connected socket [id: 0BjDvXdoB4uCMMdjAAAL] 
+20.3.2023, 16:17:46 - INFO - New connected socket [id: QCOngI58ujB4KWjpAAAN] 
+20.3.2023, 16:18:16 - INFO - App listening on port 3030! 
+20.3.2023, 16:18:16 - INFO - New connected socket [id: SVG-LPG7XTBGrxwvAAAB] 
+20.3.2023, 16:18:17 - INFO - New connected socket [id: M7vJ0XPtJEvF3etOAAAD] 
+20.3.2023, 16:18:17 - INFO - New connected socket [id: IATUOYDY7Ha7UsgiAAAF] 
+20.3.2023, 16:18:17 - INFO - New connected socket [id: qldzBqDxRNijFYWvAAAH] 
+20.3.2023, 16:18:19 - INFO - New connected socket [id: HS_Wc3sJGd9YEi-CAAAJ] 
+20.3.2023, 16:18:21 - INFO - New connected socket [id: IFQHe8Yr7EVKeOMSAAAL] 
+20.3.2023, 16:18:21 - INFO - New connected socket [id: _lw2gghkPRKdfGEcAAAN] 
+20.3.2023, 16:19:11 - INFO - App listening on port 3030! 
+20.3.2023, 16:19:11 - INFO - New connected socket [id: pqDk_zPQ7SyniYdrAAAC] 
+20.3.2023, 16:19:11 - INFO - New connected socket [id: HiPtSkVCQ0nKPkEzAAAE] 
+20.3.2023, 16:19:11 - INFO - New connected socket [id: teSTqAXGAIgjTqAjAAAF] 
+20.3.2023, 16:19:11 - INFO - New connected socket [id: iMPoMIZXc7FxESDiAAAH] 
+20.3.2023, 16:19:12 - INFO - New connected socket [id: xDhuDiTwcCAwmJhRAAAJ] 
+20.3.2023, 16:19:13 - INFO - New connected socket [id: qMIn5SoIYpM2-MKCAAAL] 
+20.3.2023, 16:19:14 - INFO - New connected socket [id: jUS90AVqll4iBtSGAAAN] 
+20.3.2023, 16:19:16 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 16:19:18 - DEBUG - Getting Toys 
+20.3.2023, 16:19:18 - INFO - New connected socket [id: VMdYtvgcVqVao43mAAAP] 
+20.3.2023, 16:19:19 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: VMdYtvgcVqVao43mAAAP] 
+20.3.2023, 16:19:24 - INFO - Req was made 
+20.3.2023, 16:19:27 - INFO - Req was made 
+20.3.2023, 16:20:02 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 16:20:02 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 16:20:02 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 16:20:02 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 16:20:02 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 16:20:02 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 16:20:03 - DEBUG - Getting Toys 
+20.3.2023, 16:20:03 - INFO - Req was made 
+20.3.2023, 16:20:03 - INFO - New connected socket [id: WrEfMckJ_Y2SYjuhAAAR] 
+20.3.2023, 16:20:04 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: WrEfMckJ_Y2SYjuhAAAR] 
+20.3.2023, 16:22:08 - INFO - App listening on port 3030! 
+20.3.2023, 16:22:09 - INFO - New connected socket [id: 9hFZrL4PhWxrn0AhAAAB] 
+20.3.2023, 16:22:09 - INFO - New connected socket [id: PB_eQASULUwb3YdvAAAD] 
+20.3.2023, 16:22:37 - INFO - App listening on port 3030! 
+20.3.2023, 16:22:38 - INFO - New connected socket [id: qRcae8tSEc-2apwjAAAB] 
+20.3.2023, 16:22:39 - INFO - New connected socket [id: kC4JscVuBNPub8irAAAD] 
+20.3.2023, 16:22:40 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 16:22:42 - DEBUG - Getting Toys 
+20.3.2023, 16:22:42 - INFO - Req was made 
+20.3.2023, 16:22:42 - INFO - New connected socket [id: s_8Hc1mCEuuMiIDTAAAF] 
+20.3.2023, 16:22:43 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: s_8Hc1mCEuuMiIDTAAAF] 
+20.3.2023, 16:22:46 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 16:22:46 - DEBUG - Getting Toys 
+20.3.2023, 16:22:47 - INFO - Req was made 
+20.3.2023, 16:22:47 - INFO - New connected socket [id: WG1f8cLTFmJd_PKxAAAH] 
+20.3.2023, 16:22:47 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: WG1f8cLTFmJd_PKxAAAH] 
+20.3.2023, 16:23:03 - INFO - App listening on port 3030! 
+20.3.2023, 16:23:03 - INFO - New connected socket [id: IbAOAM4-GpmOl4q1AAAB] 
+20.3.2023, 16:23:06 - INFO - New connected socket [id: gYedyS7czT1vOYWpAAAD] 
+20.3.2023, 16:23:13 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 16:23:14 - DEBUG - Getting Toys 
+20.3.2023, 16:23:14 - INFO - New connected socket [id: WnCAkalqg-vIbmpkAAAF] 
+20.3.2023, 16:23:14 - INFO - Req was made 
+20.3.2023, 16:23:14 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: WnCAkalqg-vIbmpkAAAF] 
+20.3.2023, 16:23:16 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 16:23:17 - DEBUG - Getting Toys 
+20.3.2023, 16:23:17 - INFO - Req was made 
+20.3.2023, 16:23:17 - INFO - New connected socket [id: JwS0UmR-8fxM2JtnAAAH] 
+20.3.2023, 16:23:18 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: JwS0UmR-8fxM2JtnAAAH] 
+20.3.2023, 16:23:29 - INFO - App listening on port 3030! 
+20.3.2023, 16:23:30 - INFO - New connected socket [id: _wXxaVrlwBc644MhAAAB] 
+20.3.2023, 16:23:30 - INFO - New connected socket [id: ak9hW9tkZEkWzuoIAAAD] 
+20.3.2023, 16:26:38 - INFO - App listening on port 3030! 
+20.3.2023, 16:26:40 - DEBUG - Getting Toys 
+20.3.2023, 16:26:41 - INFO - Req was made 
+20.3.2023, 16:26:41 - INFO - New connected socket [id: dOl8HcdcnoK9lkfKAAAB] 
+20.3.2023, 16:26:41 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: dOl8HcdcnoK9lkfKAAAB] 
+20.3.2023, 16:26:42 - INFO - New connected socket [id: y-KAlAv8rY4Sc6QzAAAD] 
+20.3.2023, 16:31:39 - INFO - App listening on port 3030! 
+20.3.2023, 16:31:39 - INFO - New connected socket [id: B_VzvZEB872w-EJVAAAB] 
+20.3.2023, 16:31:39 - INFO - New connected socket [id: wdqWaIcX2MR_DBm0AAAD] 
+20.3.2023, 16:31:47 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 16:31:49 - DEBUG - Getting Toys 
+20.3.2023, 16:31:49 - INFO - Req was made 
+20.3.2023, 16:31:50 - INFO - New connected socket [id: yRbMlZeS8YbxZcoSAAAF] 
+20.3.2023, 16:31:50 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: yRbMlZeS8YbxZcoSAAAF] 
+20.3.2023, 16:31:57 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 16:31:58 - DEBUG - Getting Toys 
+20.3.2023, 16:31:58 - INFO - Req was made 
+20.3.2023, 16:31:58 - INFO - New connected socket [id: 7SGSpHp7X7BjInW8AAAH] 
+20.3.2023, 16:31:59 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: 7SGSpHp7X7BjInW8AAAH] 
+20.3.2023, 16:32:29 - INFO - App listening on port 3030! 
+20.3.2023, 16:32:30 - INFO - New connected socket [id: VTgC_U4d7dBGs_IFAAAB] 
+20.3.2023, 16:32:31 - INFO - New connected socket [id: -s2dN2BWRxFqfjQjAAAD] 
+20.3.2023, 16:33:07 - INFO - App listening on port 3030! 
+20.3.2023, 16:33:07 - INFO - New connected socket [id: iJhys7Ls6EfdsuRfAAAB] 
+20.3.2023, 16:33:09 - DEBUG - Getting Toys 
+20.3.2023, 16:33:09 - INFO - Req was made 
+20.3.2023, 16:33:10 - INFO - New connected socket [id: o0NN_gFc64REyhzqAAAD] 
+20.3.2023, 16:33:10 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: o0NN_gFc64REyhzqAAAD] 
+20.3.2023, 16:38:04 - INFO - App listening on port 3030! 
+20.3.2023, 16:38:05 - INFO - New connected socket [id: OArh6ZUpNvbGMbcKAAAB] 
+20.3.2023, 16:38:09 - INFO - New connected socket [id: MwuX_GMlQkL4hgsNAAAD] 
+20.3.2023, 16:38:45 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 16:38:47 - DEBUG - Getting Toys 
+20.3.2023, 16:38:47 - INFO - Req was made 
+20.3.2023, 16:38:47 - INFO - New connected socket [id: n6zxRbRsPLo_XD0yAAAF] 
+20.3.2023, 16:38:47 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: n6zxRbRsPLo_XD0yAAAF] 
+20.3.2023, 16:46:34 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 16:46:37 - DEBUG - Getting Toys 
+20.3.2023, 16:46:37 - INFO - Req was made 
+20.3.2023, 16:46:37 - INFO - New connected socket [id: prcCcBwSsvxQeSPDAAAH] 
+20.3.2023, 16:46:38 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 16:46:39 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: prcCcBwSsvxQeSPDAAAH] 
+20.3.2023, 16:46:41 - DEBUG - Getting Toys 
+20.3.2023, 16:46:41 - INFO - Req was made 
+20.3.2023, 16:46:41 - INFO - New connected socket [id: SWXWVeGiQ95QSzb9AAAJ] 
+20.3.2023, 16:46:42 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: SWXWVeGiQ95QSzb9AAAJ] 
+20.3.2023, 16:54:19 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 16:54:20 - DEBUG - Getting Toys 
+20.3.2023, 16:54:21 - INFO - Req was made 
+20.3.2023, 16:54:21 - INFO - New connected socket [id: TXxAmOZFRsLzixQwAAAL] 
+20.3.2023, 16:54:21 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: TXxAmOZFRsLzixQwAAAL] 
+20.3.2023, 17:11:10 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 17:11:12 - DEBUG - Getting Toys 
+20.3.2023, 17:11:12 - INFO - Req was made 
+20.3.2023, 17:11:13 - INFO - New connected socket [id: nDZO3Knc4I0ntjCiAAAN] 
+20.3.2023, 17:11:13 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: nDZO3Knc4I0ntjCiAAAN] 
+20.3.2023, 17:12:18 - INFO - New chat msg from socket [id: nDZO3Knc4I0ntjCiAAAN], emitting to topic  
+20.3.2023, 17:14:45 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 17:14:47 - DEBUG - Getting Toys 
+20.3.2023, 17:14:47 - INFO - Req was made 
+20.3.2023, 17:14:48 - INFO - New connected socket [id: F65RGF4-jIRDeA_7AAAP] 
+20.3.2023, 17:14:49 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: F65RGF4-jIRDeA_7AAAP] 
+20.3.2023, 17:14:51 - INFO - Req was made 
+20.3.2023, 17:15:01 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 17:15:03 - DEBUG - Getting Toys 
+20.3.2023, 17:15:03 - INFO - Req was made 
+20.3.2023, 17:15:03 - INFO - New connected socket [id: v3d9rbPMdyKFq-WqAAAR] 
+20.3.2023, 17:15:04 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: v3d9rbPMdyKFq-WqAAAR] 
+20.3.2023, 17:15:24 - INFO - Req was made 
+20.3.2023, 17:17:28 - INFO - New chat msg from socket [id: v3d9rbPMdyKFq-WqAAAR], emitting to topic  
+20.3.2023, 17:19:53 - INFO - Req was made 
+20.3.2023, 17:19:53 - INFO - Req was made 
+20.3.2023, 17:23:33 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 17:23:36 - DEBUG - Getting Toys 
+20.3.2023, 17:23:36 - INFO - Req was made 
+20.3.2023, 17:23:37 - INFO - New connected socket [id: SREvHwLgDKA9Pp_XAAAT] 
+20.3.2023, 17:23:38 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: SREvHwLgDKA9Pp_XAAAT] 
+20.3.2023, 17:26:38 - INFO - New chat msg from socket [id: SREvHwLgDKA9Pp_XAAAT], emitting to topic  
+20.3.2023, 17:32:54 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 17:32:56 - DEBUG - Getting Toys 
+20.3.2023, 17:32:56 - INFO - Req was made 
+20.3.2023, 17:32:56 - INFO - New connected socket [id: gfGSu8yGTg2J2Y49AAAV] 
+20.3.2023, 17:32:57 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: gfGSu8yGTg2J2Y49AAAV] 
+20.3.2023, 17:35:46 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 17:35:47 - DEBUG - Getting Toys 
+20.3.2023, 17:35:47 - INFO - Req was made 
+20.3.2023, 17:35:47 - INFO - New connected socket [id: Co8YEO5m-z8YsPa1AAAX] 
+20.3.2023, 17:35:48 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: Co8YEO5m-z8YsPa1AAAX] 
+20.3.2023, 17:36:05 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 17:36:07 - DEBUG - Getting Toys 
+20.3.2023, 17:36:07 - INFO - Req was made 
+20.3.2023, 17:36:07 - INFO - New connected socket [id: ivHNmWicNlA6R2wvAAAZ] 
+20.3.2023, 17:36:08 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: ivHNmWicNlA6R2wvAAAZ] 
+20.3.2023, 17:37:20 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 17:37:22 - DEBUG - Getting Toys 
+20.3.2023, 17:37:22 - INFO - Req was made 
+20.3.2023, 17:37:22 - INFO - New connected socket [id: WVMi4f1CUYVBjZkPAAAb] 
+20.3.2023, 17:37:23 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: WVMi4f1CUYVBjZkPAAAb] 
+20.3.2023, 17:38:07 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 17:38:10 - DEBUG - Getting Toys 
+20.3.2023, 17:38:10 - INFO - Req was made 
+20.3.2023, 17:38:10 - INFO - New connected socket [id: hDOHaZM3XMyvBHJBAAAd] 
+20.3.2023, 17:38:11 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: hDOHaZM3XMyvBHJBAAAd] 
+20.3.2023, 17:38:37 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 17:38:40 - DEBUG - Getting Toys 
+20.3.2023, 17:38:40 - INFO - Req was made 
+20.3.2023, 17:38:40 - INFO - New connected socket [id: dmT0d9ouOZ6VLzP6AAAf] 
+20.3.2023, 17:38:42 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: dmT0d9ouOZ6VLzP6AAAf] 
+20.3.2023, 17:38:53 - INFO - New chat msg from socket [id: dmT0d9ouOZ6VLzP6AAAf], emitting to topic  
+20.3.2023, 17:38:55 - INFO - New chat msg from socket [id: dmT0d9ouOZ6VLzP6AAAf], emitting to topic  
+20.3.2023, 17:39:09 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 17:39:11 - DEBUG - Getting Toys 
+20.3.2023, 17:39:11 - INFO - Req was made 
+20.3.2023, 17:39:11 - INFO - New connected socket [id: 3z-oQf4Y7YBw8OMoAAAh] 
+20.3.2023, 17:39:11 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: 3z-oQf4Y7YBw8OMoAAAh] 
+20.3.2023, 17:41:40 - INFO - New chat msg from socket [id: 3z-oQf4Y7YBw8OMoAAAh], emitting to topic  
+20.3.2023, 17:42:07 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 17:42:08 - DEBUG - Getting Toys 
+20.3.2023, 17:42:08 - INFO - Req was made 
+20.3.2023, 17:42:08 - INFO - New connected socket [id: OLxISWxWWwxw1mEqAAAj] 
+20.3.2023, 17:42:09 - INFO - Setting socket.userId = 641492eedd4544806fdd2150 for socket [id: OLxISWxWWwxw1mEqAAAj] 
+20.3.2023, 17:42:21 - INFO - New chat msg from socket [id: OLxISWxWWwxw1mEqAAAj], emitting to topic  
+20.3.2023, 17:42:23 - INFO - New chat msg from socket [id: OLxISWxWWwxw1mEqAAAj], emitting to topic  
+20.3.2023, 17:42:27 - INFO - New chat msg from socket [id: OLxISWxWWwxw1mEqAAAj], emitting to topic  
+20.3.2023, 17:45:03 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 17:45:06 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 17:45:29 - DEBUG - Getting Toys 
+20.3.2023, 17:45:30 - INFO - New connected socket [id: GZ7OB9Xaw4wcEu6iAAAl] 
+20.3.2023, 17:45:38 - INFO - Req was made 
+20.3.2023, 17:45:41 - INFO - Req was made 
+20.3.2023, 17:46:08 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 17:46:09 - DEBUG - Getting Toys 
+20.3.2023, 17:46:09 - INFO - Req was made 
+20.3.2023, 17:46:09 - INFO - New connected socket [id: I0YK7uLFXqGspUFJAAAn] 
+20.3.2023, 17:46:39 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 17:46:39 - DEBUG - Getting Toys 
+20.3.2023, 17:46:39 - INFO - New connected socket [id: JSjp4nK02zrye4bXAAAp] 
+20.3.2023, 17:46:41 - INFO - Req was made 
+20.3.2023, 17:47:00 - INFO - Req was made 
+20.3.2023, 17:47:05 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 17:47:05 - DEBUG - Getting Toys 
+20.3.2023, 17:47:05 - INFO - Req was made 
+20.3.2023, 17:47:05 - INFO - New connected socket [id: Cu7C4nwWGlQev6vxAAAr] 
+20.3.2023, 17:47:08 - INFO - Req was made 
+20.3.2023, 17:47:23 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 17:47:24 - DEBUG - Getting Toys 
+20.3.2023, 17:47:24 - INFO - New connected socket [id: GdmU4L-cEhz0fHiuAAAt] 
+20.3.2023, 17:47:26 - INFO - Req was made 
+20.3.2023, 17:47:28 - INFO - Req was made 
+20.3.2023, 17:48:00 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 17:48:18 - DEBUG - Getting Toys 
+20.3.2023, 17:48:18 - INFO - Req was made 
+20.3.2023, 17:48:18 - INFO - New connected socket [id: 8A-nLEUJo_hoeo4JAAAv] 
+20.3.2023, 17:48:21 - INFO - Req was made 
+20.3.2023, 17:49:48 - INFO - Req was made 
+20.3.2023, 17:50:36 - INFO - Req was made 
+20.3.2023, 17:50:38 - INFO - Req was made 
+20.3.2023, 17:50:39 - INFO - Req was made 
+20.3.2023, 18:02:07 - INFO - Socket disconnected [id: undefined] 
+20.3.2023, 18:02:09 - INFO - New connected socket [id: HFGRfJbevCPbp0ktAAAx] 
+20.3.2023, 18:02:09 - DEBUG - Getting Toys 
+20.3.2023, 18:02:09 - INFO - Req was made 
+21.3.2023, 9:42:37 - INFO - Req was made 
+21.3.2023, 10:16:01 - INFO - Socket disconnected [id: undefined] 
+23.4.2023, 13:17:10 - INFO - App listening on port 3030! 
+23.4.2023, 13:17:25 - DEBUG - Getting Toys 
+23.4.2023, 13:17:25 - INFO - New connected socket [id: z4jzgnshdCHMoR5UAAAB] 
+23.4.2023, 13:17:31 - DEBUG - Getting Toys 
+23.4.2023, 13:17:31 - INFO - New connected socket [id: NSBZdgpxMDGbGPSvAAAD] 
+23.4.2023, 13:17:38 - INFO - Req was made 
+23.4.2023, 13:17:59 - DEBUG - auth.service - login with username: liorD 
+23.4.2023, 13:17:59 - INFO - User login:  | {"_id":"641492eedd4544806fdd2150","username":"liorD","fullname":"Lior Doron","isAdmin":true} 
+23.4.2023, 13:18:03 - INFO - Req was made 
+23.4.2023, 13:18:26 - INFO - Req was made 
+23.4.2023, 13:18:26 - INFO - Req was made 
+23.4.2023, 13:18:39 - INFO - Req was made 
+23.4.2023, 13:18:45 - DEBUG - Getting Toys 
+23.4.2023, 13:18:59 - INFO - Req was made 
+23.4.2023, 13:19:02 - INFO - Req was made 
+23.4.2023, 13:35:00 - INFO - Socket disconnected [id: undefined] 
+23.4.2023, 13:58:52 - INFO - App listening on port 3030! 
+23.4.2023, 13:58:52 - DEBUG - Getting Toys 
+23.4.2023, 13:58:53 - INFO - New connected socket [id: FImjRHKTFb81wfydAAAB] 
+23.4.2023, 13:58:54 - INFO - New connected socket [id: lnm89RFjmo8RZVAbAAAD] 
+23.4.2023, 13:59:20 - INFO - App listening on port 3030! 
+23.4.2023, 13:59:21 - INFO - New connected socket [id: xuByg3lupO0ZEuATAAAB] 
+23.4.2023, 13:59:23 - INFO - New connected socket [id: AVkSxvaKmoNCqJLVAAAD] 
+23.4.2023, 14:02:41 - INFO - App listening on port 3030! 
+23.4.2023, 14:02:42 - INFO - New connected socket [id: w5D47QoWm7ty0MPEAAAB] 
+23.4.2023, 14:02:43 - INFO - New connected socket [id: O9Q5rt_l2w05BOMnAAAD] 
+23.4.2023, 14:03:00 - INFO - App listening on port 3030! 
+23.4.2023, 14:03:00 - INFO - New connected socket [id: 8duJ6ARe6U_eXfZxAAAC] 
+23.4.2023, 14:03:00 - INFO - New connected socket [id: NmZ55GfGHJ8-_vvyAAAD] 
+23.4.2023, 14:05:22 - INFO - App listening on port 3030! 
+23.4.2023, 14:05:22 - INFO - New connected socket [id: Woh1hWz-sXf9M94ZAAAC] 
+23.4.2023, 14:05:22 - INFO - New connected socket [id: DUoPbfhNxx1VBCoEAAAD] 

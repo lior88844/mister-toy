@@ -1,4 +1,9 @@
+require('dotenv').config()
+
 module.exports = {
-  dbURL: 'mongodb+srv://theUser:thePass@cluster0-klgzh.mongodb.net/test?retryWrites=true&w=majority',
+  // dbURL: process.env.ATLAS_URL,
+  dbURL: 'mongodb+srv://mister_toy:1234@cluster0.ycjq23s.mongodb.net/?retryWrites=true&w=majority',
+  // dbName: process.env.ATLAS_DB_NAME
   dbName: 'toy_db'
 }
+
